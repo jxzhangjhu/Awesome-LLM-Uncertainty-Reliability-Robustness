@@ -69,41 +69,56 @@ arXiv 2022. [[Paper](https://arxiv.org/abs/2101.03288)] \
 
 **Holistic Evaluation of Language Models** \
 *Percy Liang, Rishi Bommasani, Tony Lee, Dimitris Tsipras, Dilara Soylu, Michihiro Yasunaga, Yian Zhang, Deepak Narayanan, Yuhuai Wu, Ananya Kumar, Benjamin Newman, Binhang Yuan, Bobby Yan, Ce Zhang, Christian Cosgrove, Christopher D. Manning, Christopher Ré, Diana Acosta-Navas, Drew A. Hudson, Eric Zelikman, Esin Durmus, Faisal Ladhak, Frieda Rong, Hongyu Ren, Huaxiu Yao, Jue Wang, Keshav Santhanam, Laurel Orr, Lucia Zheng, Mert Yuksekgonul, Mirac Suzgun, Nathan Kim, Neel Guha, Niladri Chatterji, Omar Khattab, Peter Henderson, Qian Huang, Ryan Chi, Sang Michael Xie, Shibani Santurkar, Surya Ganguli, Tatsunori Hashimoto, Thomas Icard, Tianyi Zhang, Vishrav Chaudhary, William Wang, Xuechen Li, Yifan Mai, Yuhui Zhang, Yuta Koreeda* \
-arXiv 2022. [[Paper](https://arxiv.org/abs/2211.09110)] [[Website](https://crfm.stanford.edu/helm/latest/)] \
+[[Paper](https://arxiv.org/abs/2211.09110)] [[Website](https://crfm.stanford.edu/helm/latest/)] [[Github](https://github.com/stanford-crfm/helm)] [[Blog](https://crfm.stanford.edu/2022/11/17/helm.html)]
 16 Nov 2022
+
+**Prompting GPT-3 To Be Reliable** \
+*Chenglei Si, Zhe Gan, Zhengyuan Yang, Shuohang Wang, Jianfeng Wang, Jordan Boyd-Graber, Lijuan Wang* \
+[[Paper](https://arxiv.org/abs/2210.09150)] [[Github](https://github.com/NoviScl/GPT3-Reliability)] \
+17 Oct 2022
+
+
 
 
 
 ## Reliability
-### Generation
+### Uncertainty Estimation
 
 **LDMVFI: Video Frame Interpolation with Latent Diffusion Models** \
 *Duolikun Danier, Fan Zhang, David Bull* \
 arXiv 2023. [[Paper](https://arxiv.org/abs/2303.09508)] \
 16 Mar 2023
 
-### Segmentation
+### Calibration
 
 **LDMVFI: Video Frame Interpolation with Latent Diffusion Models** \
 *Duolikun Danier, Fan Zhang, David Bull* \
 arXiv 2023. [[Paper](https://arxiv.org/abs/2303.09508)] \
 16 Mar 2023
+
+### Ambiguity 
+
+### Hallucination
 
 
 ## Robustness
-### Generation
+### Invariance
 
 **LDMVFI: Video Frame Interpolation with Latent Diffusion Models** \
 *Duolikun Danier, Fan Zhang, David Bull* \
 arXiv 2023. [[Paper](https://arxiv.org/abs/2303.09508)] \
 16 Mar 2023
 
-### Conversion
+### Distribution Shift
 
 **LDMVFI: Video Frame Interpolation with Latent Diffusion Models** \
 *Duolikun Danier, Fan Zhang, David Bull* \
 arXiv 2023. [[Paper](https://arxiv.org/abs/2303.09508)] \
 16 Mar 2023
 
+
+### Generalization
+
+### Adversarial 
 
 
