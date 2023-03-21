@@ -1,4 +1,4 @@
-# Awesome-LLM-Reliability-Robustness
+# Awesome-LLM-Reliability-Robustness-Safety
 <!-- Awesome-LLM-Robustness: a curated list of Robustness, Reliability and Safety in Large Language Models -->
 
 \
@@ -6,9 +6,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Made With Love](https://img.shields.io/badge/Made%20With-Love-red.svg)](https://github.com/chetanraj/awesome-github-badges)
 
-This repository contains a collection of resources and papers on **Reliability** and **Robustness** in **Large Language Models (LLMs)**.
+This repository contains a collection of resources and papers on **Reliability**, **Robustness**  and **Safety** in **Large Language Models (LLMs)**.
 
-## Contents
+<!-- ## Contents
 - [Resources](#resources)
   - [Introductory Posts](#introductory-posts)
   - [Introductory Papers](#introductory-papers)
@@ -59,7 +59,7 @@ arXiv 2022. [[Paper](https://arxiv.org/abs/2101.03288)] \
 **diffusion-for-beginners** \
 
 ## Tutorial and Jupyter Notebook
-**diffusion-for-beginners** \
+**diffusion-for-beginners** \ -->
 
 
 
@@ -69,12 +69,13 @@ arXiv 2022. [[Paper](https://arxiv.org/abs/2101.03288)] \
 
 **Holistic Evaluation of Language Models** \
 *Percy Liang, Rishi Bommasani, Tony Lee, Dimitris Tsipras, Dilara Soylu, Michihiro Yasunaga, Yian Zhang, Deepak Narayanan, Yuhuai Wu, Ananya Kumar, Benjamin Newman, Binhang Yuan, Bobby Yan, Ce Zhang, Christian Cosgrove, Christopher D. Manning, Christopher Ré, Diana Acosta-Navas, Drew A. Hudson, Eric Zelikman, Esin Durmus, Faisal Ladhak, Frieda Rong, Hongyu Ren, Huaxiu Yao, Jue Wang, Keshav Santhanam, Laurel Orr, Lucia Zheng, Mert Yuksekgonul, Mirac Suzgun, Nathan Kim, Neel Guha, Niladri Chatterji, Omar Khattab, Peter Henderson, Qian Huang, Ryan Chi, Sang Michael Xie, Shibani Santurkar, Surya Ganguli, Tatsunori Hashimoto, Thomas Icard, Tianyi Zhang, Vishrav Chaudhary, William Wang, Xuechen Li, Yifan Mai, Yuhui Zhang, Yuta Koreeda* \
-[[Paper](https://arxiv.org/abs/2211.09110)] [[Website](https://crfm.stanford.edu/helm/latest/)] [[Github](https://github.com/stanford-crfm/helm)] [[Blog](https://crfm.stanford.edu/2022/11/17/helm.html)]
+arXiv 2022. [[Paper](https://arxiv.org/abs/2211.09110)] [[Website](https://crfm.stanford.edu/helm/latest/)] [[Github](https://github.com/stanford-crfm/helm)] [[Blog](https://crfm.stanford.edu/2022/11/17/helm.html)] \
+
 16 Nov 2022
 
 **Prompting GPT-3 To Be Reliable** \
 *Chenglei Si, Zhe Gan, Zhengyuan Yang, Shuohang Wang, Jianfeng Wang, Jordan Boyd-Graber, Lijuan Wang* \
-[[Paper](https://arxiv.org/abs/2210.09150)] [[Github](https://github.com/NoviScl/GPT3-Reliability)] \
+ICLR 2023. [[Paper](https://arxiv.org/abs/2210.09150)] [[Github](https://github.com/NoviScl/GPT3-Reliability)] \
 17 Oct 2022
 
 
@@ -84,10 +85,10 @@ arXiv 2022. [[Paper](https://arxiv.org/abs/2101.03288)] \
 ## Reliability
 ### Uncertainty Estimation
 
-**LDMVFI: Video Frame Interpolation with Latent Diffusion Models** \
-*Duolikun Danier, Fan Zhang, David Bull* \
-arXiv 2023. [[Paper](https://arxiv.org/abs/2303.09508)] \
-16 Mar 2023
+**Teaching Models to Express Their Uncertainty in Words** \
+*Stephanie Lin, Jacob Hilton, Owain Evans* \
+TMLR 2022. [[Paper](https://arxiv.org/abs/2205.14334)] [[Github](https://github.com/sylinrl/CalibratedMath)] [[TMLR](https://openreview.net/forum?id=8s8K2UZGTZ)] [[Slide](https://owainevans.github.io/pdfs/chai_calibration_owain.pdf)]\
+28 May 2022
 
 ### Calibration
 
@@ -97,6 +98,12 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2303.09508)] \
 16 Mar 2023
 
 ### Ambiguity 
+
+**CLAM: Selective Clarification for Ambiguous Questions with Generative Language Models** \
+*Lorenz Kuhn, Yarin Gal, Sebastian Farquhar* \
+arXiv 2022. [[Paper](https://arxiv.org/abs/2303.09508)] \
+15 Dec 2022
+
 
 ### Hallucination
 
@@ -120,5 +127,17 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2303.09508)] \
 ### Generalization
 
 ### Adversarial 
+
+
+
+## Safety
+
+
+
+
+# Research Team & Reseachers 
+
+- [Owain Evans](https://owainevans.github.io/) 
+> Research Associate in Artificial Intelligence, University of Oxford
 
 
