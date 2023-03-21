@@ -30,7 +30,6 @@ This repository contains a collection of resources and papers on **Reliability**
 # Resources
 ## Introductory Posts
 
-
 **How diffusion models work: the math from scratch** \
 *Sergios Karagiannakos,Nikolas Adaloglou* \
 [[Website](https://theaisummer.com/diffusion-models/?fbclid=IwAR1BIeNHqa3NtC8SL0sKXHATHklJYphNH-8IGNoO3xZhSKM_GYcvrrQgB0o)] \
@@ -66,14 +65,16 @@ arXiv 2022. [[Paper](https://arxiv.org/abs/2101.03288)] \
 
 # Papers
 
-## Survey
+## Evaluation
 
-**Diffusion Models: A Comprehensive Survey of Methods and Applications** \
-*Ling Yang<sup>1</sup>, Zhilong Zhang<sup>1</sup>, Shenda Hong, Wentao Zhang* \
-arXiv 2022. [[Paper](https://arxiv.org/abs/2209.00796)] \
-2 Sep 2022
+**Holistic Evaluation of Language Models** \
+*Percy Liang, Rishi Bommasani, Tony Lee, Dimitris Tsipras, Dilara Soylu, Michihiro Yasunaga, Yian Zhang, Deepak Narayanan, Yuhuai Wu, Ananya Kumar, Benjamin Newman, Binhang Yuan, Bobby Yan, Ce Zhang, Christian Cosgrove, Christopher D. Manning, Christopher Ré, Diana Acosta-Navas, Drew A. Hudson, Eric Zelikman, Esin Durmus, Faisal Ladhak, Frieda Rong, Hongyu Ren, Huaxiu Yao, Jue Wang, Keshav Santhanam, Laurel Orr, Lucia Zheng, Mert Yuksekgonul, Mirac Suzgun, Nathan Kim, Neel Guha, Niladri Chatterji, Omar Khattab, Peter Henderson, Qian Huang, Ryan Chi, Sang Michael Xie, Shibani Santurkar, Surya Ganguli, Tatsunori Hashimoto, Thomas Icard, Tianyi Zhang, Vishrav Chaudhary, William Wang, Xuechen Li, Yifan Mai, Yuhui Zhang, Yuta Koreeda* \
+arXiv 2022. [[Paper](https://arxiv.org/abs/2211.09110)] [[Website](https://crfm.stanford.edu/helm/latest/)] \
+16 Nov 2022
 
-## Vision
+
+
+## Reliability
 ### Generation
 
 **LDMVFI: Video Frame Interpolation with Latent Diffusion Models** \
