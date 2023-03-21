@@ -1,12 +1,12 @@
-# Awesome-LLM-Robustness
-Awesome-LLM-Robustness: a curated list of Robustness, Reliability and Safety in Large Language Models
+# Awesome-LLM-Reliability-Robustness
+<!-- Awesome-LLM-Robustness: a curated list of Robustness, Reliability and Safety in Large Language Models -->
 
 \
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/hee9joon/Awesome-Diffusion-Models) 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Made With Love](https://img.shields.io/badge/Made%20With-Love-red.svg)](https://github.com/chetanraj/awesome-github-badges)
 
-This repository contains a collection of resources and papers on ***Diffusion Models***.
+This repository contains a collection of resources and papers on Reliability, Robustness and Safety in ***Large Language Models***.
 
 ## Contents
 - [Resources](#resources)
