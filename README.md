@@ -92,10 +92,6 @@ TMLR 2022. [[Paper](https://arxiv.org/abs/2205.14334)] [[Github](https://github.
 
 ### Calibration
 
-**LDMVFI: Video Frame Interpolation with Latent Diffusion Models** \
-*Duolikun Danier, Fan Zhang, David Bull* \
-arXiv 2023. [[Paper](https://arxiv.org/abs/2303.09508)] \
-16 Mar 2023
 
 ### Ambiguity 
 
@@ -108,20 +104,35 @@ arXiv 2022. [[Paper](https://arxiv.org/abs/2303.09508)] \
 ### Hallucination
 
 
+### Truthful 
+
+**TruthfulQA: Measuring How Models Mimic Human Falsehoods** \
+*Stephanie Lin, Jacob Hilton, Owain Evans* \
+ACL 2022. [[Paper](https://arxiv.org/abs/2109.07958)] [[Github](https://github.com/sylinrl/TruthfulQA)] [[Blog](https://www.lesswrong.com/posts/PF58wEdztZFX2dSue/how-truthful-is-gpt-3-a-benchmark-for-language-models)] \
+8 Sep 2021
+
+**Truthful AI: Developing and governing AI that does not lie** \
+*Owain Evans, Owen Cotton-Barratt, Lukas Finnveden, Adam Bales, Avital Balwit, Peter Wills, Luca Righetti, William Saunders*
+arXiv 2021. [[Paper](https://arxiv.org/abs/2110.06674)] [[Blog](https://www.lesswrong.com/posts/aBixCPqSnTsPsTJBQ/truthful-ai-developing-and-governing-ai-that-does-not-lie)]\
+13 Oct, 2021
+
+
+
+
 ## Robustness
 ### Invariance
 
-**LDMVFI: Video Frame Interpolation with Latent Diffusion Models** \
-*Duolikun Danier, Fan Zhang, David Bull* \
-arXiv 2023. [[Paper](https://arxiv.org/abs/2303.09508)] \
-16 Mar 2023
+**CLAM: Selective Clarification for Ambiguous Questions with Generative Language Models** \
+*Lorenz Kuhn, Yarin Gal, Sebastian Farquhar* \
+arXiv 2022. [[Paper](https://arxiv.org/abs/2303.09508)] \
+15 Dec 2022
 
 ### Distribution Shift
 
-**LDMVFI: Video Frame Interpolation with Latent Diffusion Models** \
-*Duolikun Danier, Fan Zhang, David Bull* \
-arXiv 2023. [[Paper](https://arxiv.org/abs/2303.09508)] \
-16 Mar 2023
+**CLAM: Selective Clarification for Ambiguous Questions with Generative Language Models** \
+*Lorenz Kuhn, Yarin Gal, Sebastian Farquhar* \
+arXiv 2022. [[Paper](https://arxiv.org/abs/2303.09508)] \
+15 Dec 2022
 
 
 ### Generalization
@@ -137,7 +148,6 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2303.09508)] \
 
 # Research Team & Reseachers 
 
-- [Owain Evans](https://owainevans.github.io/) 
-> Research Associate in Artificial Intelligence, University of Oxford
+- [Owain Evans](https://owainevans.github.io/): Research Associate in Artificial Intelligence, University of Oxford
 
 
