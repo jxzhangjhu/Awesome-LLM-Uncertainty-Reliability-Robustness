@@ -70,7 +70,6 @@ arXiv 2022. [[Paper](https://arxiv.org/abs/2101.03288)] \
 **Holistic Evaluation of Language Models** \
 *Percy Liang, Rishi Bommasani, Tony Lee, Dimitris Tsipras, Dilara Soylu, Michihiro Yasunaga, Yian Zhang, Deepak Narayanan, Yuhuai Wu, Ananya Kumar, Benjamin Newman, Binhang Yuan, Bobby Yan, Ce Zhang, Christian Cosgrove, Christopher D. Manning, Christopher Ré, Diana Acosta-Navas, Drew A. Hudson, Eric Zelikman, Esin Durmus, Faisal Ladhak, Frieda Rong, Hongyu Ren, Huaxiu Yao, Jue Wang, Keshav Santhanam, Laurel Orr, Lucia Zheng, Mert Yuksekgonul, Mirac Suzgun, Nathan Kim, Neel Guha, Niladri Chatterji, Omar Khattab, Peter Henderson, Qian Huang, Ryan Chi, Sang Michael Xie, Shibani Santurkar, Surya Ganguli, Tatsunori Hashimoto, Thomas Icard, Tianyi Zhang, Vishrav Chaudhary, William Wang, Xuechen Li, Yifan Mai, Yuhui Zhang, Yuta Koreeda* \
 arXiv 2022. [[Paper](https://arxiv.org/abs/2211.09110)] [[Website](https://crfm.stanford.edu/helm/latest/)] [[Github](https://github.com/stanford-crfm/helm)] [[Blog](https://crfm.stanford.edu/2022/11/17/helm.html)] \
-
 16 Nov 2022
 
 **Prompting GPT-3 To Be Reliable** \
@@ -78,6 +77,15 @@ arXiv 2022. [[Paper](https://arxiv.org/abs/2211.09110)] [[Website](https://crfm.
 ICLR 2023. [[Paper](https://arxiv.org/abs/2210.09150)] [[Github](https://github.com/NoviScl/GPT3-Reliability)] \
 17 Oct 2022
 
+**Plex: Towards Reliability using Pretrained Large Model Extensions** \
+*Dustin Tran, Jeremiah Liu, Michael W. Dusenberry, Du Phan, Mark Collier, Jie Ren, Kehang Han, Zi Wang, Zelda Mariet, Huiyi Hu, Neil Band, Tim G. J. Rudner, Karan Singhal, Zachary Nado, Joost van Amersfoort, Andreas Kirsch, Rodolphe Jenatton, Nithum Thain, Honglin Yuan, Kelly Buchanan, Kevin Murphy, D. Sculley, Yarin Gal, Zoubin Ghahramani, Jasper Snoek, Balaji Lakshminarayanan* \
+arXiv 2022. [[Paper](https://arxiv.org/abs/2207.07411)] \
+15 Jul 2022
+
+**How Robust is GPT-3.5 to Predecessors? A Comprehensive Study on Language Understanding Tasks** \
+*Xuanting Chen, Junjie Ye, Can Zu, Nuo Xu, Rui Zheng, Minlong Peng, Jie Zhou, Tao Gui, Qi Zhang, Xuanjing Huang* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2303.00293)][[Github](https://github.com/textflint/textflint)]
+1 Mar 2023
 
 
 
@@ -89,6 +97,12 @@ ICLR 2023. [[Paper](https://arxiv.org/abs/2210.09150)] [[Github](https://github.
 *Stephanie Lin, Jacob Hilton, Owain Evans* \
 TMLR 2022. [[Paper](https://arxiv.org/abs/2205.14334)] [[Github](https://github.com/sylinrl/CalibratedMath)] [[TMLR](https://openreview.net/forum?id=8s8K2UZGTZ)] [[Slide](https://owainevans.github.io/pdfs/chai_calibration_owain.pdf)]\
 28 May 2022
+
+**Semantic Uncertainty: Linguistic Invariances for Uncertainty Estimation in Natural Language Generation** \
+*Lorenz Kuhn, Yarin Gal, Sebastian Farquhar*
+ICLR 2023. [[Paper](https://arxiv.org/abs/2302.09664)] 
+19 Feb, 2022
+
 
 ### Calibration
 
@@ -122,17 +136,9 @@ arXiv 2021. [[Paper](https://arxiv.org/abs/2110.06674)] [[Blog](https://www.less
 ## Robustness
 ### Invariance
 
-**CLAM: Selective Clarification for Ambiguous Questions with Generative Language Models** \
-*Lorenz Kuhn, Yarin Gal, Sebastian Farquhar* \
-arXiv 2022. [[Paper](https://arxiv.org/abs/2303.09508)] \
-15 Dec 2022
 
 ### Distribution Shift
 
-**CLAM: Selective Clarification for Ambiguous Questions with Generative Language Models** \
-*Lorenz Kuhn, Yarin Gal, Sebastian Farquhar* \
-arXiv 2022. [[Paper](https://arxiv.org/abs/2303.09508)] \
-15 Dec 2022
 
 
 ### Generalization
@@ -143,11 +149,17 @@ arXiv 2022. [[Paper](https://arxiv.org/abs/2303.09508)] \
 
 ## Safety
 
+### Bias
+
+### Fairness
+
+### Privacy
 
 
 
-# Research Team & Reseachers 
+
+<!-- # Research Team & Reseachers 
 
 - [Owain Evans](https://owainevans.github.io/): Research Associate in Artificial Intelligence, University of Oxford
-
+ -->
 
