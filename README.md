@@ -8,7 +8,7 @@
 
 This repository contains a collection of resources and papers on **Reliability**, **Robustness**  and **Safety** in **Large Language Models (LLMs)**.
 
-<!-- ## Contents
+## Contents
 - [Resources](#resources)
   - [Introductory Posts](#introductory-posts)
   - [Introductory Papers](#introductory-papers)
@@ -30,42 +30,12 @@ This repository contains a collection of resources and papers on **Reliability**
 # Resources
 ## Introductory Posts
 
-**How diffusion models work: the math from scratch** \
-*Sergios Karagiannakos,Nikolas Adaloglou* \
-[[Website](https://theaisummer.com/diffusion-models/?fbclid=IwAR1BIeNHqa3NtC8SL0sKXHATHklJYphNH-8IGNoO3xZhSKM_GYcvrrQgB0o)] \
-24 Sep 2022
 
-**A Path to the Variational Diffusion Loss** \
-*Alex Alemi* \
-[[Website](https://blog.alexalemi.com/diffusion.html)] [[Colab](https://colab.research.google.com/github/google-research/vdm/blob/main/colab/SimpleDiffusionColab.ipynb)] \
-15 Sep 2022
-
-## Introductory Papers
-
-**Understanding Diffusion Models: A Unified Perspective** \
-*Calvin Luo* \
-arXiv 2022. [[Paper](https://arxiv.org/abs/2208.11970)] \
-25 Aug 2022
-
-**How to Train Your Energy-Based Models** \
-*Yang Song, Diederik P. Kingma* \
-arXiv 2022. [[Paper](https://arxiv.org/abs/2101.03288)] \
-9 Jan 2021
-
-## Introductory Videos
-**diffusion-for-beginners** \
-
-## Introductory Lectures
-**diffusion-for-beginners** \
-
-## Tutorial and Jupyter Notebook
-**diffusion-for-beginners** \ -->
-
-# Technical Reports 
+## Technical Reports 
 
 **GPT-4 Technical Report** \
 *OpenAI* \
-arXiv 2023. [[Paper](https://cdn.openai.com/papers/gpt-4.pdf)][[cookbook](https://github.com/openai/evals)] \
+arXiv 2023. [[Paper](https://cdn.openai.com/papers/gpt-4.pdf)][[Cookbook](https://github.com/openai/evals)] \
 16 Mar 2023 
 
 **GPT-4 System Card** \
@@ -74,8 +44,7 @@ arXiv 2023. [[Paper](https://cdn.openai.com/papers/gpt-4-system-card.pdf)] [[Git
 15 Mar 2023 
 
  
-
-# Tutorial 
+## Tutorial 
 
 **Uncertainty Estimation for Natural Language Processing** \
 *Adam Fisch, Robin Jia, Tal Schuster* \
