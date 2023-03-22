@@ -61,9 +61,19 @@ arXiv 2022. [[Paper](https://arxiv.org/abs/2101.03288)] \
 ## Tutorial and Jupyter Notebook
 **diffusion-for-beginners** \ -->
 
+# Technical Reports 
 
+**GPT-4 Technical Report** \
+*OpenAI* \
+arXiv 2023. [[Paper](https://cdn.openai.com/papers/gpt-4.pdf)][[cookbook](https://github.com/openai/evals)] \
+16 Mar 2023 
 
+**GPT-4 System Card** \
+*OpenAI* \
+arXiv 2023. [[Paper](https://cdn.openai.com/papers/gpt-4-system-card.pdf)] [[Github](https://github.com/openai/evals)]\
+15 Mar 2023 
 
+ 
 
 # Tutorial 
 
@@ -75,7 +85,7 @@ COLLING 2022. [[Website](https://sites.google.com/view/uncertainty-nlp)]
 
 # Papers
 
-## Evaluation
+## Evaluation & Survey
 
 **How Robust is GPT-3.5 to Predecessors? A Comprehensive Study on Language Understanding Tasks** \
 *Xuanting Chen, Junjie Ye, Can Zu, Nuo Xu, Rui Zheng, Minlong Peng, Jie Zhou, Tao Gui, Qi Zhang, Xuanjing Huang* \
