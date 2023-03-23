@@ -61,6 +61,12 @@ nice blog -->
 6. Quality estimation will become key. As the output of MT becomes more fluent, detecting problems will become increasingly difficult, which can: a) raise the risk that content can pose; and b) increase the cognitive load for MT editors and thereby decrease their efficiency. This means that quality estimation will become more important, requiring breakthroughs in this area. When the technology can reliably identify problems and risk, it will address the trust problem. -->
 
 
+**Large language models: The basics and their applications** \
+*Margo Poda* \
+[[Link](https://www.moveworks.com/insights/large-language-models-strengths-and-weaknesses)] \
+9 Feb 2023 
+
+<!-- > Reliability needs human supervison which is the key! -->
 
 ## Technical Reports 
 
@@ -116,7 +122,8 @@ arXiv 2022. [[Paper](https://arxiv.org/abs/2207.05221)] \
 
 
 ## Reliability
-### Uncertainty Estimation
+
+### Uncertainty
 
 **Teaching Models to Express Their Uncertainty in Words** \
 *Stephanie Lin, Jacob Hilton, Owain Evans* \
@@ -124,13 +131,13 @@ TMLR 2022. [[Paper](https://arxiv.org/abs/2205.14334)] [[Github](https://github.
 28 May 2022
 
 **Semantic Uncertainty: Linguistic Invariances for Uncertainty Estimation in Natural Language Generation** \
-*Lorenz Kuhn, Yarin Gal, Sebastian Farquhar*
-ICLR 2023. [[Paper](https://arxiv.org/abs/2302.09664)] 
+*Lorenz Kuhn, Yarin Gal, Sebastian Farquhar* \
+ICLR 2023. [[Paper](https://arxiv.org/abs/2302.09664)] \
 19 Feb 2022
 
 **Active Prompting with Chain-of-Thought for Large Language Models** \
 *Shizhe Diao, Pengcheng Wang, Yong Lin, Tong Zhang* \
-arXiv 2023. [[Paper](https://arxiv.org/abs/2302.12246)][[Github](https://github.com/shizhediao/active-prompt)]\
+arXiv 2023. [[Paper](https://arxiv.org/abs/2302.12246)][[Github](https://github.com/shizhediao/active-prompt)] \
 23 Feb 2023 
 
 
@@ -167,11 +174,22 @@ ACL 2022. [[Paper](https://arxiv.org/abs/2109.07958)] [[Github](https://github.c
 8 Sep 2021
 
 **Truthful AI: Developing and governing AI that does not lie** \
-*Owain Evans, Owen Cotton-Barratt, Lukas Finnveden, Adam Bales, Avital Balwit, Peter Wills, Luca Righetti, William Saunders*
+*Owain Evans, Owen Cotton-Barratt, Lukas Finnveden, Adam Bales, Avital Balwit, Peter Wills, Luca Righetti, William Saunders* \
 arXiv 2021. [[Paper](https://arxiv.org/abs/2110.06674)] [[Blog](https://www.lesswrong.com/posts/aBixCPqSnTsPsTJBQ/truthful-ai-developing-and-governing-ai-that-does-not-lie)]\
-13 Oct, 2021
+13 Oct 2021
 
 
+**Measuring Reliability of Large Language Models through Semantic Consistency** \
+*Harsh Raj, Domenic Rosati, Subhabrata Majumdar* \
+NeurIPS 2022 ML Safety Workshop. [[Paper](https://arxiv.org/abs/2211.05853)] \
+10 Nov 2022 
+
+### Reasoning 
+
+**Reliable Natural Language Understanding with Large Language Models and Answer Set Programming** \
+*Abhiramon Rajasekharan, Yankai Zeng, Parth Padalkar, Gopal Gupta* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2302.03780)] \
+7 Feb 2023 
 
 
 ## Robustness
@@ -191,6 +209,13 @@ ICLR 2023. [[Paper](https://arxiv.org/abs/2209.15558)] \
 ### Generalization
 
 ### Adversarial 
+
+**Reliability Testing for Natural Language Processing Systems** \
+*Samson Tan, Shafiq Joty, Kathy Baxter, Araz Taeihagh, Gregory A. Bennett, Min-Yen Kan* \
+ACL-IJCNLP 2021. [[Paper](https://arxiv.org/abs/2105.02590)] \
+06 May 2021
+
+<!-- > new metric to evaluate the prompt  -->
 
 
 
