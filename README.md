@@ -8,6 +8,9 @@
 
 This repository contains a collection of resources and papers on **Reliability**, **Robustness**  and **Safety** in **Large Language Models (LLMs)**.
 
+"*Large language models have limited reliability, limited understanding, limited range, and hence need human supervision*. " \
+— Michael Osborne, Professor of Machine Learning in the Dept. of Engineering Science, University of Oxford, January 25, 2023 
+
 ## Contents
 - [Resources](#resources)
   - [Introductory Posts](#introductory-posts)
@@ -29,6 +32,34 @@ This repository contains a collection of resources and papers on **Reliability**
 
 # Resources
 ## Introductory Posts
+
+**GPT Is an Unreliable Information Store** \
+*Noble Ackerson* \
+[[Link](https://towardsdatascience.com/chatgpt-insists-i-am-dead-and-the-problem-with-language-models-db5a36c22f11)] \
+20 Feb 2023 
+
+<!-- > Comments \
+- Large Language models are unreliable information stores. What can we do about this?
+By design, these systems do not know what they do or don’t know.
+
+- GPT is trained on massive amounts of text data without any inherent ability to verify the accuracy or truthfulness of the information presented in that data.
+
+- So should we build on top of factually unreliable GPTs?
+Yes. Though when we do, we must ensure we add the appropriate trust and safety checks and the practical constraints through techniques I’ll share below. When building atop these foundational models, we can minimize inaccuracy using proper guardrails with techniques like prompt engineering and context injection.
+
+Or, if we have our own larger datasets, more advanced approaches such as Transfer learning, fine-tuning, and reinforcement learning are areas to consider.
+
+nice blog -->
+
+**“Misusing” Large Language Models and the Future of MT** \
+*Arle Lommel* \
+[[Link](https://csa-research.com/Blogs-Events/Blog/Misusing-Large-Language-Models-and-the-Future-of-MT)] \
+20 Dec 2022 
+
+<!-- 1. Large language models make the “trust problem” worse. Despite the expectation that large language models would lead to the next wave of dramatic improvement in MT, they introduce some serious risks. One of the biggest challenges for MT now is that it is not reliable. Although the development of responsive and responsible MT should improve this, large language models that can produce convincing-sounding output that is nonsense are likely to increase the risk of dangerous or harmful translation errors. My experiments showed that users should not trust what Galactica says at face value, but instead need to examine it carefully to verify everything. Note that this problem will be worse in languages with relatively little training data in these models.
+
+6. Quality estimation will become key. As the output of MT becomes more fluent, detecting problems will become increasingly difficult, which can: a) raise the risk that content can pose; and b) increase the cognitive load for MT editors and thereby decrease their efficiency. This means that quality estimation will become more important, requiring breakthroughs in this area. When the technology can reliably identify problems and risk, it will address the trust problem. -->
+
 
 
 ## Technical Reports 
