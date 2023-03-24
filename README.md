@@ -10,7 +10,7 @@ This repository contains a collection of resources and papers on **Reliability**
 
 "*Large language models have limited reliability, limited understanding, limited range, and hence need human supervision*. " - Michael Osborne, Professor of Machine Learning in the Dept. of Engineering Science, University of Oxford, January 25, 2023 
 
-## Contents
+<!-- ## Contents
 - [Resources](#resources)
   - [Introductory Posts](#introductory-posts)
   - [Introductory Papers](#introductory-papers)
@@ -27,7 +27,7 @@ This repository contains a collection of resources and papers on **Reliability**
     - [Generation](#generation-1)
     - [Conversion](#conversion)
 
-
+ -->
 
 # Resources
 ## Introductory Posts
