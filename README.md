@@ -8,8 +8,7 @@
 
 This repository contains a collection of resources and papers on **Reliability**, **Robustness**  and **Safety** in **Large Language Models (LLMs)**.
 
-"*Large language models have limited reliability, limited understanding, limited range, and hence need human supervision*. " \
-— Michael Osborne, Professor of Machine Learning in the Dept. of Engineering Science, University of Oxford, January 25, 2023 
+"*Large language models have limited reliability, limited understanding, limited range, and hence need human supervision*. " - Michael Osborne, Professor of Machine Learning in the Dept. of Engineering Science, University of Oxford, January 25, 2023 
 
 ## Contents
 - [Resources](#resources)
@@ -67,6 +66,19 @@ nice blog -->
 9 Feb 2023 
 
 <!-- > Reliability needs human supervison which is the key! -->
+
+**Prompt Engineering: Improving Responses & Reliability** \
+*Peter Foy*\
+[[Link](https://www.mlq.ai/prompt-engineering-techniques-improve-reliability/)]\
+19 Mar 2023 
+
+<!-- nice blog  -->
+
+**OpenAI's Cookbook on Techniques to Improve Reliability** \
+*OpenAI* \
+[[Github](https://github.com/openai/openai-cookbook)] \
+18 Mar 2023
+
 
 ## Technical Reports 
 
