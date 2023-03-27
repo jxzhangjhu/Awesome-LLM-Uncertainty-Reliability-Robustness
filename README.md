@@ -79,6 +79,10 @@ nice blog -->
 [[Github](https://github.com/openai/openai-cookbook)] \
 18 Mar 2023
 
+**GPT/calibration tag** \
+*Gwern Branwen* \
+[[Link](https://gwern.net/doc/ai/nn/transformer/gpt/calibration/index#link-bibliography)]
+
 
 ## Technical Reports 
 
