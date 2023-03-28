@@ -156,6 +156,17 @@ ICLR 2023. [[Paper](https://arxiv.org/abs/2302.09664)] \
 arXiv 2023. [[Paper](https://arxiv.org/abs/2302.12246)][[Github](https://github.com/shizhediao/active-prompt)] \
 23 Feb 2023 
 
+**Cold-Start Data Selection for Few-shot Language Model Fine-tuning: A Prompt-Based Uncertainty Propagation Approach** \
+*Yue Yu, Rongzhi Zhang, Ran Xu, Jieyu Zhang, Jiaming Shen, Chao Zhang* \
+arXiv 2022. [[Paper](https://arxiv.org/abs/2209.06995)][[Github](https://github.com/yueyu1030/Patron)] \
+15 Sep 2022
+
+**AcTune: Uncertainty-Based Active Self-Training for Active Fine-Tuning of Pretrained Language Models** \
+*Yue Yu, Lingkai Kong, Jieyu Zhang, Rongzhi Zhang, Chao Zhang* \
+NAACL-HLT2022. [[Paper](https://aclanthology.org/2022.naacl-main.102/)] [[Github](https://github.com/yueyu1030/actune)]\
+10 Jul 2022 
+
+
 
 ### Calibration
 
