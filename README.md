@@ -219,6 +219,15 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2302.03780)] \
 7 Feb 2023 
 
 
+### Optimization & Tuning 
+
+**Black-box Prompt Learning for Pre-trained Language Models** \
+*Black-box Prompt Learning for Pre-trained Language Models* \ 
+TMLR 2023. [[Paper](https://arxiv.org/abs/2201.08531)][[Github](https://github.com/shizhediao/Black-Box-Prompt-Learning)] \
+22 Jan 2022 
+
+
+
 ## Robustness
 ### Invariance
 
@@ -252,6 +261,13 @@ ACL-IJCNLP 2021. [[Paper](https://arxiv.org/abs/2105.02590)] \
 
 ### Fairness
 
+**Fairness-guided Few-shot Prompting for Large Language Models** \
+*Huan Ma, Changqing Zhang, Yatao Bian, Lemao Liu, Zhirui Zhang, Peilin Zhao, Shu Zhang, Huazhu Fu, Qinghua Hu, Bingzhe Wu* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2303.13217)] [[Github](https://github.com/MaHuanAAA/g_fair_prompting)]\
+23 Mar 2023
+
+<!-- improve in-context learning  -->
+
 ### Privacy
 
 
@@ -260,5 +276,6 @@ ACL-IJCNLP 2021. [[Paper](https://arxiv.org/abs/2105.02590)] \
 <!-- # Research Team & Reseachers 
 
 - [Owain Evans](https://owainevans.github.io/): Research Associate in Artificial Intelligence, University of Oxford
+- [Tong Zhang]
  -->
 
