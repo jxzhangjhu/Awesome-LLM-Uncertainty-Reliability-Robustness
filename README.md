@@ -221,7 +221,7 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2302.03780)] \
 
 ### Optimization & Tuning 
 
-**Black-box Prompt Learning for Pre-trained Language Models** \
+- **Black-box Prompt Learning for Pre-trained Language Models** \
 *Black-box Prompt Learning for Pre-trained Language Models* \ 
 TMLR 2023. [[Paper](https://arxiv.org/abs/2201.08531)][[Github](https://github.com/shizhediao/Black-Box-Prompt-Learning)] \
 22 Jan 2022 
