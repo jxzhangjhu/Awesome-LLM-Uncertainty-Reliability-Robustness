@@ -91,6 +91,10 @@ nice blog -->
 **Reliability in Learning Prompting**\
 [[Link](https://learnprompting.org/docs/category/%EF%B8%8F-reliability)] 
 
+
+
+
+
 ## Technical Reports 
 
 **GPT-4 Technical Report** \
@@ -109,6 +113,13 @@ arXiv 2023. [[Paper](https://cdn.openai.com/papers/gpt-4-system-card.pdf)] [[Git
 **Uncertainty Estimation for Natural Language Processing** \
 *Adam Fisch, Robin Jia, Tal Schuster* \
 COLLING 2022. [[Website](https://sites.google.com/view/uncertainty-nlp)]
+
+## Prompt Engineering & Papers
+
+**PromptPapers** - [[Link](https://github.com/thunlp/PromptPapers)] 
+**Awesome-Prompt-Engineering** - [[Link](https://github.com/promptslab/Awesome-Prompt-Engineering)]
+
+
 
 
 
@@ -161,10 +172,6 @@ TMLR 2022. [[Paper](https://arxiv.org/abs/2205.14334)] [[Github](https://github.
 ICLR 2023. [[Paper](https://arxiv.org/abs/2302.09664)] \
 19 Feb 2022
 
-**Active Prompting with Chain-of-Thought for Large Language Models** \
-*Shizhe Diao, Pengcheng Wang, Yong Lin, Tong Zhang* \
-arXiv 2023. [[Paper](https://arxiv.org/abs/2302.12246)][[Github](https://github.com/shizhediao/active-prompt)] \
-23 Feb 2023 
 
 **Cold-Start Data Selection for Few-shot Language Model Fine-tuning: A Prompt-Based Uncertainty Propagation Approach** \
 *Yue Yu, Rongzhi Zhang, Ran Xu, Jieyu Zhang, Jiaming Shen, Chao Zhang* \
@@ -260,22 +267,15 @@ NeurIPS 2022. [[Paper](https://arxiv.org/abs/2205.03401)] [[Github](https://gith
 arXiv 2022. [[Paper](https://arxiv.org/abs/2207.00747)] \
 2 Jul 2022
 
-**Automatic Chain of Thought Prompting in Large Language Models** \
-*Zhuosheng Zhang, Aston Zhang, Mu Li, Alex Smola*\
-ICLR 2023. [[Paper](https://arxiv.org/abs/2210.03493)][[Github](https://github.com/amazon-science/auto-cot)]\
-7 Oct 2022
-
 **ReAct: Synergizing Reasoning and Acting in Language Models** \
 *Shunyu Yao, Jeffrey Zhao, Dian Yu, Nan Du, Izhak Shafran, Karthik Narasimhan, Yuan Cao* \
 ICLR 2023. [[Paper](https://arxiv.org/abs/2210.03629)][[Github](https://github.com/ysymyth/ReAct)] [[Project](https://react-lm.github.io/)] \
 6 Oct 2022 
 
-
 **On Second Thought, Let's Not Think Step by Step! Bias and Toxicity in Zero-Shot Reasoning** \
 *Omar Shaikh, Hongxin Zhang, William Held, Michael Bernstein, Diyi Yang* \
 arXiv 2022. [[Paper](https://arxiv.org/abs/2212.08061)] \
 15 Dec 2022 
-
 
 **On the Advance of Making Language Models Better Reasoners** \ 
 *Yifei Li, Zeqi Lin, Shizhuo Zhang, Qiang Fu, Bei Chen, Jian-Guang Lou, Weizhu Chen* \
@@ -290,11 +290,25 @@ arXiv 2022. [[Paper](https://arxiv.org/abs/2210.02441)][[Github](https://github.
 **MathPrompter: Mathematical Reasoning using Large Language Models** \
 *Shima Imani, Liang Du, Harsh Shrivastava* \
 arXiv 2023. [[Paper](https://arxiv.org/abs/2303.05398)] \
-4 Mar 2023 
+4 Mar 2023
+
+**Complexity-Based Prompting for Multi-Step Reasoning** \
+*Yao Fu, Hao Peng, Ashish Sabharwal, Peter Clark, Tushar Khot* \
+arXiv 2022. [[Paper](https://arxiv.org/abs/2210.00720)][[Github](https://github.com/FranxYao/Complexity-Based-Prompting)]\
+3 Oct 2022 
+
+**Measuring and Narrowing the Compositionality Gap in Language Models**\
+*Ofir Press, Muru Zhang, Sewon Min, Ludwig Schmidt, Noah A. Smith, Mike Lewis*\
+arXiv 2022. [[Paper](https://arxiv.org/abs/2210.03350)][[Github](https://github.com/ofirpress/self-ask)] 
+7 Oct 2022 
+
+**Interleaving Retrieval with Chain-of-Thought Reasoning for Knowledge-Intensive Multi-Step Questions** \
+*Harsh Trivedi, Niranjan Balasubramanian, Tushar Khot, Ashish Sabharwal* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2212.10509)][[Github](https://github.com/StonyBrookNLP/ircot)] \
+20 Dec 2022 
 
 
-
-### Optimization & Tuning 
+### Tuning, Optimization & Prompt Design 
 
 **Black-box Prompt Learning for Pre-trained Language Models** \
 *Shizhe Diao, Zhichao Huang, Ruijia Xu, Xuechun Li, Yong Lin, Xiao Zhou, Tong Zhang* \ 
@@ -306,6 +320,29 @@ TMLR 2023. [[Paper](https://arxiv.org/abs/2201.08531)][[Github](https://github.c
 ICML 2022. [[Paper](https://arxiv.org/abs/2201.03514)][[Github](https://github.com/txsun1997/Black-Box-Tuning)]\
 10 Jan 2022 
 
+**Automatic Chain of Thought Prompting in Large Language Models** \
+*Zhuosheng Zhang, Aston Zhang, Mu Li, Alex Smola*\
+ICLR 2023. [[Paper](https://arxiv.org/abs/2210.03493)][[Github](https://github.com/amazon-science/auto-cot)]\
+7 Oct 2022
+
+**Active Prompting with Chain-of-Thought for Large Language Models** \
+*Shizhe Diao, Pengcheng Wang, Yong Lin, Tong Zhang* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2302.12246)][[Github](https://github.com/shizhediao/active-prompt)] \
+23 Feb 2023 
+
+**Automatic Prompt Augmentation and Selection with Chain-of-Thought from Labeled Data** \
+*KaShun Shum, Shizhe Diao, Tong Zhang*\
+arXiv 2023. [[Paper](https://arxiv.org/abs/2302.12822)][[Github](https://github.com/shizhediao/automate-cot)]\
+24 Feb 2023 
+
+**Large Language Models Are Human-Level Prompt Engineers** \
+*Yongchao Zhou, Andrei Ioan Muresanu, Ziwen Han, Keiran Paster, Silviu Pitis, Harris Chan, Jimmy Ba* \
+ICLR 2023. [[Paper](https://arxiv.org/abs/2211.01910)] [[Github](https://github.com/keirp/automatic_prompt_engineer)] \
+3 Nov 2022 
+
+**Fantastically Ordered Prompts and Where to Find Them: Overcoming Few-Shot Prompt Order Sensitivity** \ 
+*Yao Lu, Max Bartolo, Alastair Moore, Sebastian Riedel, Pontus Stenetorp* \
+ACL 2022. [[Paper]()]
 
 ### RLHF 
 
