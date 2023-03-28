@@ -88,6 +88,9 @@ nice blog -->
 [[Link](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/)]
 
 
+**Reliability in Learning Prompting**\
+[[Link](https://learnprompting.org/docs/category/%EF%B8%8F-reliability)] 
+
 ## Technical Reports 
 
 **GPT-4 Technical Report** \
@@ -138,7 +141,10 @@ arXiv 2022. [[Paper](https://arxiv.org/abs/2207.07411)] \
 arXiv 2022. [[Paper](https://arxiv.org/abs/2207.05221)] \
 11 Jul 2022 
 
-
+**Augmented Language Models: a Survey** \ 
+*Grégoire Mialon, Roberto Dessì, Maria Lomeli, Christoforos Nalmpantis, Ram Pasunuru, Roberta Raileanu, Baptiste Rozière, Timo Schick, Jane Dwivedi-Yu, Asli Celikyilmaz, Edouard Grave, Yann LeCun, Thomas Scialom* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2302.07842)]\ 
+15 Feb 2023 
 
 
 ## Reliability
@@ -271,6 +277,21 @@ arXiv 2022. [[Paper](https://arxiv.org/abs/2212.08061)] \
 15 Dec 2022 
 
 
+**On the Advance of Making Language Models Better Reasoners** \ 
+*Yifei Li, Zeqi Lin, Shizhuo Zhang, Qiang Fu, Bei Chen, Jian-Guang Lou, Weizhu Chen* \
+arXiv 2022. [[Paper](https://arxiv.org/abs/2206.02336)][[Github](https://github.com/microsoft/CodeT)] \
+6 Jun 2022 
+
+**Ask Me Anything: A simple strategy for prompting language models** \ 
+*Simran Arora, Avanika Narayan, Mayee F. Chen, Laurel Orr, Neel Guha, Kush Bhatia, Ines Chami, Frederic Sala, Christopher Ré*\
+arXiv 2022. [[Paper](https://arxiv.org/abs/2210.02441)][[Github](https://github.com/HazyResearch/ama_prompting)] \
+5 Oct 2022 
+
+**MathPrompter: Mathematical Reasoning using Large Language Models** \
+*Shima Imani, Liang Du, Harsh Shrivastava* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2303.05398)] \
+4 Mar 2023 
+
 
 
 ### Optimization & Tuning 
@@ -286,9 +307,44 @@ ICML 2022. [[Paper](https://arxiv.org/abs/2201.03514)][[Github](https://github.c
 10 Jan 2022 
 
 
+### RLHF 
 
+**Constitutional AI: Harmlessness from AI Feedback** \
+*Yuntao Bai, et al (Anthropic)* \
+arXiv 2022. [[Paper](https://arxiv.org/abs/2212.08073)] \
+15 Dec 2022 
 
+**Discovering Language Model Behaviors with Model-Written Evaluations** \
+*Ethan Perez et al.* \
+arXiv 2022. [[Paper](https://arxiv.org/abs/2212.09251)] \
+19 Dec 2022 
 
+### Tools & External APIs
+
+**Internet-augmented language models through few-shot prompting for open-domain question answering**  \
+*Angeliki Lazaridou, Elena Gribovskaya, Wojciech Stokowiec, Nikolai Grigorev* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2203.05115)] \
+10 Mar 2023 
+
+**Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks** \
+*Wenhu Chen, Xueguang Ma, Xinyi Wang, William W. Cohen* \
+arXiv 2022. [[Paper](https://arxiv.org/abs/2211.12588)][[Github](https://github.com/wenhuchen/Program-of-Thoughts)]\
+22 Nov 2022 
+
+**PAL: Program-aided Language Models** \ 
+*Luyu Gao, Aman Madaan, Shuyan Zhou, Uri Alon, Pengfei Liu, Yiming Yang, Jamie Callan, Graham Neubig* \
+arXiv 2022. [[Paper](https://arxiv.org/abs/2211.10435)] [[Github](https://github.com/reasoning-machines/pal)] [[Project](https://reasonwithpal.com/)] \
+18 Nov 2022 
+
+**TALM: Tool Augmented Language Models** \ 
+*Aaron Parisi, Yao Zhao, Noah Fiedel* \
+arXiv 2022. [[Paper](https://arxiv.org/abs/2205.12255)] \
+24 May 2022 
+
+**Toolformer: Language Models Can Teach Themselves to Use Tool** \
+*Timo Schick, Jane Dwivedi-Yu, Roberto Dessì, Roberta Raileanu, Maria Lomeli, Luke Zettlemoyer, Nicola Cancedda, Thomas Scialom* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2302.04761)] \
+9 Feb 2023 
 
 
 ## Robustness
