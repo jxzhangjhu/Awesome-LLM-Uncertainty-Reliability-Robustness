@@ -83,6 +83,10 @@ nice blog -->
 *Gwern Branwen* \
 [[Link](https://gwern.net/doc/ai/nn/transformer/gpt/calibration/index#link-bibliography)]
 
+**Prompt Engineering** \
+*Lilian Weng*\
+[[Link](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/)]
+
 
 ## Technical Reports 
 
@@ -175,6 +179,11 @@ NAACL-HLT2022. [[Paper](https://aclanthology.org/2022.naacl-main.102/)] [[Github
 ICLR 2023. [[Paper](https://arxiv.org/abs/2210.00045)]\
 30 Sep 2022
 
+**Calibrate Before Use: Improving Few-Shot Performance of Language Models** \
+*Tony Z. Zhao, Eric Wallace, Shi Feng, Dan Klein, Sameer Singh* \
+ICML 2021. [[Paper](https://arxiv.org/abs/2102.09690)][[Github](https://github.com/tonyzhaozh/few-shot-learning)\
+19 Feb 2021
+
 
 
 ### Ambiguity 
@@ -211,20 +220,74 @@ arXiv 2021. [[Paper](https://arxiv.org/abs/2110.06674)] [[Blog](https://www.less
 NeurIPS 2022 ML Safety Workshop. [[Paper](https://arxiv.org/abs/2211.05853)] \
 10 Nov 2022 
 
-- ### Reasoning 
+### Reasoning & COT 
 
 **Reliable Natural Language Understanding with Large Language Models and Answer Set Programming** \
 *Abhiramon Rajasekharan, Yankai Zeng, Parth Padalkar, Gopal Gupta* \
 arXiv 2023. [[Paper](https://arxiv.org/abs/2302.03780)] \
 7 Feb 2023 
 
+**Self-Consistency Improves Chain of Thought Reasoning in Language Models** \
+*Xuezhi Wang, Jason Wei, Dale Schuurmans, Quoc Le, Ed Chi, Sharan Narang, Aakanksha Chowdhery, Denny Zhou* \
+ICLR 2023. [[Paper](https://arxiv.org/abs/2203.11171)] \
+21 Mar 2022 
 
-- ### Optimization & Tuning 
+**Chain of Thought Prompting Elicits Reasoning in Large Language Models.** \
+*Jason Wei, Xuezhi Wang, Dale Schuurmans, Maarten Bosma, Ed Chi, Quoc Le, Denny Zhou*\
+arXiv 2022. [[Paper](https://arxiv.org/abs/2201.11903)] \
+28 Jan 2022 
+
+**STaR: Self-Taught Reasoner Bootstrapping Reasoning With Reasoning.** \
+*Eric Zelikman, Yuhuai Wu, Noah D. Goodman* \
+NeurIPS 2022. [[Paper](https://arxiv.org/abs/2203.14465)][[Github](https://github.com/ezelikman/STaR)] \
+28 Mar 2022 
+
+
+**The Unreliability of Explanations in Few-shot Prompting for Textual Reasoning** \
+*Xi Ye, Greg Durrett* \
+NeurIPS 2022. [[Paper](https://arxiv.org/abs/2205.03401)] [[Github](https://github.com/xiye17/TextualExplInContext)]\
+6 May 2022
+
+
+**Rationale-Augmented Ensembles in Language Models** \ 
+*Xuezhi Wang, Jason Wei, Dale Schuurmans, Quoc Le, Ed Chi, Denny Zhou*\
+arXiv 2022. [[Paper](https://arxiv.org/abs/2207.00747)] \
+2 Jul 2022
+
+**Automatic Chain of Thought Prompting in Large Language Models** \
+*Zhuosheng Zhang, Aston Zhang, Mu Li, Alex Smola*\
+ICLR 2023. [[Paper](https://arxiv.org/abs/2210.03493)][[Github](https://github.com/amazon-science/auto-cot)]\
+7 Oct 2022
+
+**ReAct: Synergizing Reasoning and Acting in Language Models** \
+*Shunyu Yao, Jeffrey Zhao, Dian Yu, Nan Du, Izhak Shafran, Karthik Narasimhan, Yuan Cao* \
+ICLR 2023. [[Paper](https://arxiv.org/abs/2210.03629)][[Github](https://github.com/ysymyth/ReAct)] [[Project](https://react-lm.github.io/)] \
+6 Oct 2022 
+
+
+**On Second Thought, Let's Not Think Step by Step! Bias and Toxicity in Zero-Shot Reasoning** \
+*Omar Shaikh, Hongxin Zhang, William Held, Michael Bernstein, Diyi Yang* \
+arXiv 2022. [[Paper](https://arxiv.org/abs/2212.08061)] \
+15 Dec 2022 
+
+
+
+
+### Optimization & Tuning 
 
 **Black-box Prompt Learning for Pre-trained Language Models** \
-*Black-box Prompt Learning for Pre-trained Language Models* \ 
+*Shizhe Diao, Zhichao Huang, Ruijia Xu, Xuechun Li, Yong Lin, Xiao Zhou, Tong Zhang* \ 
 TMLR 2023. [[Paper](https://arxiv.org/abs/2201.08531)][[Github](https://github.com/shizhediao/Black-Box-Prompt-Learning)] \
 22 Jan 2022 
+
+**Black-Box Tuning for Language-Model-as-a-Service** \
+*Tianxiang Sun, Yunfan Shao, Hong Qian, Xuanjing Huang, Xipeng Qiu* \
+ICML 2022. [[Paper](https://arxiv.org/abs/2201.03514)][[Github](https://github.com/txsun1997/Black-Box-Tuning)]\
+10 Jan 2022 
+
+
+
+
 
 
 
