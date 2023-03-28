@@ -211,7 +211,7 @@ arXiv 2021. [[Paper](https://arxiv.org/abs/2110.06674)] [[Blog](https://www.less
 NeurIPS 2022 ML Safety Workshop. [[Paper](https://arxiv.org/abs/2211.05853)] \
 10 Nov 2022 
 
-### Reasoning 
+- ### Reasoning 
 
 **Reliable Natural Language Understanding with Large Language Models and Answer Set Programming** \
 *Abhiramon Rajasekharan, Yankai Zeng, Parth Padalkar, Gopal Gupta* \
@@ -219,9 +219,9 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2302.03780)] \
 7 Feb 2023 
 
 
-### Optimization & Tuning 
+- ### Optimization & Tuning 
 
-- **Black-box Prompt Learning for Pre-trained Language Models** \
+**Black-box Prompt Learning for Pre-trained Language Models** \
 *Black-box Prompt Learning for Pre-trained Language Models* \ 
 TMLR 2023. [[Paper](https://arxiv.org/abs/2201.08531)][[Github](https://github.com/shizhediao/Black-Box-Prompt-Learning)] \
 22 Jan 2022 
