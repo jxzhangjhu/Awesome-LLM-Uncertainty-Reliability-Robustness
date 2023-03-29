@@ -116,7 +116,7 @@ COLLING 2022. [[Website](https://sites.google.com/view/uncertainty-nlp)]
 
 ## Prompt Engineering & Papers
 
-**PromptPapers** - [[Link](https://github.com/thunlp/PromptPapers)] 
+**PromptPapers** - [[Link](https://github.com/thunlp/PromptPapers)]  \
 **Awesome-Prompt-Engineering** - [[Link](https://github.com/promptslab/Awesome-Prompt-Engineering)]
 
 
@@ -152,9 +152,9 @@ arXiv 2022. [[Paper](https://arxiv.org/abs/2207.07411)] \
 arXiv 2022. [[Paper](https://arxiv.org/abs/2207.05221)] \
 11 Jul 2022 
 
-**Augmented Language Models: a Survey** \ 
+**Augmented Language Models: a Survey** \
 *Grégoire Mialon, Roberto Dessì, Maria Lomeli, Christoforos Nalmpantis, Ram Pasunuru, Roberta Raileanu, Baptiste Rozière, Timo Schick, Jane Dwivedi-Yu, Asli Celikyilmaz, Edouard Grave, Yann LeCun, Thomas Scialom* \
-arXiv 2023. [[Paper](https://arxiv.org/abs/2302.07842)]\ 
+arXiv 2023. [[Paper](https://arxiv.org/abs/2302.07842)] \
 15 Feb 2023 
 
 
@@ -262,7 +262,7 @@ NeurIPS 2022. [[Paper](https://arxiv.org/abs/2205.03401)] [[Github](https://gith
 6 May 2022
 
 
-**Rationale-Augmented Ensembles in Language Models** \ 
+**Rationale-Augmented Ensembles in Language Models** \
 *Xuezhi Wang, Jason Wei, Dale Schuurmans, Quoc Le, Ed Chi, Denny Zhou*\
 arXiv 2022. [[Paper](https://arxiv.org/abs/2207.00747)] \
 2 Jul 2022
@@ -277,12 +277,12 @@ ICLR 2023. [[Paper](https://arxiv.org/abs/2210.03629)][[Github](https://github.c
 arXiv 2022. [[Paper](https://arxiv.org/abs/2212.08061)] \
 15 Dec 2022 
 
-**On the Advance of Making Language Models Better Reasoners** \ 
+**On the Advance of Making Language Models Better Reasoners** \
 *Yifei Li, Zeqi Lin, Shizhuo Zhang, Qiang Fu, Bei Chen, Jian-Guang Lou, Weizhu Chen* \
 arXiv 2022. [[Paper](https://arxiv.org/abs/2206.02336)][[Github](https://github.com/microsoft/CodeT)] \
 6 Jun 2022 
 
-**Ask Me Anything: A simple strategy for prompting language models** \ 
+**Ask Me Anything: A simple strategy for prompting language models** \
 *Simran Arora, Avanika Narayan, Mayee F. Chen, Laurel Orr, Neel Guha, Kush Bhatia, Ines Chami, Frederic Sala, Christopher Ré*\
 arXiv 2022. [[Paper](https://arxiv.org/abs/2210.02441)][[Github](https://github.com/HazyResearch/ama_prompting)] \
 5 Oct 2022 
@@ -311,7 +311,7 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2212.10509)][[Github](https://github.
 ### Tuning, Optimization & Prompt Design 
 
 **Black-box Prompt Learning for Pre-trained Language Models** \
-*Shizhe Diao, Zhichao Huang, Ruijia Xu, Xuechun Li, Yong Lin, Xiao Zhou, Tong Zhang* \ 
+*Shizhe Diao, Zhichao Huang, Ruijia Xu, Xuechun Li, Yong Lin, Xiao Zhou, Tong Zhang* \
 TMLR 2023. [[Paper](https://arxiv.org/abs/2201.08531)][[Github](https://github.com/shizhediao/Black-Box-Prompt-Learning)] \
 22 Jan 2022 
 
@@ -340,7 +340,7 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2302.12822)][[Github](https://github.
 ICLR 2023. [[Paper](https://arxiv.org/abs/2211.01910)] [[Github](https://github.com/keirp/automatic_prompt_engineer)] \
 3 Nov 2022 
 
-**Fantastically Ordered Prompts and Where to Find Them: Overcoming Few-Shot Prompt Order Sensitivity** \ 
+**Fantastically Ordered Prompts and Where to Find Them: Overcoming Few-Shot Prompt Order Sensitivity** \
 *Yao Lu, Max Bartolo, Alastair Moore, Sebastian Riedel, Pontus Stenetorp* \
 ACL 2022. [[Paper](https://arxiv.org/abs/2104.08786)] 
 
@@ -372,7 +372,7 @@ arXiv 2022. [[Paper](https://arxiv.org/abs/2212.08073)] \
 arXiv 2022. [[Paper](https://arxiv.org/abs/2212.09251)] \
 19 Dec 2022 
 
-**In-Context Instruction Learning** \ 
+**In-Context Instruction Learning** \
 *Seonghyeon Ye, Hyeonbin Hwang, Sohee Yang, Hyeongu Yun, Yireun Kim, Minjoon Seo* \
 arXiv 2023. [[Paper](https://arxiv.org/abs/2302.14691)][[Github](https://github.com/seonghyeonye/ICIL)]\
 28 Feb 2023 
@@ -390,12 +390,12 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2203.05115)] \
 arXiv 2022. [[Paper](https://arxiv.org/abs/2211.12588)][[Github](https://github.com/wenhuchen/Program-of-Thoughts)]\
 22 Nov 2022 
 
-**PAL: Program-aided Language Models** \ 
+**PAL: Program-aided Language Models** \
 *Luyu Gao, Aman Madaan, Shuyan Zhou, Uri Alon, Pengfei Liu, Yiming Yang, Jamie Callan, Graham Neubig* \
 arXiv 2022. [[Paper](https://arxiv.org/abs/2211.10435)] [[Github](https://github.com/reasoning-machines/pal)] [[Project](https://reasonwithpal.com/)] \
 18 Nov 2022 
 
-**TALM: Tool Augmented Language Models** \ 
+**TALM: Tool Augmented Language Models** \
 *Aaron Parisi, Yao Zhao, Noah Fiedel* \
 arXiv 2022. [[Paper](https://arxiv.org/abs/2205.12255)] \
 24 May 2022 
