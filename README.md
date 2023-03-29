@@ -342,9 +342,25 @@ ICLR 2023. [[Paper](https://arxiv.org/abs/2211.01910)] [[Github](https://github.
 
 **Fantastically Ordered Prompts and Where to Find Them: Overcoming Few-Shot Prompt Order Sensitivity** \ 
 *Yao Lu, Max Bartolo, Alastair Moore, Sebastian Riedel, Pontus Stenetorp* \
-ACL 2022. [[Paper]()]
+ACL 2022. [[Paper](https://arxiv.org/abs/2104.08786)] 
 
-### RLHF 
+**Active Example Selection for In-Context Learnin** \
+*Yiming Zhang, Shi Feng, Chenhao Tan* \
+EMNLP 2022. [[Paper](https://arxiv.org/abs/2211.04486)][[Github](https://github.com/ChicagoHAI/active-example-selection)] \
+8 Nov 2022 
+
+**Selective Annotation Makes Language Models Better Few-Shot Learners** \
+*Hongjin Su, Jungo Kasai, Chen Henry Wu, Weijia Shi, Tianlu Wang, Jiayi Xin, Rui Zhang, Mari Ostendorf, Luke Zettlemoyer, Noah A. Smith, Tao Yu* \
+ICLR 2023. [[Paper](https://arxiv.org/abs/2209.01975)][[Github](https://github.com/HKUNLP/icl-selective-annotation)]\
+5 Sep 2022 
+
+**Learning To Retrieve Prompts for In-Context Learning** \
+*Ohad Rubin, Jonathan Herzig, Jonathan Berant* \
+NAACL-HLT 2022. [[Paper](https://arxiv.org/abs/2112.08633)][[Github](https://github.com/OhadRubin/EPR)] \
+16 Dec 2021
+
+
+### Instruction & RLHF 
 
 **Constitutional AI: Harmlessness from AI Feedback** \
 *Yuntao Bai, et al (Anthropic)* \
@@ -355,6 +371,12 @@ arXiv 2022. [[Paper](https://arxiv.org/abs/2212.08073)] \
 *Ethan Perez et al.* \
 arXiv 2022. [[Paper](https://arxiv.org/abs/2212.09251)] \
 19 Dec 2022 
+
+**In-Context Instruction Learning** \ 
+*Seonghyeon Ye, Hyeonbin Hwang, Sohee Yang, Hyeongu Yun, Yireun Kim, Minjoon Seo* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2302.14691)][[Github](https://github.com/seonghyeonye/ICIL)]\
+28 Feb 2023 
+
 
 ### Tools & External APIs
 
