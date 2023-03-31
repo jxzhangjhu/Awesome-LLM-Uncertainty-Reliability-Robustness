@@ -116,7 +116,8 @@ COLLING 2022. [[Website](https://sites.google.com/view/uncertainty-nlp)]
 
 ## Prompt Engineering & Papers
 
-**PromptPapers** - [[Link](https://github.com/thunlp/PromptPapers)]  \
+**PromptPapers** - [[Link](https://github.com/thunlp/PromptPapers)] 
+
 **Awesome-Prompt-Engineering** - [[Link](https://github.com/promptslab/Awesome-Prompt-Engineering)]
 
 
