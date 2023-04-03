@@ -185,6 +185,11 @@ NAACL-HLT2022. [[Paper](https://aclanthology.org/2022.naacl-main.102/)] [[Github
 10 Jul 2022 
 
 
+**Fine-Tuning Language Models via Epistemic Neural Networks** \
+*Ian Osband, Seyed Mohammad Asghari, Benjamin Van Roy, Nat McAleese, John Aslanides, Geoffrey Irving* \
+arXiv 2022. [[Paper](https://arxiv.org/abs/2211.01568)][[Github](https://github.com/deepmind/neural_testbed)] \
+3 Nov 2022 
+
 
 ### Calibration
 
@@ -457,4 +462,5 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2303.13217)] [[Github](https://github
 - [Owain Evans](https://owainevans.github.io/): Research Associate in Artificial Intelligence, University of Oxford
 - [Tong Zhang]
  -->
+ <!-- - [Sebastian Farquhar](https://sebastianfarquhar.com/): Deepmind, Oxford  -->
 
