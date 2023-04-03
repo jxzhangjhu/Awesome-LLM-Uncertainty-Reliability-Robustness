@@ -190,6 +190,17 @@ NAACL-HLT2022. [[Paper](https://aclanthology.org/2022.naacl-main.102/)] [[Github
 arXiv 2022. [[Paper](https://arxiv.org/abs/2211.01568)][[Github](https://github.com/deepmind/neural_testbed)] \
 3 Nov 2022 
 
+**Navigating the Grey Area: Expressions of Overconfidence and Uncertainty in Language Models** \
+*Kaitlyn Zhou, Dan Jurafsky, Tatsunori Hashimoto* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2302.13439)] \
+25 Feb 2023 
+
+
+**Uncertainty Quantification with Pre-trained Language Models: A Large-Scale Empirical Analysis** \
+*Yuxin Xiao, Paul Pu Liang, Umang Bhatt, Willie Neiswanger, Ruslan Salakhutdinov, Louis-Philippe Morency* 
+EMNLP 2022 (Findings). [[Paper](https://arxiv.org/abs/2210.04714)][[Github](https://github.com/xiaoyuxin1002/uq-plm)] \
+10 Oct 2022 
+
 
 ### Calibration
 
@@ -200,7 +211,7 @@ ICLR 2023. [[Paper](https://arxiv.org/abs/2210.00045)]\
 
 **Calibrate Before Use: Improving Few-Shot Performance of Language Models** \
 *Tony Z. Zhao, Eric Wallace, Shi Feng, Dan Klein, Sameer Singh* \
-ICML 2021. [[Paper](https://arxiv.org/abs/2102.09690)][[Github](https://github.com/tonyzhaozh/few-shot-learning)\
+ICML 2021. [[Paper](https://arxiv.org/abs/2102.09690)][[Github](https://github.com/tonyzhaozh/few-shot-learning) \
 19 Feb 2021
 
 
