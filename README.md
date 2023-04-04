@@ -19,14 +19,14 @@ This repository contains a collection of resources and papers on **Reliability**
 - [Papers](#papers)
   - [Evaluation & Survey](#survey)
   - [Reliability](#reliability)
-    - [Uncertainty](#uncertainty)
+    - [Uncertainty Estimation](#uncertainty-estimation)
     - [Calibration](#calibration)
     - [Ambiguity](#ambiguity)
     - [Hallucination](#hallucination)
     - [Truthfulness](#truthfulness)
     - [Reasoning](#reasoning)
     - [Prompt tuning and design](#prompting-tuning-and-design)
-    - [Instruction](#instruction)
+    - [Instruction and RLHF](#instruction-and-rlhf)
     - [Tools and external APIs](#tools-and-external-apis)
   - [Robustness](#robustness)
     - [Invariance](#invariance)
@@ -173,7 +173,7 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2302.07842)] \
 
 ## Reliability
 
-### Uncertainty
+### Uncertainty Estimation
 
 **Teaching Models to Express Their Uncertainty in Words** \
 *Stephanie Lin, Jacob Hilton, Owain Evans* \
@@ -389,7 +389,7 @@ NAACL-HLT 2022. [[Paper](https://arxiv.org/abs/2112.08633)][[Github](https://git
 16 Dec 2021
 
 
-### Instruction & RLHF 
+### Instruction and RLHF 
 
 **Constitutional AI: Harmlessness from AI Feedback** \
 *Yuntao Bai, et al (Anthropic)* \
