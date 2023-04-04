@@ -24,14 +24,14 @@ This repository contains a collection of resources and papers on **Reliability**
     - [Ambiguity](#ambiguity)
     - [Hallucination](#hallucination)
     - [Truthfulness](#truthfulness)
-    - [Reasoning & COT](#reasoning)
-    - [Tuning, Optimization & Prompt Design](#tuning_optimization)
-    - [Instruction & RLHF](#RLHF)
-    - [Tools & External APIs](#tools)
+    - [Reasoning](#reasoning)
+    - [Prompting](#prompting)
+    - [Instruction](#instruction)
+    - [Tooling](#tooling)
   - [Robustness](#robustness)
     - [Invariance](#invariance)
     - [Distribution Shift](#distribution-shift)
-    - [Out-of-Distribution](#ood)
+    - [Out-of-Distribution](#out-of-distribution)
     - [Generalization](#generalization)
     - [Adversarial](#adversarial)
   - [Safety](#safety)
@@ -262,7 +262,7 @@ arXiv 2021. [[Paper](https://arxiv.org/abs/2110.06674)] [[Blog](https://www.less
 NeurIPS 2022 ML Safety Workshop. [[Paper](https://arxiv.org/abs/2211.05853)] \
 10 Nov 2022 
 
-### Reasoning & COT 
+### Reasoning 
 
 **Reliable Natural Language Understanding with Large Language Models and Answer Set Programming** \
 *Abhiramon Rajasekharan, Yankai Zeng, Parth Padalkar, Gopal Gupta* \
@@ -337,7 +337,7 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2212.10509)][[Github](https://github.
 20 Dec 2022 
 
 
-### Tuning, Optimization & Prompt Design 
+### Prompting 
 
 **Black-box Prompt Learning for Pre-trained Language Models** \
 *Shizhe Diao, Zhichao Huang, Ruijia Xu, Xuechun Li, Yong Lin, Xiao Zhou, Tong Zhang* \
@@ -407,7 +407,7 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2302.14691)][[Github](https://github.
 28 Feb 2023 
 
 
-### Tools & External APIs
+### Tooling
 
 **Internet-augmented language models through few-shot prompting for open-domain question answering**  \
 *Angeliki Lazaridou, Elena Gribovskaya, Wojciech Stokowiec, Nikolai Grigorev* \
