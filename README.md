@@ -352,11 +352,6 @@ ICML 2022. [[Paper](https://arxiv.org/abs/2201.03514)][[Github](https://github.c
 ICLR 2023. [[Paper](https://arxiv.org/abs/2210.03493)][[Github](https://github.com/amazon-science/auto-cot)]\
 7 Oct 2022
 
-**Active Prompting with Chain-of-Thought for Large Language Models** \
-*Shizhe Diao, Pengcheng Wang, Yong Lin, Tong Zhang* \
-arXiv 2023. [[Paper](https://arxiv.org/abs/2302.12246)][[Github](https://github.com/shizhediao/active-prompt)] \
-23 Feb 2023 
-
 **Automatic Prompt Augmentation and Selection with Chain-of-Thought from Labeled Data** \
 *KaShun Shum, Shizhe Diao, Tong Zhang*\
 arXiv 2023. [[Paper](https://arxiv.org/abs/2302.12822)][[Github](https://github.com/shizhediao/automate-cot)]\
@@ -439,6 +434,10 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2302.04761)] \
 NAACL-HLT2022. [[Paper](https://aclanthology.org/2022.naacl-main.102/)] [[Github](https://github.com/yueyu1030/actune)]\
 10 Jul 2022 
 
+**Active Prompting with Chain-of-Thought for Large Language Models** \
+*Shizhe Diao, Pengcheng Wang, Yong Lin, Tong Zhang* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2302.12246)][[Github](https://github.com/shizhediao/active-prompt)] \
+23 Feb 2023 
 
 
 ## Robustness
