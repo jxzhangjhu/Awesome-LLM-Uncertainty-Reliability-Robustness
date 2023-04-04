@@ -10,24 +10,36 @@ This repository contains a collection of resources and papers on **Reliability**
 
 "*Large language models have limited reliability, limited understanding, limited range, and hence need human supervision*. " - Michael Osborne, Professor of Machine Learning in the Dept. of Engineering Science, University of Oxford, January 25, 2023 
 
-<!-- ## Contents
+## Contents
 - [Resources](#resources)
   - [Introductory Posts](#introductory-posts)
-  - [Introductory Papers](#introductory-papers)
-  - [Introductory Videos](#introductory-videos)
-  - [Introductory Lectures](#introductory-lectures)
-  - [Tutorial and Jupyter Notebook](#tutorial-and-jupyter-notebook)
+  - [Technical Reports](#technical-reports)
+  - [Tutorial](#tutorial)
 
 - [Papers](#papers)
-  - [Survey](#survey)
+  - [Evaluation & Survey](#survey)
   - [Reliability](#reliability)
-    - [Generation](#generation)
-    - [Segmentation](#segmentation)
+    - [Uncertainty](#uncertainty)
+    - [Calibration](#calibration)
+    - [Ambiguity](#ambiguity)
+    - [Hallucination](#hallucination)
+    - [Truthfulness](#truthfulness)
+    - [Reasoning & COT](#reasoning)
+    - [Tuning, Optimization & Prompt Design](#tuning_optimization)
+    - [Instruction & RLHF](#RLHF)
+    - [Tools & External APIs](#tools)
   - [Robustness](#robustness)
-    - [Generation](#generation-1)
-    - [Conversion](#conversion)
+    - [Invariance](#invariance)
+    - [Distribution Shift](#distribution-shift)
+    - [Out-of-Distribution](#ood)
+    - [Generalization](#generalization)
+    - [Adversarial](#adversarial)
+  - [Safety](#safety)
+    - [Bias](#bias)
+    - [Fairness](#fairness)
+    - [Privacy](#privacy)
 
- -->
+
 
 # Resources
 ## Introductory Posts
@@ -232,7 +244,7 @@ arXiv 2022. [[Paper](https://arxiv.org/abs/2202.03629)] \
 8 Feb 2022
 
 
-### Truthful 
+### Truthfulness 
 
 **TruthfulQA: Measuring How Models Mimic Human Falsehoods** \
 *Stephanie Lin, Jacob Hilton, Owain Evans* \
