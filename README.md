@@ -126,12 +126,12 @@ arXiv 2023. [[Paper](https://cdn.openai.com/papers/gpt-4-system-card.pdf)] [[Git
 *Adam Fisch, Robin Jia, Tal Schuster* \
 COLLING 2022. [[Website](https://sites.google.com/view/uncertainty-nlp)]
 
-## Prompt Engineering & Papers
+<!-- ## Prompt Engineering & Papers
 
 **PromptPapers** - [[Link](https://github.com/thunlp/PromptPapers)] 
 
 **Awesome-Prompt-Engineering** - [[Link](https://github.com/promptslab/Awesome-Prompt-Engineering)]
-
+ -->
 
 
 
