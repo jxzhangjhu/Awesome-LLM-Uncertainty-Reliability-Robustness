@@ -30,6 +30,7 @@ This repository contains a collection of resources and papers on **Reliability**
     - [Prompt tuning and design](#prompting-tuning-and-design)
     - [Instruction and RLHF](#instruction-and-rlhf)
     - [Tools and external APIs](#tools-and-external-apis)
+    - [Active Learning](#active-learning)
   - [Robustness](#robustness)
     - [Invariance](#invariance)
     - [Distribution Shift](#distribution-shift)
@@ -192,11 +193,6 @@ ICLR 2023. [[Paper](https://arxiv.org/abs/2302.09664)] \
 *Yue Yu, Rongzhi Zhang, Ran Xu, Jieyu Zhang, Jiaming Shen, Chao Zhang* \
 arXiv 2022. [[Paper](https://arxiv.org/abs/2209.06995)][[Github](https://github.com/yueyu1030/Patron)] \
 15 Sep 2022
-
-**AcTune: Uncertainty-Based Active Self-Training for Active Fine-Tuning of Pretrained Language Models** \
-*Yue Yu, Lingkai Kong, Jieyu Zhang, Rongzhi Zhang, Chao Zhang* \
-NAACL-HLT2022. [[Paper](https://aclanthology.org/2022.naacl-main.102/)] [[Github](https://github.com/yueyu1030/actune)]\
-10 Jul 2022 
 
 
 **Fine-Tuning Language Models via Epistemic Neural Networks** \
@@ -435,6 +431,14 @@ arXiv 2022. [[Paper](https://arxiv.org/abs/2205.12255)] \
 *Timo Schick, Jane Dwivedi-Yu, Roberto Dessì, Roberta Raileanu, Maria Lomeli, Luke Zettlemoyer, Nicola Cancedda, Thomas Scialom* \
 arXiv 2023. [[Paper](https://arxiv.org/abs/2302.04761)] \
 9 Feb 2023 
+
+### Active Learning 
+
+**AcTune: Uncertainty-Based Active Self-Training for Active Fine-Tuning of Pretrained Language Models** \
+*Yue Yu, Lingkai Kong, Jieyu Zhang, Rongzhi Zhang, Chao Zhang* \
+NAACL-HLT2022. [[Paper](https://aclanthology.org/2022.naacl-main.102/)] [[Github](https://github.com/yueyu1030/actune)]\
+10 Jul 2022 
+
 
 
 ## Robustness
