@@ -11,12 +11,12 @@ This repository contains a collection of resources and papers on **Reliability**
 "*Large language models have limited reliability, limited understanding, limited range, and hence need human supervision*. " - Michael Osborne, Professor of Machine Learning in the Dept. of Engineering Science, University of Oxford, January 25, 2023 
 
 ## Contents
-- [Resources ](#resources-)
+
+- [Resources](#resources)
   - [Introductory Posts](#introductory-posts)
   - [Technical Reports](#technical-reports)
   - [Tutorial](#tutorial)
-
-- [Papers ](#papers-)
+- [Papers](#papers)
   - [Evaluation & Survey](#survey)
   - [Reliability](#reliability)
     - [Uncertainty](#uncertainty)
@@ -25,9 +25,9 @@ This repository contains a collection of resources and papers on **Reliability**
     - [Hallucination](#hallucination)
     - [Truthfulness](#truthfulness)
     - [Reasoning](#reasoning)
-    - [Prompting](#prompting)
+    - [Prompt tuning and design](#prompting-tuning-and-design)
     - [Instruction](#instruction)
-    - [Tooling](#tooling)
+    - [Tools and external APIs](#tools-and-external-apis)
   - [Robustness](#robustness)
     - [Invariance](#invariance)
     - [Distribution Shift](#distribution-shift)
@@ -337,7 +337,7 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2212.10509)][[Github](https://github.
 20 Dec 2022 
 
 
-### Prompting 
+### Prompt tuning and design
 
 **Black-box Prompt Learning for Pre-trained Language Models** \
 *Shizhe Diao, Zhichao Huang, Ruijia Xu, Xuechun Li, Yong Lin, Xiao Zhou, Tong Zhang* \
