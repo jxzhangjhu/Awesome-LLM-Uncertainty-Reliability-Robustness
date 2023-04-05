@@ -38,8 +38,7 @@ This repository contains a collection of resources and papers on **Reliability**
     - [Generalization](#generalization)
     - [Adversarial](#adversarial)
   - [Safety](#safety)
-    - [Bias](#bias)
-    - [Fairness](#fairness)
+    - [Bias and Fairness](#bias-and-fairness)
     - [Privacy](#privacy)
 
 
@@ -499,9 +498,23 @@ ACL-IJCNLP 2021. [[Paper](https://arxiv.org/abs/2105.02590)] \
 
 ## Safety
 
-### Bias
+### Bias and Fairness
+> more papers can be found via https://github.com/uclanlp/awesome-fairness-papers 
 
-### Fairness
+**Logic Against Bias: Textual Entailment Mitigates Stereotypical Sentence Reasoning** \
+*Hongyin Luo, James Glass* \ 
+EACL 2023. [[Paper](https://arxiv.org/abs/2303.05670)] [[News][https://news.mit.edu/2023/large-language-models-are-biased-can-logic-help-save-them-0303]] \
+10 Mar 2023 
+
+**Measuring Fairness with Biased Rulers: A Survey on Quantifying Biases in Pretrained Language Models** \
+*Pieter Delobelle, Ewoenam Kwaku Tokpo, Toon Calders, Bettina Berendt* \
+arXiv 2021. [[Paper](https://arxiv.org/abs/2112.07447)] \
+14 Dec 2021 
+
+**Towards Understanding and Mitigating Social Biases in Language Models** \ 
+*Paul Pu Liang, Chiyu Wu, Louis-Philippe Morency, Ruslan Salakhutdinov* \
+ICML 2021. [[Paper](https://arxiv.org/abs/2106.13219)] [[Github](https://github.com/pliang279/LM_bias)] \
+24 Jun 2021 
 
 **Fairness-guided Few-shot Prompting for Large Language Models** \
 *Huan Ma, Changqing Zhang, Yatao Bian, Lemao Liu, Zhirui Zhang, Peilin Zhao, Shu Zhang, Huazhu Fu, Qinghua Hu, Bingzhe Wu* \
