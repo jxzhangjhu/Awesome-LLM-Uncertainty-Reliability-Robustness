@@ -35,8 +35,9 @@ This repository contains a collection of resources and papers on **Reliability**
     - [Invariance](#invariance)
     - [Distribution Shift](#distribution-shift)
     - [Out-of-Distribution](#out-of-distribution)
-    - [Generalization](#generalization)
+    - [Adaptation and Generalization](#adaptation-and-generalization)
     - [Adversarial](#adversarial)
+    - [Attribution](#attribution)
 <!--   - [Safety](#safety)
     - [Bias and Fairness](#bias-and-fairness)
     - [Privacy](#privacy) -->
@@ -470,10 +471,21 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2302.12246)][[Github](https://github.
 
 
 ## Robustness
-### Invariance
+### Invariance 
+
+**Invariant Language Modeling** \ 
+*Maxime Peyrard, Sarvjeet Singh Ghotra, Martin Josifoski, Vidhan Agarwal, Barun Patra, Dean Carignan, Emre Kiciman, Robert West* \
+EMNLP 2022. [[Paper](https://arxiv.org/abs/2110.08413)][[Github](https://github.com/epfl-dlab/invariant-language-models)] \
+16 Oct 2021 
 
 
 ### Distribution Shift
+
+**Exploring Distributional Shifts in Large Language Models for Code Analysis** \
+*Shushan Arakelyan, Rocktim Jyoti Das, Yi Mao, Xiang Ren* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2303.09128)] \
+16 Mar 2023 
+
 
 ### Out-of-Distribution 
 
@@ -483,7 +495,12 @@ ICLR 2023. [[Paper](https://arxiv.org/abs/2209.15558)] \
 30 Sep 2022 
 
 
-### Generalization
+### Adaptation and Generalization
+
+**On the Domain Adaptation and Generalization of Pretrained Language Models: A Survey** \
+*Xu Guo, Han Yu* \
+arXiv 2022. [[Paper](https://arxiv.org/abs/2211.03154)] \
+6 Nov 2022 
 
 ### Adversarial 
 
@@ -491,6 +508,14 @@ ICLR 2023. [[Paper](https://arxiv.org/abs/2209.15558)] \
 *Samson Tan, Shafiq Joty, Kathy Baxter, Araz Taeihagh, Gregory A. Bennett, Min-Yen Kan* \
 ACL-IJCNLP 2021. [[Paper](https://arxiv.org/abs/2105.02590)] \
 06 May 2021
+
+
+### Attribution 
+
+**Attributed Question Answering: Evaluation and Modeling for Attributed Large Language Models** \
+*Bernd Bohnet, Vinh Q. Tran, Pat Verga, Roee Aharoni, Daniel Andor, Livio Baldini Soares, Massimiliano Ciaramita, Jacob Eisenstein, Kuzman Ganchev, Jonathan Herzig, Kai Hui, Tom Kwiatkowski, Ji Ma, Jianmo Ni, Lierni Sestorain Saralegui, Tal Schuster, William W. Cohen, Michael Collins, Dipanjan Das, Donald Metzler, Slav Petrov, Kellie Webster* \
+arXiv 2022. [[Paper](https://arxiv.org/abs/2212.08037)] \
+15 Dec 2022 
 
 <!-- > new metric to evaluate the prompt  -->
 
