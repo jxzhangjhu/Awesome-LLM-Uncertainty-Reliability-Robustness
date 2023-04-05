@@ -236,6 +236,11 @@ ICML 2021. [[Paper](https://arxiv.org/abs/2102.09690)][[Github](https://github.c
 NAACL 2022. [[Paper](https://arxiv.org/abs/2012.14983)] \ 
 22 Jun 2022 
 
+**Re-Examining Calibration: The Case of Question Answering** \
+*Chenglei Si, Chen Zhao, Sewon Min, Jordan Boyd-Graber* \
+EMNLP 2022 Findings. [[Paper](https://arxiv.org/abs/2205.12507)] \
+25 May 2022 
+
 
 
 ### Ambiguity 
