@@ -218,6 +218,11 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2302.13439)] \
 EMNLP 2022 (Findings). [[Paper](https://arxiv.org/abs/2210.04714)][[Github](https://github.com/xiaoyuxin1002/uq-plm)] \
 10 Oct 2022 
 
+**Uncertainty Estimation for Language Reward Models** \
+*Adam Gleave, Geoffrey Irving* \
+arXiv 2022. [[Paper](https://arxiv.org/abs/2203.07472)] \
+14 Mar 2022 
+
 
 ### Calibration
 
