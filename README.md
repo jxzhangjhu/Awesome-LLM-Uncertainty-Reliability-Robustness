@@ -1,4 +1,4 @@
-# Awesome-LLM-Reliability-Robustness-Safety
+# Awesome-LLM-Reliability-Robustness
 <!-- Awesome-LLM-Robustness: a curated list of Robustness and Reliability in Large Language Models -->
 
 \
@@ -6,7 +6,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Made With Love](https://img.shields.io/badge/Made%20With-Love-red.svg)](https://github.com/chetanraj/awesome-github-badges)
 
-This repository contains a collection of resources and papers on **Reliability**, **Robustness**  and **Safety** in **Large Language Models (LLMs)**.
+This repository contains a collection of resources and papers on **Reliability** and **Robustness** in **Large Language Models (LLMs)**.
 
 "*Large language models have limited reliability, limited understanding, limited range, and hence need human supervision*. " - Michael Osborne, Professor of Machine Learning in the Dept. of Engineering Science, University of Oxford, January 25, 2023 
 
@@ -37,9 +37,9 @@ This repository contains a collection of resources and papers on **Reliability**
     - [Out-of-Distribution](#out-of-distribution)
     - [Generalization](#generalization)
     - [Adversarial](#adversarial)
-  - [Safety](#safety)
+<!--   - [Safety](#safety)
     - [Bias and Fairness](#bias-and-fairness)
-    - [Privacy](#privacy)
+    - [Privacy](#privacy) -->
 
 
 
@@ -496,7 +496,7 @@ ACL-IJCNLP 2021. [[Paper](https://arxiv.org/abs/2105.02590)] \
 
 
 
-## Safety
+<!-- ## Safety
 
 ### Bias and Fairness
 > more papers can be found via https://github.com/uclanlp/awesome-fairness-papers 
@@ -523,7 +523,7 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2303.13217)] [[Github](https://github
 
 <!-- improve in-context learning  -->
 
-### Privacy
+### Privacy -->
 
 
 
