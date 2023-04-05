@@ -178,6 +178,13 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2302.07842)] \
 
 ### Uncertainty Estimation
 
+
+**Human Uncertainty in Concept-Based AI Systems** \
+*Katherine M. Collins, Matthew Barker, Mateo Espinosa Zarlenga, Naveen Raman, Umang Bhatt, Mateja Jamnik, Ilia Sucholutsky, Adrian Weller, Krishnamurthy Dvijotham* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2303.12872)] \
+22 Mar 2023 
+
+
 **Teaching Models to Express Their Uncertainty in Words** \
 *Stephanie Lin, Jacob Hilton, Owain Evans* \
 TMLR 2022. [[Paper](https://arxiv.org/abs/2205.14334)] [[Github](https://github.com/sylinrl/CalibratedMath)] [[TMLR](https://openreview.net/forum?id=8s8K2UZGTZ)] [[Slide](https://owainevans.github.io/pdfs/chai_calibration_owain.pdf)]\
@@ -223,6 +230,11 @@ ICLR 2023. [[Paper](https://arxiv.org/abs/2210.00045)]\
 *Tony Z. Zhao, Eric Wallace, Shi Feng, Dan Klein, Sameer Singh* \
 ICML 2021. [[Paper](https://arxiv.org/abs/2102.09690)][[Github](https://github.com/tonyzhaozh/few-shot-learning) \
 19 Feb 2021
+
+**Reducing conversational agents' overconfidence through linguistic calibration** \
+*Sabrina J. Mielke, Arthur Szlam, Emily Dinan, Y-Lan Boureau* \
+NAACL 2022. [[Paper](https://arxiv.org/abs/2012.14983)] \ 
+22 Jun 2022 
 
 
 
@@ -337,6 +349,8 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2212.10509)][[Github](https://github.
 
 ### Prompt tuning and design
 
+**Your Prompt is My Command**
+
 **Black-box Prompt Learning for Pre-trained Language Models** \
 *Shizhe Diao, Zhichao Huang, Ruijia Xu, Xuechun Li, Yong Lin, Xiao Zhou, Tong Zhang* \
 TMLR 2023. [[Paper](https://arxiv.org/abs/2201.08531)][[Github](https://github.com/shizhediao/Black-Box-Prompt-Learning)] \
@@ -383,6 +397,12 @@ NAACL-HLT 2022. [[Paper](https://arxiv.org/abs/2112.08633)][[Github](https://git
 
 
 ### Instruction and RLHF 
+
+
+**Is Prompt All You Need? No. A Comprehensive and Broader View of Instruction Learning** \
+*Renze Lou, Kai Zhang, Wenpeng Yin* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2303.10475)][[Github](https://github.com/RenzeLou/awesome-instruction-learning)] \
+18 Mar 2023  
 
 **Constitutional AI: Harmlessness from AI Feedback** \
 *Yuntao Bai, et al (Anthropic)* \
