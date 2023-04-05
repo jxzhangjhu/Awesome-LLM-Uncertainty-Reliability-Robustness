@@ -1,5 +1,5 @@
 # Awesome-LLM-Reliability-Robustness-Safety
-<!-- Awesome-LLM-Robustness: a curated list of Robustness, Reliability and Safety in Large Language Models -->
+<!-- Awesome-LLM-Robustness: a curated list of Robustness and Reliability in Large Language Models -->
 
 \
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/hee9joon/Awesome-Diffusion-Models) 
