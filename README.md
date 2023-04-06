@@ -282,6 +282,18 @@ arXiv 2022. [[Paper](https://arxiv.org/abs/2211.07516)][[Github](https://github.
 *Meiqi Guo, Mingda Zhang, Siva Reddy, Malihe Alikhani* \
 AKBC 2021. [[Paper](https://openreview.net/forum?id=SlDZ1o8FsJU)] \
 22 Jun 2021 
+
+### Active Learning 
+
+**AcTune: Uncertainty-Based Active Self-Training for Active Fine-Tuning of Pretrained Language Models** \
+*Yue Yu, Lingkai Kong, Jieyu Zhang, Rongzhi Zhang, Chao Zhang* \
+NAACL-HLT2022. [[Paper](https://aclanthology.org/2022.naacl-main.102/)] [[Github](https://github.com/yueyu1030/actune)]\
+10 Jul 2022 
+
+**Active Prompting with Chain-of-Thought for Large Language Models** \
+*Shizhe Diao, Pengcheng Wang, Yong Lin, Tong Zhang* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2302.12246)][[Github](https://github.com/shizhediao/active-prompt)] \
+23 Feb 2023 
  
 
 ## Reliability
@@ -499,18 +511,6 @@ arXiv 2022. [[Paper](https://arxiv.org/abs/2205.12255)] \
 *Timo Schick, Jane Dwivedi-Yu, Roberto Dessì, Roberta Raileanu, Maria Lomeli, Luke Zettlemoyer, Nicola Cancedda, Thomas Scialom* \
 arXiv 2023. [[Paper](https://arxiv.org/abs/2302.04761)] \
 9 Feb 2023 
-
-### Active Learning 
-
-**AcTune: Uncertainty-Based Active Self-Training for Active Fine-Tuning of Pretrained Language Models** \
-*Yue Yu, Lingkai Kong, Jieyu Zhang, Rongzhi Zhang, Chao Zhang* \
-NAACL-HLT2022. [[Paper](https://aclanthology.org/2022.naacl-main.102/)] [[Github](https://github.com/yueyu1030/actune)]\
-10 Jul 2022 
-
-**Active Prompting with Chain-of-Thought for Large Language Models** \
-*Shizhe Diao, Pengcheng Wang, Yong Lin, Tong Zhang* \
-arXiv 2023. [[Paper](https://arxiv.org/abs/2302.12246)][[Github](https://github.com/shizhediao/active-prompt)] \
-23 Feb 2023 
 
 
 ## Robustness
