@@ -1,12 +1,11 @@
-# Awesome-LLM-Reliability-Uncertainty-Robustness
-<!-- Awesome-LLM-Robustness: a curated list of Reliability, Uncertainty and Robustness in Large Language Models -->
+# Awesome-LLM-Uncertainty-Reliability-Robustness
 
 \
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/hee9joon/Awesome-Diffusion-Models) 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Made With Love](https://img.shields.io/badge/Made%20With-Love-red.svg)](https://github.com/chetanraj/awesome-github-badges)
 
-This repository, called **RUR-LLMs** contains a collection of resources and papers on **Reliability**, **Uncertainty** and **Robustness** in **Large Language Models**. 
+This repository, called **UR2-LLMs** contains a collection of resources and papers on **Uncertainty**, **Reliability** and **Robustness** in **Large Language Models**. 
 
 "*Large language models have limited reliability, limited understanding, limited range, and hence need human supervision*. " - Michael Osborne, Professor of Machine Learning in the Dept. of Engineering Science, University of Oxford, January 25, 2023 
 
@@ -20,17 +19,18 @@ This repository, called **RUR-LLMs** contains a collection of resources and pape
   - [Tutorial](#tutorial)
 - [Papers](#papers)
   - [Evaluation & Survey](#survey)
-  - [Reliability](#reliability)
+  - [Uncertainty](#uncertainty)
     - [Uncertainty Estimation](#uncertainty-estimation)
     - [Calibration](#calibration)
     - [Ambiguity](#ambiguity)
+    - [Active Learning](#active-learning)
+  - [Reliability](#reliability)
     - [Hallucination](#hallucination)
     - [Truthfulness](#truthfulness)
     - [Reasoning](#reasoning)
     - [Prompt tuning and design](#prompting-tuning-and-design)
     - [Instruction and RLHF](#instruction-and-rlhf)
     - [Tools and external APIs](#tools-and-external-apis)
-    - [Active Learning](#active-learning)
   - [Robustness](#robustness)
     - [Invariance](#invariance)
     - [Distribution Shift](#distribution-shift)
@@ -174,7 +174,8 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2302.07842)] \
 15 Feb 2023 
 
 
-## Reliability
+
+## Uncertainty
 
 ### Uncertainty Estimation
 
@@ -254,6 +255,9 @@ EMNLP 2022 Findings. [[Paper](https://arxiv.org/abs/2205.12507)] \
 *Lorenz Kuhn, Yarin Gal, Sebastian Farquhar* \
 arXiv 2022. [[Paper](https://arxiv.org/abs/2303.09508)] \
 15 Dec 2022
+
+
+## Reliability
 
 
 ### Hallucination
