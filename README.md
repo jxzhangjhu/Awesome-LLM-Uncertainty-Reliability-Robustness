@@ -227,6 +227,12 @@ arXiv 2022. [[Paper](https://arxiv.org/abs/2203.07472)] \
 
 ### Calibration
 
+**Calibrated Interpretation: Confidence Estimation in Semantic Parsing** \
+*Elias Stengel-Eskin, Benjamin Van Durme* \
+arXiv 2022. [[Paper](https://arxiv.org/abs/2211.07443)] [[Github](https://github.com/esteng/calibration_miso)] \
+14 Nov 2022. 
+
+
 **Calibrating Sequence likelihood Improves Conditional Language Generation** \
 *Yao Zhao, Misha Khalman, Rishabh Joshi, Shashi Narayan, Mohammad Saleh, Peter J. Liu* \
 ICLR 2023. [[Paper](https://arxiv.org/abs/2210.00045)]\
@@ -266,6 +272,11 @@ ACM Computing Survey, 2022. [[Paper](https://dl.acm.org/doi/abs/10.1145/3534965)
 NeurIPS MLSW Workshop 2022. [[Paper](https://openreview.net/forum?id=OE9V81spp6B)] \
 5 Dec 2022 
 
+**Why Did the Chicken Cross the Road? Rephrasing and Analyzing Ambiguous Questions in VQA** \
+*Elias Stengel-Eskin, Jimena Guallar-Blasco, Yi Zhou, Benjamin Van Durme* \
+arXiv 2022. [[Paper](https://arxiv.org/abs/2211.07516)][[Github](https://github.com/esteng/ambiguous_vqa)] \
+14 Nov 2022 
+
 
 **Abg-CoQA: Clarifying Ambiguity in Conversational Question Answering** \
 *Meiqi Guo, Mingda Zhang, Siva Reddy, Malihe Alikhani* \
@@ -277,6 +288,18 @@ AKBC 2021. [[Paper](https://openreview.net/forum?id=SlDZ1o8FsJU)] \
 
 
 ### Hallucination
+
+**RHO (ρ): Reducing Hallucination in Open-domain Dialogues with Knowledge Grounding** \
+*Ziwei Ji, Zihan Liu, Nayeon Lee, Tiezheng Yu, Bryan Wilie, Min Zeng, Pascale Fung* \
+arXiv 2022. [[Paper](https://arxiv.org/abs/2212.01588)] \
+3 Dec 2022 
+
+
+**FaithDial: A Faithful Benchmark for Information-Seeking Dialogue** \
+*Nouha Dziri, Ehsan Kamalloo, Sivan Milton, Osmar Zaiane, Mo Yu, Edoardo M. Ponti, Siva Reddy* \
+TACL 2022. [[Paper](https://arxiv.org/abs/2204.10757)] \
+22 Apr 2022 
+
 
 **Survey of Hallucination in Natural Language Generation** \
 *Ziwei Ji, Nayeon Lee, Rita Frieske, Tiezheng Yu, Dan Su, Yan Xu, Etsuko Ishii, Yejin Bang, Wenliang Dai, Andrea Madotto, Pascale Fung* \
@@ -579,4 +602,5 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2303.13217)] [[Github](https://github
 - [Tong Zhang]
  -->
  <!-- - [Sebastian Farquhar](https://sebastianfarquhar.com/): Deepmind, Oxford  -->
+ <!-- [Elias Stengel-Eskin](https://esteng.github.io/) -->
 
