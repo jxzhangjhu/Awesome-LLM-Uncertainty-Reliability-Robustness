@@ -7,6 +7,7 @@
 [![Made With Love](https://img.shields.io/badge/Made%20With-Love-red.svg)](https://github.com/chetanraj/awesome-github-badges)
 
 This repository, called **RUR-LLMs** contains a collection of resources and papers on **Reliability**, **Uncertainty** and **Robustness** in **Large Language Models**. 
+
 "*Large language models have limited reliability, limited understanding, limited range, and hence need human supervision*. " - Michael Osborne, Professor of Machine Learning in the Dept. of Engineering Science, University of Oxford, January 25, 2023 
 
 *Welcome to share your papers, thoughts and ideas in this area!* 
