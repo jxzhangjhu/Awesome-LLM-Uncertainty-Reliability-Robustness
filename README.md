@@ -238,10 +238,11 @@ arXiv 2022. [[Paper](https://arxiv.org/abs/2211.07443)] [[Github](https://github
 ICLR 2023. [[Paper](https://arxiv.org/abs/2210.00045)]\
 30 Sep 2022
 
-**Calibrate Before Use: Improving Few-Shot Performance of Language Models** \
-*Tony Z. Zhao, Eric Wallace, Shi Feng, Dan Klein, Sameer Singh* \
-ICML 2021. [[Paper](https://arxiv.org/abs/2102.09690)][[Github](https://github.com/tonyzhaozh/few-shot-learning) \
-19 Feb 2021
+**Calibrated Selective Classification** \
+*Adam Fisch, Tommi Jaakkola, Regina Barzilay* \
+TMLR 2022. [[Paper](https://arxiv.org/abs/2208.12084)] \
+25 Aug 2022 
+
 
 **Reducing conversational agents' overconfidence through linguistic calibration** \
 *Sabrina J. Mielke, Arthur Szlam, Emily Dinan, Y-Lan Boureau* \
@@ -252,6 +253,11 @@ NAACL 2022. [[Paper](https://arxiv.org/abs/2012.14983)] \
 *Chenglei Si, Chen Zhao, Sewon Min, Jordan Boyd-Graber* \
 EMNLP 2022 Findings. [[Paper](https://arxiv.org/abs/2205.12507)] \
 25 May 2022 
+
+**Calibrate Before Use: Improving Few-Shot Performance of Language Models** \
+*Tony Z. Zhao, Eric Wallace, Shi Feng, Dan Klein, Sameer Singh* \
+ICML 2021. [[Paper](https://arxiv.org/abs/2102.09690)][[Github](https://github.com/tonyzhaozh/few-shot-learning) \
+19 Feb 2021
 
 
 
