@@ -256,6 +256,22 @@ EMNLP 2022 Findings. [[Paper](https://arxiv.org/abs/2205.12507)] \
 arXiv 2022. [[Paper](https://arxiv.org/abs/2303.09508)] \
 15 Dec 2022
 
+**How to Approach Ambiguous Queries in Conversational Search: A Survey of Techniques, Approaches, Tools, and Challenges** \
+*Kimiya Keyvan, Jimmy Xiangji Huang* \
+ACM Computing Survey, 2022. [[Paper](https://dl.acm.org/doi/abs/10.1145/3534965)] \
+7 Dec 2022 
+
+**Assistance with large language models** \
+*Dmitrii Krasheninnikov, Egor Krasheninnikov, David Krueger* \
+NeurIPS MLSW Workshop 2022. [[Paper](https://openreview.net/forum?id=OE9V81spp6B)] \
+5 Dec 2022 
+
+
+**Abg-CoQA: Clarifying Ambiguity in Conversational Question Answering** \
+*Meiqi Guo, Mingda Zhang, Siva Reddy, Malihe Alikhani* \
+AKBC 2021. [[Paper](https://openreview.net/forum?id=SlDZ1o8FsJU)] \
+22 Jun 2021 
+ 
 
 ## Reliability
 
