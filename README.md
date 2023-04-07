@@ -216,7 +216,7 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2302.13439)] \
 
 
 **Uncertainty Quantification with Pre-trained Language Models: A Large-Scale Empirical Analysis** \
-*Yuxin Xiao, Paul Pu Liang, Umang Bhatt, Willie Neiswanger, Ruslan Salakhutdinov, Louis-Philippe Morency* 
+*Yuxin Xiao, Paul Pu Liang, Umang Bhatt, Willie Neiswanger, Ruslan Salakhutdinov, Louis-Philippe Morency* \
 EMNLP 2022 (Findings). [[Paper](https://arxiv.org/abs/2210.04714)][[Github](https://github.com/xiaoyuxin1002/uq-plm)] \
 10 Oct 2022 
 
