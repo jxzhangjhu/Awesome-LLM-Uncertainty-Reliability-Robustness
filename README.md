@@ -345,6 +345,15 @@ NeurIPS 2022 ML Safety Workshop. [[Paper](https://arxiv.org/abs/2211.05853)] \
 
 ### Reasoning 
 
+**REFINER: Reasoning Feedback on Intermediate Representations** \
+*Debjit Paul, Mete Ismayilzada, Maxime Peyrard, Beatriz Borges, Antoine Bosselut, Robert West, Boi Faltings* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2304.01904)] \
+4 Apr 2023 
+
+
+
+
+
 **Reliable Natural Language Understanding with Large Language Models and Answer Set Programming** \
 *Abhiramon Rajasekharan, Yankai Zeng, Parth Padalkar, Gopal Gupta* \
 arXiv 2023. [[Paper](https://arxiv.org/abs/2302.03780)] \
@@ -468,6 +477,11 @@ NAACL-HLT 2022. [[Paper](https://arxiv.org/abs/2112.08633)][[Github](https://git
 
 
 ### Instruction and RLHF 
+
+**Self-Refine: Iterative Refinement with Self-Feedback** \
+*Aman Madaan, Niket Tandon, Prakhar Gupta, Skyler Hallinan, Luyu Gao, Sarah Wiegreffe, Uri Alon, Nouha Dziri, Shrimai Prabhumoye, Yiming Yang, Sean Welleck, Bodhisattwa Prasad Majumder, Shashank Gupta, Amir Yazdanbakhsh, Peter Clark* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2303.17651)][[Github](https://github.com/madaan/self-refine)] [[Website](https://selfrefine.info/)] \
+30 Mar 2023 
 
 
 **Is Prompt All You Need? No. A Comprehensive and Broader View of Instruction Learning** \
