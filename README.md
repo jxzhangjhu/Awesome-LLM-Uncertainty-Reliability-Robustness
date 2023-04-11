@@ -186,6 +186,16 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2302.07842)] \
 arXiv 2023. [[Paper](https://arxiv.org/abs/2303.12872)] \
 22 Mar 2023 
 
+**Navigating the Grey Area: Expressions of Overconfidence and Uncertainty in Language Models** \
+*Kaitlyn Zhou, Dan Jurafsky, Tatsunori Hashimoto* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2302.13439)] \
+25 Feb 2023 
+
+**DEUP: Direct Epistemic Uncertainty Prediction** \
+*Salem Lahlou, Moksh Jain, Hadi Nekoei, Victor Ion Butoi, Paul Bertin, Jarrid Rector-Brooks, Maksym Korablyov, Yoshua Bengio* \
+TMLR 2023. [[Paper](https://arxiv.org/abs/2102.08501)] \
+3 Feb 2023 
+
 
 **Teaching Models to Express Their Uncertainty in Words** \
 *Stephanie Lin, Jacob Hilton, Owain Evans* \
@@ -209,10 +219,6 @@ arXiv 2022. [[Paper](https://arxiv.org/abs/2209.06995)][[Github](https://github.
 arXiv 2022. [[Paper](https://arxiv.org/abs/2211.01568)][[Github](https://github.com/deepmind/neural_testbed)] \
 3 Nov 2022 
 
-**Navigating the Grey Area: Expressions of Overconfidence and Uncertainty in Language Models** \
-*Kaitlyn Zhou, Dan Jurafsky, Tatsunori Hashimoto* \
-arXiv 2023. [[Paper](https://arxiv.org/abs/2302.13439)] \
-25 Feb 2023 
 
 
 **Uncertainty Quantification with Pre-trained Language Models: A Large-Scale Empirical Analysis** \
@@ -224,6 +230,11 @@ EMNLP 2022 (Findings). [[Paper](https://arxiv.org/abs/2210.04714)][[Github](http
 *Adam Gleave, Geoffrey Irving* \
 arXiv 2022. [[Paper](https://arxiv.org/abs/2203.07472)] \
 14 Mar 2022 
+
+**Uncertainty Estimation in Autoregressive Structured Prediction** \
+*Andrey Malinin, Mark Gales* \
+ICLR 2021. [[Paper](https://arxiv.org/abs/2002.07650)] \
+18 Feb 2020 
 
 
 ### Calibration
