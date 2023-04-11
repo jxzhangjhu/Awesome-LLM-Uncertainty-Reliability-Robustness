@@ -174,6 +174,10 @@ arXiv 2022. [[Paper](https://arxiv.org/abs/2207.05221)] \
 arXiv 2023. [[Paper](https://arxiv.org/abs/2302.07842)] \
 15 Feb 2023 
 
+**A Survey of Evaluation Metrics Used for NLG Systems** \
+*Ananya B. Sai, Akash Kumar Mohankumar, Mitesh M. Khapra* \
+ACM Computing Survey, 2022. [[Paper](https://dl.acm.org/doi/abs/10.1145/3485766)] \
+18 Jan 2022
 
 
 ## Uncertainty
@@ -231,10 +235,22 @@ EMNLP 2022 (Findings). [[Paper](https://arxiv.org/abs/2210.04714)][[Github](http
 arXiv 2022. [[Paper](https://arxiv.org/abs/2203.07472)] \
 14 Mar 2022 
 
+**Uncertainty Estimation and Reduction of Pre-trained Models for Text Regression** \
+*Yuxia Wang, Daniel Beck, Timothy Baldwin, Karin Verspoor* \
+TACL 2022. [[Paper](https://aclanthology.org/2022.tacl-1.39/)] \
+Jun 2022 
+
+
 **Uncertainty Estimation in Autoregressive Structured Prediction** \
 *Andrey Malinin, Mark Gales* \
 ICLR 2021. [[Paper](https://arxiv.org/abs/2002.07650)] \
 18 Feb 2020 
+
+
+**Analyzing Uncertainty in Neural Machine Translation** \
+*Myle Ott, Michael Auli, David Grangier, Marc’Aurelio Ranzato* \
+ICML 2018.  [[Paper](https://proceedings.mlr.press/v80/ott18a.html)] \
+2018 
 
 
 ### Calibration
@@ -266,11 +282,27 @@ NAACL 2022. [[Paper](https://arxiv.org/abs/2012.14983)] \
 EMNLP 2022 Findings. [[Paper](https://arxiv.org/abs/2205.12507)] \
 25 May 2022 
 
+
+**Uncertainty-aware machine translation evaluation** \
+*Taisiya Glushkova, Chrysoula Zerva, Ricardo Rei, André F. T. Martins* \
+EMNLP 2021. [[Paper](https://arxiv.org/abs/2109.06352)] \
+13 Sep 2021
+
+
 **Calibrate Before Use: Improving Few-Shot Performance of Language Models** \
 *Tony Z. Zhao, Eric Wallace, Shi Feng, Dan Klein, Sameer Singh* \
 ICML 2021. [[Paper](https://arxiv.org/abs/2102.09690)][[Github](https://github.com/tonyzhaozh/few-shot-learning) \
 19 Feb 2021
 
+**How Can We Know When Language Models Know? On the Calibration of Language Models for Question Answering** \
+*Zhengbao Jiang, Jun Araki, Haibo Ding, Graham Neubig* \
+TACL 2021. [[Paper](https://arxiv.org/abs/2012.00955)][[Github](https://github.com/jzbjyb/lm-calibration)] \
+2 Dec 2020
+
+**Calibration of Pre-trained Transformers** \
+*Shrey Desai, Greg Durrett* \
+EMNLP 2020. [[Paper](https://arxiv.org/abs/2003.07892)][[Github](https://github.com/shreydesai/calibration)] \
+17 May 2020
 
 
 ### Ambiguity 
