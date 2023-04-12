@@ -280,7 +280,7 @@ TMLR 2022. [[Paper](https://arxiv.org/abs/2208.12084)] \
 
 **Reducing conversational agents' overconfidence through linguistic calibration** \
 *Sabrina J. Mielke, Arthur Szlam, Emily Dinan, Y-Lan Boureau* \
-NAACL 2022. [[Paper](https://arxiv.org/abs/2012.14983)] \ 
+NAACL 2022. [[Paper](https://arxiv.org/abs/2012.14983)] \
 22 Jun 2022 
 
 **Re-Examining Calibration: The Case of Question Answering** \
