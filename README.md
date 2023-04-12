@@ -247,6 +247,12 @@ ICLR 2021. [[Paper](https://arxiv.org/abs/2002.07650)] \
 18 Feb 2020 
 
 
+**Unsupervised Quality Estimation for Neural Machine Translation** \
+*Marina Fomicheva, Shuo Sun, Lisa Yankovskaya, Frédéric Blain, Francisco Guzmán, Mark Fishel, Nikolaos Aletras, Vishrav Chaudhary, Lucia Specia* \
+TACL 2020. [[Paper](https://arxiv.org/abs/2005.10608)][[Dataset](https://github.com/facebookresearch/mlqe)] \
+21 May 2020 
+
+
 **Analyzing Uncertainty in Neural Machine Translation** \
 *Myle Ott, Michael Auli, David Grangier, Marc’Aurelio Ranzato* \
 ICML 2018.  [[Paper](https://proceedings.mlr.press/v80/ott18a.html)] \
@@ -309,7 +315,7 @@ EMNLP 2020. [[Paper](https://arxiv.org/abs/2003.07892)][[Github](https://github.
 
 **CLAM: Selective Clarification for Ambiguous Questions with Generative Language Models** \
 *Lorenz Kuhn, Yarin Gal, Sebastian Farquhar* \
-arXiv 2022. [[Paper](https://arxiv.org/abs/2303.09508)] \
+arXiv 2022. [[Paper](https://arxiv.org/abs/2212.07769)] \
 15 Dec 2022
 
 **How to Approach Ambiguous Queries in Conversational Search: A Survey of Techniques, Approaches, Tools, and Challenges** \
