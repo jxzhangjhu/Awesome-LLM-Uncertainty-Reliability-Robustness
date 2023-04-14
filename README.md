@@ -111,7 +111,7 @@ nice blog -->
 
 **Building LLM applications for production** \
 *Chip Huyen* \
-[[Link](https://huyenchip.com/2023/04/11/llm-engineering.html)]
+[[Link](https://huyenchip.com/2023/04/11/llm-engineering.html)] \
 11 Apr 2023 
 
 
