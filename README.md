@@ -48,6 +48,7 @@ This repository, called **UR2-LLMs** contains a collection of resources and pape
 # Resources
 ## Introductory Posts
 
+
 **GPT Is an Unreliable Information Store** \
 *Noble Ackerson* \
 [[Link](https://towardsdatascience.com/chatgpt-insists-i-am-dead-and-the-problem-with-language-models-db5a36c22f11)] \
@@ -108,6 +109,10 @@ nice blog -->
 [[Link](https://learnprompting.org/docs/category/%EF%B8%8F-reliability)] 
 
 
+**Building LLM applications for production** \
+*Chip Huyen* \
+[[Link](https://huyenchip.com/2023/04/11/llm-engineering.html)]
+11 Apr 2023 
 
 
 
