@@ -206,6 +206,12 @@ TMLR 2023. [[Paper](https://arxiv.org/abs/2102.08501)] \
 3 Feb 2023 
 
 
+**On Compositional Uncertainty Quantification for Seq2seq Graph Parsing** \
+*Zi Lin, Du Phan, Panupong Pasupat, Jeremiah Zhe Liu, Jingbo Shang* \
+ICLR 2023. [[Paper](https://openreview.net/forum?id=rJcLocAJpA6)] \
+1 Feb 2023 
+
+
 **Neural-Symbolic Inference for Robust Autoregressive Graph Parsing via Compositional Uncertainty Quantification** \
 *Zi Lin, Jeremiah Liu, Jingbo Shang* \
 EMNLP 2022. [[Paper](https://arxiv.org/abs/2301.11459)] \
@@ -298,6 +304,11 @@ NAACL 2022. [[Paper](https://arxiv.org/abs/2012.14983)] \
 *Chenglei Si, Chen Zhao, Sewon Min, Jordan Boyd-Graber* \
 EMNLP 2022 Findings. [[Paper](https://arxiv.org/abs/2205.12507)] \
 25 May 2022 
+
+**Towards Collaborative Neural-Symbolic Graph Semantic Parsing via Uncertainty** \
+*Zi Lin, Jeremiah Liu, Jingbo Shang* \
+ACL Fingings 2022. [[Paper](https://aclanthology.org/2022.findings-acl.328.pdf)] \
+22 May 2022
 
 
 **Uncertainty-aware machine translation evaluation** \
