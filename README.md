@@ -206,6 +206,12 @@ TMLR 2023. [[Paper](https://arxiv.org/abs/2102.08501)] \
 3 Feb 2023 
 
 
+**Neural-Symbolic Inference for Robust Autoregressive Graph Parsing via Compositional Uncertainty Quantification** \
+*Zi Lin, Jeremiah Liu, Jingbo Shang* \
+EMNLP 2022. [[Paper](https://arxiv.org/abs/2301.11459)] \
+16 Jan 2023
+
+
 **Teaching Models to Express Their Uncertainty in Words** \
 *Stephanie Lin, Jacob Hilton, Owain Evans* \
 TMLR 2022. [[Paper](https://arxiv.org/abs/2205.14334)] [[Github](https://github.com/sylinrl/CalibratedMath)] [[TMLR](https://openreview.net/forum?id=8s8K2UZGTZ)] [[Slide](https://owainevans.github.io/pdfs/chai_calibration_owain.pdf)]\
