@@ -458,9 +458,6 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2304.01904)] \
 4 Apr 2023 
 
 
-
-
-
 **Reliable Natural Language Understanding with Large Language Models and Answer Set Programming** \
 *Abhiramon Rajasekharan, Yankai Zeng, Parth Padalkar, Gopal Gupta* \
 arXiv 2023. [[Paper](https://arxiv.org/abs/2302.03780)] \
@@ -686,6 +683,21 @@ ACL-IJCNLP 2021. [[Paper](https://arxiv.org/abs/2105.02590)] \
 *Bernd Bohnet, Vinh Q. Tran, Pat Verga, Roee Aharoni, Daniel Andor, Livio Baldini Soares, Massimiliano Ciaramita, Jacob Eisenstein, Kuzman Ganchev, Jonathan Herzig, Kai Hui, Tom Kwiatkowski, Ji Ma, Jianmo Ni, Lierni Sestorain Saralegui, Tal Schuster, William W. Cohen, Michael Collins, Dipanjan Das, Donald Metzler, Slav Petrov, Kellie Webster* \
 arXiv 2022. [[Paper](https://arxiv.org/abs/2212.08037)] \
 15 Dec 2022 
+
+### Causality 
+
+**Selection-Inference: Exploiting Large Language Models for Interpretable Logical Reasoning** \
+*Antonia Creswell, Murray Shanahan, Irina Higgins* \
+ICLR 2023. [[Paper](https://arxiv.org/abs/2205.09712)] \
+19 May 2022
+
+**Investigating causal understanding in LLMs** \
+*Marius Hobbhahn, Tom Lieberum, David Seiler* \
+NeurIPS 2022 Workshop. [[Paper](https://openreview.net/forum?id=st6jtGdW8Ke)] \
+3 Oct 2022 
+
+
+<!-- blog https://zhuanlan.zhihu.com/p/608856445  -->
 
 <!-- > new metric to evaluate the prompt  -->
 
