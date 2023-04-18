@@ -184,6 +184,26 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2302.07842)] \
 ACM Computing Survey, 2022. [[Paper](https://dl.acm.org/doi/abs/10.1145/3485766)] \
 18 Jan 2022
 
+**NL-Augmenter: A Framework for Task-Sensitive Natural Language Augmentation** \
+*Kaustubh D. Dhole, et al.* \
+ACL 2021. [[Paper](https://arxiv.org/abs/2112.02721)][[Github](https://github.com/GEM-benchmark/NL-Augmenter)] \
+6 Dec 2021 
+
+**TextFlint: Unified Multilingual Robustness Evaluation Toolkit for Natural Language Processing** \
+*Tao Gui et al.* \
+arXiv 2021. [[Paper](https://arxiv.org/abs/2103.11441)][[Github](https://github.com/textflint/textflint)] \
+21 Mar 2021 
+
+**Robustness Gym: Unifying the NLP Evaluation Landscape** \
+*Karan Goel, Nazneen Rajani, Jesse Vig, Samson Tan, Jason Wu, Stephan Zheng, Caiming Xiong, Mohit Bansal, Christopher Ré* \
+ACL 2021. [[Paper](https://arxiv.org/abs/2101.04840)] [[Github](https://github.com/robustness-gym/robustness-gym)] \
+13 Jan 2021
+
+**Beyond Accuracy: Behavioral Testing of NLP models with CheckList** \
+*Marco Tulio Ribeiro, Tongshuang Wu, Carlos Guestrin, Sameer Singh* \
+ACL 2020. [[Paper](https://arxiv.org/abs/2005.04118)][[Github](https://github.com/marcotcr/checklist)] \
+8 May 2020
+
 
 ## Uncertainty
 
