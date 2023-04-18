@@ -412,6 +412,12 @@ EMNLP 2022. [[Paper](https://arxiv.org/abs/2210.10109)][[Github](https://github.
 arXiv 2023. [[Paper](https://arxiv.org/abs/2302.12246)][[Github](https://github.com/shizhediao/active-prompt)] \
 23 Feb 2023 
 
+
+**Low-resource Interactive Active Labeling for Fine-tuning Language Models** \
+*Seiji Maekawa, Dan Zhang, Hannah Kim, Sajjadur Rahman, Estevam Hruschka* \
+EMNLP Findings 2022. [[Paper](https://aclanthology.org/2022.findings-emnlp.235/)] \
+7 Dec 2022 
+
 **AfroLM: A Self-Active Learning-based Multilingual Pretrained Language Model for 23 African Languages** \
 *Bonaventure F. P. Dossou, Atnafu Lambebo Tonja, Oreen Yousuf, Salomey Osei, Abigail Oppong, Iyanuoluwa Shode, Oluwabusayo Olufunke Awoyomi, Chris Chinenye Emezue* \
 EMNLP 2022. [[Paper](https://arxiv.org/abs/2211.03263)][[Github](https://github.com/bonaventuredossou/mlm_al)] \
@@ -673,6 +679,11 @@ arXiv 2022. [[Paper](https://arxiv.org/abs/2205.12255)] \
 *Timo Schick, Jane Dwivedi-Yu, Roberto Dessì, Roberta Raileanu, Maria Lomeli, Luke Zettlemoyer, Nicola Cancedda, Thomas Scialom* \
 arXiv 2023. [[Paper](https://arxiv.org/abs/2302.04761)] \
 9 Feb 2023 
+
+
+<!-- ### Fine-tuning  -->
+
+<!-- https://github.com/shm007g/LLaMA-Cult-and-More -->
 
 
 ## Robustness
