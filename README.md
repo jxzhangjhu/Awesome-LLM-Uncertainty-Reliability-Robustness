@@ -400,10 +400,22 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2301.11305v1)][[Website](https://eric
 ### Active Learning 
 <!-- > https://github.com/baifanxxx/awesome-active-learning/blob/main/README.md -->
 
+
+**A Survey of Active Learning for Natural Language Processing** \
+*Zhisong Zhang, Emma Strubell, Eduard Hovy* \
+EMNLP 2022. [[Paper](https://arxiv.org/abs/2210.10109)][[Github](https://github.com/zzsfornlp/zmsp)] \
+18 Oct 2022 
+
+
 **Active Prompting with Chain-of-Thought for Large Language Models** \
 *Shizhe Diao, Pengcheng Wang, Yong Lin, Tong Zhang* \
 arXiv 2023. [[Paper](https://arxiv.org/abs/2302.12246)][[Github](https://github.com/shizhediao/active-prompt)] \
 23 Feb 2023 
+
+**AfroLM: A Self-Active Learning-based Multilingual Pretrained Language Model for 23 African Languages** \
+*Bonaventure F. P. Dossou, Atnafu Lambebo Tonja, Oreen Yousuf, Salomey Osei, Abigail Oppong, Iyanuoluwa Shode, Oluwabusayo Olufunke Awoyomi, Chris Chinenye Emezue* \
+EMNLP 2022. [[Paper](https://arxiv.org/abs/2211.03263)][[Github](https://github.com/bonaventuredossou/mlm_al)] \
+7 Nov 2022 
 
 **Active Learning Helps Pretrained Models Learn the Intended Task** \
 *Alex Tamkin, Dat Pham Nguyen, Salil Deshpande, Jesse Mu, Noah Goodman* \
