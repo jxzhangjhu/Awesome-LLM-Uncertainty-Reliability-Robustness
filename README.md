@@ -398,11 +398,17 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2301.11305v1)][[Website](https://eric
 
 
 ### Active Learning 
+<!-- > https://github.com/baifanxxx/awesome-active-learning/blob/main/README.md -->
 
 **Active Prompting with Chain-of-Thought for Large Language Models** \
 *Shizhe Diao, Pengcheng Wang, Yong Lin, Tong Zhang* \
 arXiv 2023. [[Paper](https://arxiv.org/abs/2302.12246)][[Github](https://github.com/shizhediao/active-prompt)] \
 23 Feb 2023 
+
+**Active Learning Helps Pretrained Models Learn the Intended Task** \
+*Alex Tamkin, Dat Pham Nguyen, Salil Deshpande, Jesse Mu, Noah Goodman* \
+NeurIPS 2022. [[Paper](https://openreview.net/forum?id=0Ww7UVEoNue)][[Github](https://github.com/alextamkin/active-learning-pretrained-models)] \
+31 Oct 2022 
 
 
 **Multi-task Active Learning for Pre-trained Transformer-based Models** \
@@ -414,6 +420,20 @@ TACL 2022. [[Paper](https://arxiv.org/abs/2208.05379)] [[Github](https://github.
 *Yue Yu, Lingkai Kong, Jieyu Zhang, Rongzhi Zhang, Chao Zhang* \
 NAACL-HLT2022. [[Paper](https://aclanthology.org/2022.naacl-main.102/)] [[Github](https://github.com/yueyu1030/actune)]\
 10 Jul 2022 
+
+
+**On the Importance of Effectively Adapting Pretrained Language Models for Active Learning** \
+*Katerina Margatina, Loïc Barrault, Nikolaos Aletras* \
+ACL 2022. [[Paper](https://arxiv.org/abs/2104.08320v2)] \
+2 Mar 2022 
+
+**Active Learning by Acquiring Contrastive Examples** \
+*Katerina Margatina, Giorgos Vernikos, Loïc Barrault, Nikolaos Aletras* \
+EMNLP 2021. [[Paper](https://arxiv.org/abs/2109.03764)][[Github](https://github.com/mourga/contrastive-active-learning)] \
+8 Sep 2021
+
+
+
 
 ## Reliability
 
