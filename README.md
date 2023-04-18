@@ -39,6 +39,7 @@ This repository, called **UR2-LLMs** contains a collection of resources and pape
     - [Adaptation and Generalization](#adaptation-and-generalization)
     - [Adversarial](#adversarial)
     - [Attribution](#attribution)
+    - [Causality](#causality)
 <!--   - [Safety](#safety)
     - [Bias and Fairness](#bias-and-fairness)
     - [Privacy](#privacy) -->
