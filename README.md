@@ -694,7 +694,7 @@ ICLR 2023. [[Paper](https://arxiv.org/abs/2205.09712)] \
 
 **Investigating causal understanding in LLMs** \
 *Marius Hobbhahn, Tom Lieberum, David Seiler* \
-NeurIPS 2022 Workshop. [[Paper](https://openreview.net/forum?id=st6jtGdW8Ke)] \
+NeurIPS 2022 Workshop. [[Paper](https://openreview.net/forum?id=st6jtGdW8Ke)][[Blog](https://www.lesswrong.com/posts/yZb5eFvDoaqB337X5/investigating-causal-understanding-in-llms)] \
 3 Oct 2022 
 
 
