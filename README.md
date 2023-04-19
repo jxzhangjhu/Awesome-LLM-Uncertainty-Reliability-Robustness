@@ -356,6 +356,13 @@ EMNLP 2020. [[Paper](https://arxiv.org/abs/2003.07892)][[Github](https://github.
 
 ### Ambiguity 
 
+
+**Task Ambiguity in Humans and Language Models** \ 
+*Alex Tamkin, Kunal Handa, Avash Shrestha, Noah Goodman* \
+ICLR 2023. [[Paper](https://arxiv.org/abs/2212.10711)][[Github](https://github.com/alextamkin/active-learning-pretrained-models)] \
+20 Dec 2022 
+
+
 **CLAM: Selective Clarification for Ambiguous Questions with Generative Language Models** \
 *Lorenz Kuhn, Yarin Gal, Sebastian Farquhar* \
 arXiv 2022. [[Paper](https://arxiv.org/abs/2212.07769)] \
