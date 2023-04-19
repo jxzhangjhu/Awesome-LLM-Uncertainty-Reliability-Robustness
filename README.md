@@ -451,6 +451,16 @@ EMNLP 2021. [[Paper](https://arxiv.org/abs/2109.03764)][[Github](https://github.
 8 Sep 2021
 
 
+**Revisiting Uncertainty-based Query Strategies for Active Learning with Transformers** \
+*Christopher Schröder, Andreas Niekler, Martin Potthast* \
+ACL 2022 Findings. [[Paper](https://arxiv.org/abs/2107.05687)][[Github](https://github.com/webis-de/acl22-revisiting-uncertainty-based-query-strategies-for-active-learning-with-transformers)]  \
+12 Jul 2021 
+
+
+**Fine-tuning BERT for Low-Resource Natural Language Understanding via Active Learning** \
+*Daniel Grießhaber, Johannes Maucher, Ngoc Thang Vu* \
+COLING 2020. [[Paper](https://arxiv.org/abs/2012.02462)] \
+4 Dec 2020
 
 
 ## Reliability
