@@ -435,6 +435,11 @@ EMNLP 2022. [[Paper](https://arxiv.org/abs/2211.03263)][[Github](https://github.
 NeurIPS 2022. [[Paper](https://openreview.net/forum?id=0Ww7UVEoNue)][[Github](https://github.com/alextamkin/active-learning-pretrained-models)] \
 31 Oct 2022 
 
+**Selective Annotation Makes Language Models Better Few-Shot Learners** \
+*Hongjin Su, Jungo Kasai, Chen Henry Wu, Weijia Shi, Tianlu Wang, Jiayi Xin, Rui Zhang, Mari Ostendorf, Luke Zettlemoyer, Noah A. Smith, Tao Yu* \
+ICLR 2023. [[Paper](https://arxiv.org/abs/2209.01975)][[Github](https://github.com/hkunlp/icl-selective-annotation)] \
+5 Sep 2022 
+
 
 **Multi-task Active Learning for Pre-trained Transformer-based Models** \
 *Guy Rotman, Roi Reichart* \
