@@ -457,6 +457,11 @@ NAACL-HLT2022. [[Paper](https://aclanthology.org/2022.naacl-main.102/)] [[Github
 ACL 2022. [[Paper](https://arxiv.org/abs/2104.08320v2)] \
 2 Mar 2022 
 
+**Limitations of Active Learning With Deep Transformer Language Models** \
+*Mike D'Arcy, Doug Downey* \
+Arxiv 2022. [[Paper](https://openreview.net/forum?id=Q8OjAGkxwP5)] \
+28 Jan 2022 
+
 **Active Learning by Acquiring Contrastive Examples** \
 *Katerina Margatina, Giorgos Vernikos, Loïc Barrault, Nikolaos Aletras* \
 EMNLP 2021. [[Paper](https://arxiv.org/abs/2109.03764)][[Github](https://github.com/mourga/contrastive-active-learning)] \
