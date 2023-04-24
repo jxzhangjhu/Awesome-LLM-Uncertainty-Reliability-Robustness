@@ -485,7 +485,7 @@ ACL 2022 Findings. [[Paper](https://arxiv.org/abs/2107.05687)][[Github](https://
 
 **Active Learning for Sequence Tagging with Deep Pre-trained Models and Bayesian Uncertainty Estimates** \
 *Artem Shelmanov, Dmitri Puzyrev, Lyubov Kupriyanova, Denis Belyakov, Daniil Larionov, Nikita Khromov, Olga Kozlova, Ekaterina Artemova, Dmitry V. Dylov, Alexander Panchenko* \
-EACL 2021. [[Paper](https://arxiv.org/abs/2101.08133)] 
+EACL 2021. [[Paper](https://arxiv.org/abs/2101.08133)] \
 18 Feb 2021 
 
 **Fine-tuning BERT for Low-Resource Natural Language Understanding via Active Learning** \
@@ -542,6 +542,10 @@ NeurIPS 2022 ML Safety Workshop. [[Paper](https://arxiv.org/abs/2211.05853)] \
 arXiv 2023. [[Paper](https://arxiv.org/abs/2304.01904)] \
 4 Apr 2023 
 
+**OpenICL: An Open-Source Framework for In-context Learning** \
+*Zhenyu Wu, YaoXiang Wang, Jiacheng Ye, Jiangtao Feng, Jingjing Xu, Yu Qiao, Zhiyong Wu* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2303.02913)] [[Github](https://github.com/shark-nlp/openicl)] \
+6 Mar 2023 
 
 **Reliable Natural Language Understanding with Large Language Models and Answer Set Programming** \
 *Abhiramon Rajasekharan, Yankai Zeng, Parth Padalkar, Gopal Gupta* \
