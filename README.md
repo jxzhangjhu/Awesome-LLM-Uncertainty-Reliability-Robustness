@@ -483,6 +483,10 @@ EMNLP 2021. [[Paper](https://arxiv.org/abs/2109.03764)][[Github](https://github.
 ACL 2022 Findings. [[Paper](https://arxiv.org/abs/2107.05687)][[Github](https://github.com/webis-de/acl22-revisiting-uncertainty-based-query-strategies-for-active-learning-with-transformers)]  \
 12 Jul 2021 
 
+**Active Learning for Sequence Tagging with Deep Pre-trained Models and Bayesian Uncertainty Estimates** \
+*Artem Shelmanov, Dmitri Puzyrev, Lyubov Kupriyanova, Denis Belyakov, Daniil Larionov, Nikita Khromov, Olga Kozlova, Ekaterina Artemova, Dmitry V. Dylov, Alexander Panchenko* \
+EACL 2021. [[Paper](https://arxiv.org/abs/2101.08133)] 
+18 Feb 2021 
 
 **Fine-tuning BERT for Low-Resource Natural Language Understanding via Active Learning** \
 *Daniel Grießhaber, Johannes Maucher, Ngoc Thang Vu* \
