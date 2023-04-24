@@ -451,6 +451,16 @@ TACL 2022. [[Paper](https://arxiv.org/abs/2208.05379)] [[Github](https://github.
 NAACL-HLT2022. [[Paper](https://aclanthology.org/2022.naacl-main.102/)] [[Github](https://github.com/yueyu1030/actune)]\
 10 Jul 2022 
 
+**Towards Computationally Feasible Deep Active Learning** \
+*Akim Tsvigun, Artem Shelmanov, Gleb Kuzmin, Leonid Sanochkin, Daniil Larionov, Gleb Gusev, Manvel Avetisian, Leonid Zhukov* \
+NAACL 2022. [[Paper](https://arxiv.org/abs/2205.03598)] [[Github](https://github.com/airi-institute/al_nlp_feasible)] \
+7 May 2022 
+
+**FAMIE: A Fast Active Learning Framework for Multilingual Information Extraction** \
+*Minh Van Nguyen, Nghia Trung Ngo, Bonan Min, Thien Huu Nguyen* \
+NAACL 2022. [[Paper](https://arxiv.org/abs/2202.08316)] [[Github](https://github.com/nlp-uoregon/famie)] \
+16 Feb 2022 
+
 
 **On the Importance of Effectively Adapting Pretrained Language Models for Active Learning** \
 *Katerina Margatina, Loïc Barrault, Nikolaos Aletras* \
