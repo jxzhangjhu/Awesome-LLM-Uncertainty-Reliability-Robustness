@@ -710,7 +710,7 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2302.14691)][[Github](https://github.
 28 Feb 2023 
 
 
-### Tooling
+### Tools and external APIs
 
 **Internet-augmented language models through few-shot prompting for open-domain question answering**  \
 *Angeliki Lazaridou, Elena Gribovskaya, Wojciech Stokowiec, Nikolai Grigorev* \
