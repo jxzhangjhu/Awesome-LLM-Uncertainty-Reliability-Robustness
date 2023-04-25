@@ -425,6 +425,12 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2302.12246)][[Github](https://github.
 EMNLP Findings 2022. [[Paper](https://aclanthology.org/2022.findings-emnlp.235/)] \
 7 Dec 2022 
 
+**Can You Label Less by Using Out-of-Domain Data? Active & Transfer Learning with Few-shot Instructions** \
+*Rafal Kocielnik, Sara Kangaslahti, Shrimai Prabhumoye, Meena Hari, R. Michael Alvarez, Anima Anandkumar* \
+NeurIPS Workshop 2022. [[Paper](https://arxiv.org/abs/2211.11798)] \
+21 Nov 2022 
+
+
 **AfroLM: A Self-Active Learning-based Multilingual Pretrained Language Model for 23 African Languages** \
 *Bonaventure F. P. Dossou, Atnafu Lambebo Tonja, Oreen Yousuf, Salomey Osei, Abigail Oppong, Iyanuoluwa Shode, Oluwabusayo Olufunke Awoyomi, Chris Chinenye Emezue* \
 EMNLP 2022. [[Paper](https://arxiv.org/abs/2211.03263)][[Github](https://github.com/bonaventuredossou/mlm_al)] \
@@ -622,7 +628,7 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2212.10509)][[Github](https://github.
 
 ### Prompt tuning and design
 
-**Your Prompt is My Command**
+<!-- **Your Prompt is My Command** -->
 
 **Black-box Prompt Learning for Pre-trained Language Models** \
 *Shizhe Diao, Zhichao Huang, Ruijia Xu, Xuechun Li, Yong Lin, Xiao Zhou, Tong Zhang* \
@@ -681,6 +687,12 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2303.17651)][[Github](https://github.
 *Renze Lou, Kai Zhang, Wenpeng Yin* \
 arXiv 2023. [[Paper](https://arxiv.org/abs/2303.10475)][[Github](https://github.com/RenzeLou/awesome-instruction-learning)] \
 18 Mar 2023  
+
+**Self-Instruct: Aligning Language Model with Self Generated Instructions** \
+*Yizhong Wang, Yeganeh Kordi, Swaroop Mishra, Alisa Liu, Noah A. Smith, Daniel Khashabi, Hannaneh Hajishirzi* \
+arXiv 2022. [[Paper](https://arxiv.org/abs/2212.10560)] [[Github](https://github.com/yizhongw/self-instruct)] \
+20 Dec 2022 
+
 
 **Constitutional AI: Harmlessness from AI Feedback** \
 *Yuntao Bai, et al (Anthropic)* \
