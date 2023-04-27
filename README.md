@@ -777,6 +777,11 @@ arXiv 2022. [[Paper](https://arxiv.org/abs/2211.03154)] \
 
 ### Adversarial 
 
+**On the Robustness of ChatGPT: An Adversarial and Out-of-distribution Perspective** \
+*Jindong Wang, Xixu Hu, Wenxin Hou, Hao Chen, Runkai Zheng, Yidong Wang, Linyi Yang, Haojun Huang, Wei Ye, Xiubo Geng, Binxin Jiao, Yue Zhang, Xing Xie* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2302.12095)] [[Github](https://github.com/microsoft/robustlearn)] \
+22 Feb 2023 
+
 **Reliability Testing for Natural Language Processing Systems** \
 *Samson Tan, Shafiq Joty, Kathy Baxter, Araz Taeihagh, Gregory A. Bennett, Min-Yen Kan* \
 ACL-IJCNLP 2021. [[Paper](https://arxiv.org/abs/2105.02590)] \
