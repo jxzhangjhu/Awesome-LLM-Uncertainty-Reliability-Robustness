@@ -29,7 +29,7 @@ This repository, called **UR2-LLMs** contains a collection of resources and pape
     - [Hallucination](#hallucination)
     - [Truthfulness](#truthfulness)
     - [Reasoning](#reasoning)
-    - [Prompting tuning and design](#prompting-tuning-and-design)
+    - [Prompt tuning, optimization and design](#prompt-tuning-optimization-and-design)
     - [Instruction and RLHF](#instruction-and-rlhf)
     - [Tools and external APIs](#tools-and-external-apis)
   - [Robustness](#robustness)
@@ -626,7 +626,7 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2212.10509)][[Github](https://github.
 20 Dec 2022 
 
 
-### Prompt tuning and design
+### Prompt tuning, optimization and design
 
 <!-- **Your Prompt is My Command** -->
 
