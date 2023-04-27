@@ -29,7 +29,7 @@ This repository, called **UR2-LLMs** contains a collection of resources and pape
     - [Hallucination](#hallucination)
     - [Truthfulness](#truthfulness)
     - [Reasoning](#reasoning)
-    - [Prompt tuning and design](#prompting-tuning-and-design)
+    - [Prompting tuning and design](#prompting-tuning-and-design)
     - [Instruction and RLHF](#instruction-and-rlhf)
     - [Tools and external APIs](#tools-and-external-apis)
   - [Robustness](#robustness)
