@@ -150,6 +150,11 @@ COLLING 2022. [[Website](https://sites.google.com/view/uncertainty-nlp)]
 
 ## Evaluation & Survey
 
+**Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond** \
+*Jingfeng Yang, Hongye Jin, Ruixiang Tang, Xiaotian Han, Qizhang Feng, Haoming Jiang, Bing Yin, Xia Hu* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2304.13712)][[Github](https://github.com/mooler0410/llmspracticalguide)] \
+27 Apr 2023 
+
 **How Robust is GPT-3.5 to Predecessors? A Comprehensive Study on Language Understanding Tasks** \
 *Xuanting Chen, Junjie Ye, Can Zu, Nuo Xu, Rui Zheng, Minlong Peng, Jie Zhou, Tao Gui, Qi Zhang, Xuanjing Huang* \
 arXiv 2023. [[Paper](https://arxiv.org/abs/2303.00293)][[Github](https://github.com/textflint/textflint)] \
