@@ -361,6 +361,10 @@ EMNLP 2020. [[Paper](https://arxiv.org/abs/2003.07892)][[Github](https://github.
 
 ### Ambiguity 
 
+**We're Afraid Language Models Aren't Modeling Ambiguity** \ 
+*Alisa Liu, Zhaofeng Wu, Julian Michael, Alane Suhr, Peter West, Alexander Koller, Swabha Swayamdipta, Noah A. Smith, Yejin Choi* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2304.14399v1)][[Github](https://github.com/alisawuffles/ambient)] \
+24 Apr 2023 
 
 **Task Ambiguity in Humans and Language Models** \
 *Alex Tamkin, Kunal Handa, Avash Shrestha, Noah Goodman* \
