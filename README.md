@@ -411,6 +411,16 @@ AKBC 2021. [[Paper](https://openreview.net/forum?id=SlDZ1o8FsJU)] \
 arXiv 2023. [[Paper](https://arxiv.org/abs/2301.11305v1)][[Website](https://ericmitchell.ai/detectgpt/)] \
 26 Jan 2023 
 
+**Confident Adaptive Language Modeling** \
+*Tal Schuster, Adam Fisch, Jai Gupta, Mostafa Dehghani, Dara Bahri, Vinh Q. Tran, Yi Tay, Donald Metzler* \
+NeurIPS 2022. [[Paper](https://arxiv.org/abs/2207.07061)]
+25 Oct 2022 
+
+
+**Conformal risk control** \
+*Anastasios N Angelopoulos, Stephen Bates, Adam Fisch, Lihua Lei, Tal Schuster* \
+arXiv 2022. [[Paper](https://arxiv.org/abs/2208.02814)][[Github](https://github.com/aangelopoulos/conformal-risk)] \
+4 Aug 2022 
 
 
 ### Active Learning 
