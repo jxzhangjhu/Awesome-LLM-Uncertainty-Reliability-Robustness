@@ -534,6 +534,12 @@ arXiv 2022. [[Paper](https://arxiv.org/abs/2202.03629)] \
 
 ### Truthfulness 
 
+**The Internal State of an LLM Knows When its Lying** \
+*Amos Azaria, Tom Mitchell* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2304.13734)] \
+26 Apr 2023 
+
+
 **TruthfulQA: Measuring How Models Mimic Human Falsehoods** \
 *Stephanie Lin, Jacob Hilton, Owain Evans* \
 ACL 2022. [[Paper](https://arxiv.org/abs/2109.07958)] [[Github](https://github.com/sylinrl/TruthfulQA)] [[Blog](https://www.lesswrong.com/posts/PF58wEdztZFX2dSue/how-truthful-is-gpt-3-a-benchmark-for-language-models)] \
@@ -685,6 +691,11 @@ NAACL-HLT 2022. [[Paper](https://arxiv.org/abs/2112.08633)][[Github](https://git
 
 
 ### Instruction and RLHF 
+
+**LaMini-LM: A Diverse Herd of Distilled Models from Large-Scale Instructions** \
+*Minghao Wu, Abdul Waheed, Chiyu Zhang, Muhammad Abdul-Mageed, Alham Fikri Aji* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2304.14402)][[Github](https://github.com/mbzuai-nlp/lamini-lm)] \
+27 Apr 2023 
 
 **Self-Refine: Iterative Refinement with Self-Feedback** \
 *Aman Madaan, Niket Tandon, Prakhar Gupta, Skyler Hallinan, Luyu Gao, Sarah Wiegreffe, Uri Alon, Nouha Dziri, Shrimai Prabhumoye, Yiming Yang, Sean Welleck, Bodhisattwa Prasad Majumder, Shashank Gupta, Amir Yazdanbakhsh, Peter Clark* \
