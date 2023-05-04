@@ -768,9 +768,13 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2302.04761)] \
 9 Feb 2023 
 
 
-<!-- ### Fine-tuning  -->
+### Fine-tuning 
 
 <!-- https://github.com/shm007g/LLaMA-Cult-and-More -->
+**FreeLM: Fine-Tuning-Free Language Model** \
+*Xiang Li1, Xin Jiang, Xuying Meng, Aixin Sun, Yequan Wang* \
+arXiv 2023. [[Paper](https://arxiv.org/pdf/2305.01616v1.pdf)] \
+2 May 2023 
 
 
 ## Robustness
