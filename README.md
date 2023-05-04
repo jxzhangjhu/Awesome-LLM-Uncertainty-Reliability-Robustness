@@ -770,6 +770,11 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2302.04761)] \
 
 ### Fine-tuning 
 
+**Distilling Step-by-Step! Outperforming Larger Language Models with Less Training Data and Smaller Model Sizes** \
+*Cheng-Yu Hsieh, Chun-Liang Li, Chih-Kuan Yeh, Hootan Nakhost, Yasuhisa Fujii, Alexander Ratner, Ranjay Krishna, Chen-Yu Lee, Tomas Pfister* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2305.02301)] \
+3 May 2023 
+
 <!-- https://github.com/shm007g/LLaMA-Cult-and-More -->
 **FreeLM: Fine-Tuning-Free Language Model** \
 *Xiang Li1, Xin Jiang, Xuying Meng, Aixin Sun, Yequan Wang* \
