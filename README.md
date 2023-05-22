@@ -524,6 +524,13 @@ COLING 2020. [[Paper](https://arxiv.org/abs/2012.02462)] \
 
 ### Hallucination
 
+
+**SelfCheckGPT: Zero-Resource Black-Box Hallucination Detection for Generative Large Language Models** \
+*Potsawee Manakul, Adian Liusie, Mark J. F. Gales* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2303.08896)] [[Github](https://github.com/potsawee/selfcheckgpt)] \
+8 Mar 2023 
+
+
 **RHO (ρ): Reducing Hallucination in Open-domain Dialogues with Knowledge Grounding** \
 *Ziwei Ji, Zihan Liu, Nayeon Lee, Tiezheng Yu, Bryan Wilie, Min Zeng, Pascale Fung* \
 arXiv 2022. [[Paper](https://arxiv.org/abs/2212.01588)] \
