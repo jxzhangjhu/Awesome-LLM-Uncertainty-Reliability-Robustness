@@ -304,6 +304,11 @@ ICML 2018.  [[Paper](https://proceedings.mlr.press/v80/ott18a.html)] \
 
 ### Calibration
 
+**Just Ask for Calibration: Strategies for Eliciting Calibrated Confidence Scores from Language Models Fine-Tuned with Human Feedback** \
+*Katherine Tian, Eric Mitchell, Allan Zhou, Archit Sharma, Rafael Rafailov, Huaxiu Yao, Chelsea Finn, Christopher D. Manning* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2305.14975)] \
+24 May 2023 
+
 **Calibrated Interpretation: Confidence Estimation in Semantic Parsing** \
 *Elias Stengel-Eskin, Benjamin Van Durme* \
 arXiv 2022. [[Paper](https://arxiv.org/abs/2211.07443)] [[Github](https://github.com/esteng/calibration_miso)] \
@@ -524,6 +529,11 @@ COLING 2020. [[Paper](https://arxiv.org/abs/2012.02462)] \
 
 ### Hallucination
 
+
+**HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models** \
+*Junyi Li, Xiaoxue Cheng, Wayne Xin Zhao, Jian-Yun Nie, Ji-Rong Wen* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2305.11747)] 
+19 May 2023 
 
 **SelfCheckGPT: Zero-Resource Black-Box Hallucination Detection for Generative Large Language Models** \
 *Potsawee Manakul, Adian Liusie, Mark J. F. Gales* \
