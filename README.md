@@ -306,7 +306,12 @@ ICML 2018.  [[Paper](https://proceedings.mlr.press/v80/ott18a.html)] \
 2018 
 
 
-### Calibration
+### 
+
+**Do Large Language Models Know What They Don't Know?** \
+*Zhangyue Yin, Qiushi Sun, Qipeng Guo, Jiawen Wu, Xipeng Qiu, Xuanjing Huang* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2305.18153)] 
+29 May 2023 
 
 **Just Ask for Calibration: Strategies for Eliciting Calibrated Confidence Scores from Language Models Fine-Tuned with Human Feedback** \
 *Katherine Tian, Eric Mitchell, Allan Zhou, Archit Sharma, Rafael Rafailov, Huaxiu Yao, Chelsea Finn, Christopher D. Manning* \
@@ -369,6 +374,12 @@ EMNLP 2020. [[Paper](https://arxiv.org/abs/2003.07892)][[Github](https://github.
 
 
 ### Ambiguity 
+
+**Selectively Answering Ambiguous Questions** \
+*Jeremy R. Cole, Michael J.Q. Zhang, Daniel Gillick, Julian Martin Eisenschlos, Bhuwan Dhingra, Jacob Eisenstein* \ 
+arXiv 2023. [[Paper](https://arxiv.org/abs/2305.14613)] \
+24 May 2023 
+ 
 
 **We're Afraid Language Models Aren't Modeling Ambiguity** \ 
 *Alisa Liu, Zhaofeng Wu, Julian Michael, Alane Suhr, Peter West, Alexander Koller, Swabha Swayamdipta, Noah A. Smith, Yejin Choi* \
@@ -533,6 +544,27 @@ COLING 2020. [[Paper](https://arxiv.org/abs/2012.02462)] \
 
 ### Hallucination
 
+**Do Language Models Know When They're Hallucinating References?** \
+*Ayush Agrawal, Lester Mackey, Adam Tauman Kalai* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2305.18248)] \
+29 May 2023. 
+
+**Self-contradictory Hallucinations of Large Language Models: Evaluation, Detection and Mitigation** \
+*Niels Mündler, Jingxuan He, Slobodan Jenko, Martin Vechev* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2305.15852)] \
+25 May 2023 
+
+
+**How Language Model Hallucinations Can Snowball** \ 
+*Muru Zhang, Ofir Press, William Merrill, Alisa Liu, Noah A. Smith* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2305.13534)] \
+22 May 2023 
+
+**LM vs LM: Detecting Factual Errors via Cross Examination** \
+*Roi Cohen, May Hamri, Mor Geva, Amir Globerson* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2305.13281)] \
+22 May 2023
+
 
 **HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models** \
 *Junyi Li, Xiaoxue Cheng, Wayne Xin Zhao, Jian-Yun Nie, Ji-Rong Wen* \
@@ -544,6 +576,11 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2305.11747)]
 arXiv 2023. [[Paper](https://arxiv.org/abs/2303.08896)] [[Github](https://github.com/potsawee/selfcheckgpt)] \
 8 Mar 2023 
 
+**Check Your Facts and Try Again: Improving Large Language Models with External Knowledge and Automated Feedback** \
+*Baolin Peng, Michel Galley, Pengcheng He, Hao Cheng, Yujia Xie, Yu Hu, Qiuyuan Huang, Lars Liden, Zhou Yu, Weizhu Chen, Jianfeng Gao* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2302.12813)] \
+23 Feb 2023 
+ 
 
 **RHO (ρ): Reducing Hallucination in Open-domain Dialogues with Knowledge Grounding** \
 *Ziwei Ji, Zihan Liu, Nayeon Lee, Tiezheng Yu, Bryan Wilie, Min Zeng, Pascale Fung* \
