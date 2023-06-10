@@ -602,6 +602,13 @@ arXiv 2022. [[Paper](https://arxiv.org/abs/2202.03629)] \
 
 ### Truthfulness 
 
+**Inference-Time Intervention: Eliciting Truthful Answers from a Language Model** \ 
+*Kenneth Li, Oam Patel, Fernanda Viégas, Hanspeter Pfister, Martin Wattenberg* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2306.03341)] [[Github](https://github.com/likenneth/honest_llama)] \
+6 June 2023 
+
+
+
 **The Internal State of an LLM Knows When its Lying** \
 *Amos Azaria, Tom Mitchell* \
 arXiv 2023. [[Paper](https://arxiv.org/abs/2304.13734)] \
