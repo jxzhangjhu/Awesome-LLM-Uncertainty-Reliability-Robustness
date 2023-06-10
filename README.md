@@ -215,6 +215,10 @@ ACL 2020. [[Paper](https://arxiv.org/abs/2005.04118)][[Github](https://github.co
 
 ### Uncertainty Estimation
 
+**Generating with Confidence: Uncertainty Quantification for Black-box Large Language Models** \
+*Zhen Lin, Shubhendu Trivedi, Jimeng Sun* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2305.19187)] [[Github](https://github.com/zlin7/UQ-NLG)] \
+30 May 2023. 
 
 **Human Uncertainty in Concept-Based AI Systems** \
 *Katherine M. Collins, Matthew Barker, Mateo Espinosa Zarlenga, Naveen Raman, Umang Bhatt, Mateja Jamnik, Ilia Sucholutsky, Adrian Weller, Krishnamurthy Dvijotham* \
