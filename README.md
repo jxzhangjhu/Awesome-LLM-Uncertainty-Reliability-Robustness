@@ -554,8 +554,13 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2305.18248)] \
 arXiv 2023. [[Paper](https://arxiv.org/abs/2305.15852)] \
 25 May 2023 
 
+**Why Does ChatGPT Fall Short in Providing Truthful Answers?** \
+*Shen Zheng, Jie Huang, Kevin Chen-Chuan Chang* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2304.10513)] \
+24 May 2023 
+ 
 
-**How Language Model Hallucinations Can Snowball** \ 
+**How Language Model Hallucinations Can Snowball** \
 *Muru Zhang, Ofir Press, William Merrill, Alisa Liu, Noah A. Smith* \
 arXiv 2023. [[Paper](https://arxiv.org/abs/2305.13534)] \
 22 May 2023 
