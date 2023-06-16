@@ -906,6 +906,12 @@ arXiv 2022. [[Paper](https://arxiv.org/abs/2212.08037)] \
 
 ### Causality 
 
+**Can Large Language Models Infer Causation from Correlation?** \
+*Zhijing Jin, Jiarui Liu, Zhiheng Lyu, Spencer Poff, Mrinmaya Sachan, Rada Mihalcea, Mona Diab, Bernhard Schölkopf* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2306.05836)] [[Github](https://github.com/causalnlp/corr2cause)] \
+9 Jun 2023 
+
+
 **Selection-Inference: Exploiting Large Language Models for Interpretable Logical Reasoning** \
 *Antonia Creswell, Murray Shanahan, Irina Higgins* \
 ICLR 2023. [[Paper](https://arxiv.org/abs/2205.09712)] \
