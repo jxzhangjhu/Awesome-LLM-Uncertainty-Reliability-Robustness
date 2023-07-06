@@ -18,7 +18,7 @@ This repository, called **UR2-LLMs** contains a collection of resources and pape
   - [Technical Reports](#technical-reports)
   - [Tutorial](#tutorial)
 - [Papers](#papers)
-  - [Evaluation & Survey](#survey)
+  - [Evaluation and Survey](#evaluation-and-survey)
   - [Uncertainty](#uncertainty)
     - [Uncertainty Estimation](#uncertainty-estimation)
     - [Calibration](#calibration)
@@ -104,6 +104,11 @@ nice blog -->
 **Prompt Engineering** \
 *Lilian Weng*\
 [[Link](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/)]
+
+
+**LLM Powered Autonomous Agents** \
+*Lilian Weng*\
+[[Link](https://lilianweng.github.io/posts/2023-06-23-agent/)]
 
 
 **Reliability in Learning Prompting**\
