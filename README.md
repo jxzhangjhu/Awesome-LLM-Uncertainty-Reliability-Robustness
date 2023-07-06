@@ -317,7 +317,8 @@ ICML 2018.  [[Paper](https://proceedings.mlr.press/v80/ott18a.html)] \
 2018 
 
 
-### 
+### Calibration
+
 
 **Do Large Language Models Know What They Don't Know?** \
 *Zhangyue Yin, Qiushi Sun, Qipeng Guo, Jiawen Wu, Xipeng Qiu, Xuanjing Huang* \
@@ -328,6 +329,14 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2305.18153)]
 *Katherine Tian, Eric Mitchell, Allan Zhou, Archit Sharma, Rafael Rafailov, Huaxiu Yao, Chelsea Finn, Christopher D. Manning* \
 arXiv 2023. [[Paper](https://arxiv.org/abs/2305.14975)] \
 24 May 2023 
+
+
+**Towards Reliable Misinformation Mitigation: Generalization, Uncertainty, and GPT-4** \
+*Kellin Pelrine, Meilina Reksoprodjo, Caleb Gupta, Joel Christoph, Reihaneh Rabbany* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2305.14928)] \
+24 May 2023 
+
+
 
 **Calibrated Interpretation: Confidence Estimation in Semantic Parsing** \
 *Elias Stengel-Eskin, Benjamin Van Durme* \
@@ -765,7 +774,7 @@ ICLR 2023. [[Paper](https://arxiv.org/abs/2211.01910)] [[Github](https://github.
 *Yao Lu, Max Bartolo, Alastair Moore, Sebastian Riedel, Pontus Stenetorp* \
 ACL 2022. [[Paper](https://arxiv.org/abs/2104.08786)] 
 
-**Active Example Selection for In-Context Learnin** \
+**Active Example Selection for In-Context Learning** \
 *Yiming Zhang, Shi Feng, Chenhao Tan* \
 EMNLP 2022. [[Paper](https://arxiv.org/abs/2211.04486)][[Github](https://github.com/ChicagoHAI/active-example-selection)] \
 8 Nov 2022 
