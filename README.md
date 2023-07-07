@@ -155,6 +155,12 @@ COLLING 2022. [[Website](https://sites.google.com/view/uncertainty-nlp)]
 
 ## Evaluation & Survey
 
+**A Survey on Evaluation of Large Language Models** \
+*Yupeng Chang, Xu Wang, Jindong Wang, Yuan Wu, Kaijie Zhu, Hao Chen, Linyi Yang, Xiaoyuan Yi, Cunxiang Wang, Yidong Wang, Wei Ye, Yue Zhang, Yi Chang, Philip S. Yu, Qiang Yang, Xing Xie* \
+Arxiv 2023. [[Paper](https://arxiv.org/abs/2307.03109)][[Github](https://github.com/mlgroupjlu/llm-eval-survey)] \
+6 Jul 2023 
+
+
 
 **DecodingTrust: A Comprehensive Assessment of Trustworthiness in GPT Models** \
 *Boxin Wang, Weixin Chen, Hengzhi Pei, Chulin Xie, Mintong Kang, Chenhui Zhang, Chejian Xu, Zidi Xiong, Ritik Dutta, Rylan Schaeffer, Sang T. Truong, Simran Arora, Mantas Mazeika, Dan Hendrycks, Zinan Lin, Yu Cheng, Sanmi Koyejo, Dawn Song, Bo Li* \
