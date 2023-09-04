@@ -751,6 +751,11 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2212.10509)][[Github](https://github.
 
 <!-- **Your Prompt is My Command** -->
 
+**GrIPS: Gradient-free, Edit-based Instruction Search for Prompting Large Language Models** \
+*Archiki Prasad, Peter Hase, Xiang Zhou, Mohit Bansal* \
+EACL 2023. [[Paper](https://arxiv.org/abs/2203.07281)][[Github](https://github.com/archiki/grips)] \
+Mar 14 2022 
+
 **Black-box Prompt Learning for Pre-trained Language Models** \
 *Shizhe Diao, Zhichao Huang, Ruijia Xu, Xuechun Li, Yong Lin, Xiao Zhou, Tong Zhang* \
 TMLR 2023. [[Paper](https://arxiv.org/abs/2201.08531)][[Github](https://github.com/shizhediao/Black-Box-Prompt-Learning)] \
