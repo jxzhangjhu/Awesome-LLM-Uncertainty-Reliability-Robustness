@@ -751,10 +751,20 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2212.10509)][[Github](https://github.
 
 <!-- **Your Prompt is My Command** -->
 
+**Promptboosting: Black-box text classification with ten forward passes** \
+*Bairu Hou, Joe O’Connor, Jacob Andreas, Shiyu Chang, Yang Zhang* \
+ICML 2023. [[Paper](https://proceedings.mlr.press/v202/hou23b.html)][[Github](https://github.com/UCSB-NLP-Chang/PromptBoosting)] \
+23 Jan 2023 
+
 **GrIPS: Gradient-free, Edit-based Instruction Search for Prompting Large Language Models** \
 *Archiki Prasad, Peter Hase, Xiang Zhou, Mohit Bansal* \
 EACL 2023. [[Paper](https://arxiv.org/abs/2203.07281)][[Github](https://github.com/archiki/grips)] \
 Mar 14 2022 
+
+**RLPrompt: Optimizing Discrete Text Prompts with Reinforcement Learning** \
+*Mingkai Deng, Jianyu Wang, Cheng-Ping Hsieh, Yihan Wang, Han Guo, Tianmin Shu, Meng Song, Eric P. Xing, Zhiting Hu* \
+EMNLP 2022. [[Paper](https://arxiv.org/abs/2205.12548)][[Github](https://github.com/mingkaid/rl-prompt)] \
+25 May 2022 
 
 **Black-box Prompt Learning for Pre-trained Language Models** \
 *Shizhe Diao, Zhichao Huang, Ruijia Xu, Xuechun Li, Yong Lin, Xiao Zhou, Tong Zhang* \
@@ -765,6 +775,12 @@ TMLR 2023. [[Paper](https://arxiv.org/abs/2201.08531)][[Github](https://github.c
 *Tianxiang Sun, Yunfan Shao, Hong Qian, Xuanjing Huang, Xipeng Qiu* \
 ICML 2022. [[Paper](https://arxiv.org/abs/2201.03514)][[Github](https://github.com/txsun1997/Black-Box-Tuning)]\
 10 Jan 2022 
+
+**BBTv2: towards a gradient-free future with large language models** \
+*Tianxiang Sun, Zhengfu He, Hong Qian, Yunhua Zhou, Xuanjing Huang, Xipeng Qiu* \ 
+EMNLP 2022. [[Paper](https://aclanthology.org/2022.emnlp-main.259/)] [[Github](https://github.com/txsun1997/Black-Box-Tuning)] \
+7 Dec 2022 
+
 
 **Automatic Chain of Thought Prompting in Large Language Models** \
 *Zhuosheng Zhang, Aston Zhang, Mu Li, Alex Smola*\
