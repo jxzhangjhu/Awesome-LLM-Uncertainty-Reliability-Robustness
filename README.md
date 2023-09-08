@@ -751,6 +751,11 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2212.10509)][[Github](https://github.
 
 <!-- **Your Prompt is My Command** -->
 
+**Large Language Models as Optimizers** \
+*Chengrun Yang, Xuezhi Wang, Yifeng Lu, Hanxiao Liu, Quoc V. Le, Denny Zhou, Xinyun Chen* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2309.03409)]
+Sep 7 2023 
+
 **Promptboosting: Black-box text classification with ten forward passes** \
 *Bairu Hou, Joe O’Connor, Jacob Andreas, Shiyu Chang, Yang Zhang* \
 ICML 2023. [[Paper](https://proceedings.mlr.press/v202/hou23b.html)][[Github](https://github.com/UCSB-NLP-Chang/PromptBoosting)] \
