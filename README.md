@@ -938,6 +938,11 @@ arXiv 2022. [[Paper](https://arxiv.org/abs/2211.03154)] \
 
 ### Adversarial 
 
+**PromptBench: Towards Evaluating the Robustness of Large Language Models on Adversarial Prompts** \
+*Kaijie Zhu, Jindong Wang, Jiaheng Zhou, Zichen Wang, Hao Chen, Yidong Wang, Linyi Yang, Wei Ye, Neil Zhenqiang Gong, Yue Zhang, Xing Xie* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2306.04528)][[Github](https://github.com/microsoft/promptbench)] \
+7 Jun 20223 
+
 **On the Robustness of ChatGPT: An Adversarial and Out-of-distribution Perspective** \
 *Jindong Wang, Xixu Hu, Wenxin Hou, Hao Chen, Runkai Zheng, Yidong Wang, Linyi Yang, Haojun Huang, Wei Ye, Xiubo Geng, Binxin Jiao, Yue Zhang, Xing Xie* \
 arXiv 2023. [[Paper](https://arxiv.org/abs/2302.12095)] [[Github](https://github.com/microsoft/robustlearn)] \
