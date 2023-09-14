@@ -754,10 +754,17 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2212.10509)][[Github](https://github.
 
 <!-- **Your Prompt is My Command** -->
 
+
+
 **Large Language Models as Optimizers** \
 *Chengrun Yang, Xuezhi Wang, Yifeng Lu, Hanxiao Liu, Quoc V. Le, Denny Zhou, Xinyun Chen* \
 arXiv 2023. [[Paper](https://arxiv.org/abs/2309.03409)]
 Sep 7 2023 
+
+**InstructZero: Efficient Instruction Optimization for Black-Box Large Language Models** \
+*Lichang Chen, Jiuhai Chen, Tom Goldstein, Heng Huang, Tianyi Zhou* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2306.03082)] [[Github](https://github.com/lichang-chen/instructzero)] \
+5 Jun 2023 
 
 **Promptboosting: Black-box text classification with ten forward passes** \
 *Bairu Hou, Joe O’Connor, Jacob Andreas, Shiyu Chang, Yang Zhang* \
