@@ -573,6 +573,11 @@ COLING 2020. [[Paper](https://arxiv.org/abs/2012.02462)] \
 
 ### Hallucination
 
+**Chain-of-Verification Reduces Hallucination in Large Language Models** \
+*Shehzaad Dhuliawala, Mojtaba Komeili, Jing Xu, Roberta Raileanu, Xian Li, Asli Celikyilmaz, Jason Weston* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2309.11495)] \
+20 Sep 2023 
+
 **Do Language Models Know When They're Hallucinating References?** \
 *Ayush Agrawal, Lester Mackey, Adam Tauman Kalai* \
 arXiv 2023. [[Paper](https://arxiv.org/abs/2305.18248)] \
