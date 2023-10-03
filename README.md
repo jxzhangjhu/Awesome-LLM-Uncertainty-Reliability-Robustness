@@ -170,6 +170,11 @@ Arxiv 2023. [[Paper](https://arxiv.org/abs/2307.03109)][[Github](https://github.
 Arxiv, 2023. [[Paper](https://arxiv.org/abs/2306.11698)] [[Github](https://github.com/AI-secure/DecodingTrust/)] [[Website](https://decodingtrust.github.io/)] \
 20 Jun 2023 
 
+**In ChatGPT We Trust? Measuring and Characterizing the Reliability of ChatGPT** \
+*Xinyue Shen, Zeyuan Chen, Michael Backes, Yang Zhang* \
+arXiv, 2023. [[Paper](https://arxiv.org/abs/2304.08979)] \
+18 Apr 2023 
+
 **Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond** \
 *Jingfeng Yang, Hongye Jin, Ruixiang Tang, Xiaotian Han, Qizhang Feng, Haoming Jiang, Bing Yin, Xia Hu* \
 arXiv 2023. [[Paper](https://arxiv.org/abs/2304.13712)][[Github](https://github.com/mooler0410/llmspracticalguide)] \
