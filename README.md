@@ -578,6 +578,11 @@ COLING 2020. [[Paper](https://arxiv.org/abs/2012.02462)] \
 
 ### Hallucination
 
+**Beyond Factuality: A Comprehensive Evaluation of Large Language Models as Knowledge Generators** \
+*Liang Chen, Yang Deng, Yatao Bian, Zeyu Qin, Bingzhe Wu, Tat-Seng Chua, Kam-Fai Wong* \
+EMNLP 2023. [[Paper](https://arxiv.org/abs/2310.07289)][[Github](https://github.com/ChanLiang/CONNER)] \
+12 Oct 2023
+
 **Chain-of-Verification Reduces Hallucination in Large Language Models** \
 *Shehzaad Dhuliawala, Mojtaba Komeili, Jing Xu, Roberta Raileanu, Xian Li, Asli Celikyilmaz, Jason Weston* \
 arXiv 2023. [[Paper](https://arxiv.org/abs/2309.11495)] \
@@ -930,6 +935,12 @@ arXiv 2023. [[Paper](https://arxiv.org/pdf/2305.01616v1.pdf)] \
 *Maxime Peyrard, Sarvjeet Singh Ghotra, Martin Josifoski, Vidhan Agarwal, Barun Patra, Dean Carignan, Emre Kiciman, Robert West* \
 EMNLP 2022. [[Paper](https://arxiv.org/abs/2110.08413)][[Github](https://github.com/epfl-dlab/invariant-language-models)] \
 16 Oct 2021 
+
+**Towards Robust Personalized Dialogue Generation via Order-Insensitive Representation Regularization** \
+*Liang Chen, Hongru Wang, Yang Deng, Wai-Chung Kwan, Kam-Fai Wong* \
+Findings of ACL 2023. [[Paper](https://aclanthology.org/2023.findings-acl.462)][[Github](https://github.com/ChanLiang/ORIG)] \
+22 May 2023
+
 
 
 ### Distribution Shift
