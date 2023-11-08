@@ -604,7 +604,7 @@ COLING 2020. [[Paper](https://arxiv.org/abs/2012.02462)] \
 
 ### Hallucination
 
-**SAC$'^3'$: Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency** \
+**SAC$`^3`$: Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency** \
 *Jiaxin Zhang, Zhuohang Li, Kamalika Das, Bradley A. Malin, Sricharan Kumar* \
 EMNLP 2023. [[Paper](https://arxiv.org/abs/2311.01740)][[Github](https://github.com/intuit/sac3)] \
 3 Nov 2023 
