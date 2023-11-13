@@ -121,7 +121,6 @@ nice blog -->
 11 Apr 2023 
 
 
-
 ## Technical Reports 
 
 **GPT-4 Technical Report** \
@@ -999,6 +998,11 @@ arXiv 2022. [[Paper](https://arxiv.org/abs/2211.03154)] \
 6 Nov 2022 
 
 ### Adversarial 
+
+****Adversarial Attacks on LLMs** \
+*Lilian Weng*
+[[Blog](https://lilianweng.github.io/posts/2023-10-25-adv-attack-llm/)] \
+25 Oct 2023 
 
 **PromptBench: Towards Evaluating the Robustness of Large Language Models on Adversarial Prompts** \
 *Kaijie Zhu, Jindong Wang, Jiaheng Zhou, Zichen Wang, Hao Chen, Yidong Wang, Linyi Yang, Wei Ye, Neil Zhenqiang Gong, Yue Zhang, Xing Xie* \
