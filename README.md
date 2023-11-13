@@ -999,7 +999,7 @@ arXiv 2022. [[Paper](https://arxiv.org/abs/2211.03154)] \
 
 ### Adversarial 
 
-****Adversarial Attacks on LLMs** \
+**Adversarial Attacks on LLMs** \
 *Lilian Weng*
 [[Blog](https://lilianweng.github.io/posts/2023-10-25-adv-attack-llm/)] \
 25 Oct 2023 
