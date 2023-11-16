@@ -609,7 +609,7 @@ EMNLP 2023. [[Paper](https://arxiv.org/abs/2311.01740)][[Github](https://github.
 3 Nov 2023 
 
 
-### Hallucination Leaderboard \
+**Hallucination Leaderboard** \
 *Vectara* \
 [[Link](https://github.com/vectara/hallucination-leaderboard)] \
 2 Nov 2023 
