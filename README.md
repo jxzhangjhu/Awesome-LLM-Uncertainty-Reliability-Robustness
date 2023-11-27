@@ -427,6 +427,11 @@ EMNLP 2020. [[Paper](https://arxiv.org/abs/2003.07892)][[Github](https://github.
 
 ### Ambiguity 
 
+**Tree of Clarifications: Answering Ambiguous Questions with Retrieval-Augmented Large Language Models** \
+*Gangwoo Kim, Sungdong Kim, Byeongguk Jeon, Joonsuk Park, Jaewoo Kang* \
+EMNLP 2023. [[Paper](https://arxiv.org/abs/2310.14696)][[Github](https://github.com/gankim/tree-of-clarifications)] \
+23 Oct 2023
+
 **Selectively Answering Ambiguous Questions** \
 *Jeremy R. Cole, Michael J.Q. Zhang, Daniel Gillick, Julian Martin Eisenschlos, Bhuwan Dhingra, Jacob Eisenstein* \ 
 arXiv 2023. [[Paper](https://arxiv.org/abs/2305.14613)] \
