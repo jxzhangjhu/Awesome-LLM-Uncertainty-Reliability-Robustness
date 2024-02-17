@@ -350,7 +350,10 @@ ICML 2018.  [[Paper](https://proceedings.mlr.press/v80/ott18a.html)] \
 
 
 ### Calibration
-
+**Batch Calibration: Rethinking Calibration for In-Context Learning and Prompt Engineering** \
+*Han Zhou, Xingchen Wan, Lev Proleev, Diana Mincu, Jilin Chen, Katherine Heller, Subhrajit Roy* \
+ICLR 2024. [[Paper](https://arxiv.org/abs/2309.17249)] 
+24 Jan 2024
 
 **Do Large Language Models Know What They Don't Know?** \
 *Zhangyue Yin, Qiushi Sun, Qipeng Guo, Jiawen Wu, Xipeng Qiu, Xuanjing Huang* \
