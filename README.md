@@ -241,6 +241,11 @@ ACL 2020. [[Paper](https://arxiv.org/abs/2005.04118)][[Github](https://github.co
 
 
 
+**Quantifying Uncertainty in Natural Language Explanations of Large Language Models** \
+*Sree Harsha Tanneru, Chirag Agarwal, Himabindu Lakkaraju* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2311.03533v1)] \
+6 Nov 2023 
+
 **Conformal Autoregressive Generation: Beam Search with Coverage Guarantees** \
 *Nicolas Deutschmann, Marvin Alberts, María Rodríguez Martínez* \
 arXiv 2023. [[Paper](https://arxiv.org/abs/2309.03797)] \
