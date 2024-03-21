@@ -18,7 +18,7 @@ This repository, called **UR2-LLMs** contains a collection of resources and pape
   - [Technical Reports](#technical-reports)
   - [Tutorial](#tutorial)
 - [Papers](#papers)
-  - [Evaluation and Survey](#evaluation-and-survey)
+  - [Evaluation and Survey](#evaluation--survey)
   - [Uncertainty](#uncertainty)
     - [Uncertainty Estimation](#uncertainty-estimation)
     - [Calibration](#calibration)
