@@ -241,6 +241,16 @@ ACL 2020. [[Paper](https://arxiv.org/abs/2005.04118)][[Github](https://github.co
 
 
 
+**Shifting Attention to Relevance: Towards the Uncertainty Estimation of Large Language Models** \
+*Jinhao Duan, Hao Cheng, Shiqi Wang, Alex Zavalny, Chenan Wang, Renjing Xu, Bhavya Kailkhura, Kaidi Xu* \
+arXiv 2023. [[Paper](https://arxiv.org/pdf/2307.01379.pdf)] \
+9 Oct 2023
+
+**Look Before You Leap: An Exploratory Study of Uncertainty Measurement for Large Language Models** \
+*Yuheng Huang, Jiayang Song, Zhijie Wang, Shengming Zhao, Huaming Chen, Felix Juefei-Xu, Lei Ma* \
+arXiv 2023. [[Paper](https://arxiv.org/pdf/2307.10236.pdf)] \
+16 Jul 2023
+
 **Quantifying Uncertainty in Natural Language Explanations of Large Language Models** \
 *Sree Harsha Tanneru, Chirag Agarwal, Himabindu Lakkaraju* \
 arXiv 2023. [[Paper](https://arxiv.org/abs/2311.03533v1)] \
