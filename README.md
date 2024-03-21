@@ -621,6 +621,11 @@ COLING 2020. [[Paper](https://arxiv.org/abs/2012.02462)] \
 ### Hallucination
 > [awesome hallucination detection](https://github.com/EdinburghNLP/awesome-hallucination-detection)
 
+**HallusionBench: An Advanced Diagnostic Suite for Entangled Language Hallucination and Visual Illusion in Large Vision-Language Models** \
+*Tianrui Guan\*, Fuxiao Liu\*, Xiyang Wu, Ruiqi Xian, Zongxia Li, Xiaoyu Liu, Xijun Wang, Lichang Chen, Furong Huang, Yaser Yacoob, Dinesh Manocha, Tianyi Zhou* \
+CVPR 2024. [[Paper](https://arxiv.org/abs/2310.14566)][[Github](https://github.com/tianyi-lab/HallusionBench)] \
+18 Mar 2024 
+
 **SAC$`^3`$: Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency** \
 *Jiaxin Zhang, Zhuohang Li, Kamalika Das, Bradley A. Malin, Sricharan Kumar* \
 EMNLP 2023. [[Paper](https://arxiv.org/abs/2311.01740)][[Github](https://github.com/intuit/sac3)] \
