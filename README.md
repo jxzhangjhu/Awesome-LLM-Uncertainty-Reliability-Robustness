@@ -709,6 +709,11 @@ arXiv 2022. [[Paper](https://arxiv.org/abs/2202.03629)] \
 
 ### Truthfulness 
 
+**TruthX: Alleviating Hallucinations by Editing Large Language Models in Truthful Space** \ 
+*Shaolei Zhang, Tian Yu, Yang Feng* \
+arXiv 2024. [[Paper](https://arxiv.org/abs/2402.17811)] [[Github](https://github.com/ictnlp/TruthX)] \
+27 Feb 2024 
+
 **Inference-Time Intervention: Eliciting Truthful Answers from a Language Model** \ 
 *Kenneth Li, Oam Patel, Fernanda Viégas, Hanspeter Pfister, Martin Wattenberg* \
 arXiv 2023. [[Paper](https://arxiv.org/abs/2306.03341)] [[Github](https://github.com/likenneth/honest_llama)] \
