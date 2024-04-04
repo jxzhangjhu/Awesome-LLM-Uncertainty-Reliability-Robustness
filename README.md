@@ -1000,6 +1000,11 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2305.02301)] \
 arXiv 2023. [[Paper](https://arxiv.org/pdf/2305.01616v1.pdf)] \
 2 May 2023 
 
+**Automated Data Curation for Robust Language Model Fine-Tuning** \
+*Jiuhai Chen, Jonas Mueller* \
+arXiv 2024. [[Paper](https://arxiv.org/abs/2403.12776)] \
+19 Mar 2024
+
 
 ## Robustness
 ### Invariance 
