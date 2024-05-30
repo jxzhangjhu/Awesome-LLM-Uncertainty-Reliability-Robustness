@@ -239,7 +239,10 @@ ACL 2020. [[Paper](https://arxiv.org/abs/2005.04118)][[Github](https://github.co
 
 ### Uncertainty Estimation
 
-
+**Uncertainty Estimation and Quantification for LLMs: A Simple Supervised Approach** \
+*Linyu Liu, Yu Pan, Xiaocheng Li, Guanting Chen* \
+arXiv 2024. [[Paper](https://arxiv.org/pdf/2404.15993)] \
+24 Apr 2024
 
 **Shifting Attention to Relevance: Towards the Uncertainty Estimation of Large Language Models** \
 *Jinhao Duan, Hao Cheng, Shiqi Wang, Alex Zavalny, Chenan Wang, Renjing Xu, Bhavya Kailkhura, Kaidi Xu* \
