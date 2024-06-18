@@ -13,12 +13,14 @@ This repository, called **UR2-LLMs** contains a collection of resources and pape
 
 ## Contents
 
+- [Awesome-LLM-Uncertainty-Reliability-Robustness](#awesome-llm-uncertainty-reliability-robustness)
+  - [Contents](#contents)
 - [Resources](#resources)
   - [Introductory Posts](#introductory-posts)
   - [Technical Reports](#technical-reports)
   - [Tutorial](#tutorial)
 - [Papers](#papers)
-  - [Evaluation and Survey](#evaluation--survey)
+  - [Evaluation \& Survey](#evaluation--survey)
   - [Uncertainty](#uncertainty)
     - [Uncertainty Estimation](#uncertainty-estimation)
     - [Calibration](#calibration)
@@ -32,6 +34,7 @@ This repository, called **UR2-LLMs** contains a collection of resources and pape
     - [Prompt tuning, optimization and design](#prompt-tuning-optimization-and-design)
     - [Instruction and RLHF](#instruction-and-rlhf)
     - [Tools and external APIs](#tools-and-external-apis)
+    - [Fine-tuning](#fine-tuning)
   - [Robustness](#robustness)
     - [Invariance](#invariance)
     - [Distribution Shift](#distribution-shift)
@@ -238,6 +241,11 @@ ACL 2020. [[Paper](https://arxiv.org/abs/2005.04118)][[Github](https://github.co
 ## Uncertainty
 
 ### Uncertainty Estimation
+
+**BLoB: Bayesian Low-Rank Adaptation by Backpropagation for Large Language Models** \
+*Yibin Wang, Haizhou Shi, Ligong Han, Dimitris Metaxas, Hao Wang* \
+arXiv 2024. [[Paper](https://arxiv.org/pdf/2406.11675)] \
+18 Jun 2024
 
 **Uncertainty Estimation and Quantification for LLMs: A Simple Supervised Approach** \
 *Linyu Liu, Yu Pan, Xiaocheng Li, Guanting Chen* \
