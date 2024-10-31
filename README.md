@@ -252,6 +252,11 @@ arXiv 2024. [[Paper](https://arxiv.org/pdf/2406.11675)] \
 arXiv 2024. [[Paper](https://arxiv.org/pdf/2404.15993)] \
 24 Apr 2024
 
+**MARS: Meaning-Aware Response Scoring for Uncertainty Estimation in Generative LLMs** \
+*Bakman et al.* \
+ACL 2024. [[Paper](https://aclanthology.org/2024.acl-long.419.pdf)] \
+19 Feb 2024
+
 **Shifting Attention to Relevance: Towards the Uncertainty Estimation of Large Language Models** \
 *Jinhao Duan, Hao Cheng, Shiqi Wang, Alex Zavalny, Chenan Wang, Renjing Xu, Bhavya Kailkhura, Kaidi Xu* \
 arXiv 2023. [[Paper](https://arxiv.org/pdf/2307.01379.pdf)] \
