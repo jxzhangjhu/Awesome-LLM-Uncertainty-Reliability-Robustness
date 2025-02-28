@@ -1057,6 +1057,11 @@ arXiv 2022. [[Paper](https://arxiv.org/abs/2211.03154)] \
 
 ### Adversarial 
 
+**PEARL: Towards Permutation-Resilient LLMs** \
+*Liang Chen, Li Shen, Yang Deng, Xiaoyan Zhao, Bin Liang, Kam-Fai Wong* \
+ICLR 2025. [[Paper](https://openreview.net/pdf?id=txoJvjfI9w)][[Github](https://github.com/ChanLiang/PEARL)] \
+27 Feb 2025
+
 **Adversarial Attacks on LLMs** \
 *Lilian Weng*
 [[Blog](https://lilianweng.github.io/posts/2023-10-25-adv-attack-llm/)] \
