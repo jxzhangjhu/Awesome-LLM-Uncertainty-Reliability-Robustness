@@ -376,6 +376,12 @@ ICML 2018.  [[Paper](https://proceedings.mlr.press/v80/ott18a.html)] \
 
 
 ### Calibration
+
+**Calibrating Large Language Models Using Their Generations Only** \
+*Dennis Ulmer, Martin Gubri, Hwaran Lee, Sangdoo Yun, Seong Joon Oh* \
+ACL 2024. [[Paper](https://arxiv.org/pdf/2403.05973)][[Github](https://github.com/parameterlab/apricot)][[Poster](https://gubri.eu/pdf/Poster_Apricot_ACL2024.pdf)][[Slides](https://gubri.eu/pdf/Slides_APRICOT.pdf)] \
+9 Mar 2024
+
 **Batch Calibration: Rethinking Calibration for In-Context Learning and Prompt Engineering** \
 *Han Zhou, Xingchen Wan, Lev Proleev, Diana Mincu, Jilin Chen, Katherine Heller, Subhrajit Roy* \
 ICLR 2024. [[Paper](https://arxiv.org/abs/2309.17249)] 
