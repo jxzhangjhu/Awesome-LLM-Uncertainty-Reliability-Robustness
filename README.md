@@ -247,6 +247,11 @@ ACL 2020. [[Paper](https://arxiv.org/abs/2005.04118)][[Github](https://github.co
 arXiv 2024. [[Paper](https://arxiv.org/pdf/2406.11675)] \
 18 Jun 2024
 
+**Kernel Language Entropy: Fine-grained Uncertainty Quantification for LLMs from Semantic Similarities** \
+*Alexander Nikitin, Jannik Kossen, Yarin Gal, Pekka Marttinen* \
+NeurIPS 2024. [[Paper](https://arxiv.org/pdf/2405.20003)] [[Github](https://github.com/AlexanderVNikitin/kernel-language-entropy)] \
+30 May 2024
+
 **Uncertainty Estimation and Quantification for LLMs: A Simple Supervised Approach** \
 *Linyu Liu, Yu Pan, Xiaocheng Li, Guanting Chen* \
 arXiv 2024. [[Paper](https://arxiv.org/pdf/2404.15993)] \
