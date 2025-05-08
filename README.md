@@ -384,6 +384,11 @@ TACL 2020. [[Paper](https://arxiv.org/abs/2005.10608)][[Dataset](https://github.
 ICML 2018.  [[Paper](https://proceedings.mlr.press/v80/ott18a.html)] \
 2018 
 
+**Uncertainty Quantification for Language Models: A Suite of Black-Box, White-Box, LLM Judge, and Ensemble Scorers** \
+*Dylan Bouchard, Mohit Singh Chauhan* \
+arXiv 2025.  [[Paper](https://arxiv.org/abs/2504.19254)][[GitHub](https://github.com/cvs-health/uqlm)] \
+April 2025 
+
 
 ### Calibration
 
