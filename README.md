@@ -260,11 +260,6 @@ ACL 2020. [[Paper](https://arxiv.org/abs/2005.04118)][[Github](https://github.co
 
 ### Uncertainty Estimation
 
-**Similarity-Distance-Magnitude Universal Verification** \
-*Allen Schmaltz* \
-arXiv 2025. [[Paper](https://arxiv.org/pdf/2502.20167)] [[Github](https://github.com/ReexpressAI/sdm)] \
-27 Feb 2025
-
 **BLoB: Bayesian Low-Rank Adaptation by Backpropagation for Large Language Models** \
 *Yibin Wang, Haizhou Shi, Ligong Han, Dimitris Metaxas, Hao Wang* \
 arXiv 2024. [[Paper](https://arxiv.org/pdf/2406.11675)] \
@@ -414,6 +409,11 @@ April 2025
 
 
 ### Calibration
+
+**Similarity-Distance-Magnitude Universal Verification** \
+*Allen Schmaltz* \
+arXiv 2025. [[Paper](https://arxiv.org/pdf/2502.20167)] [[Github](https://github.com/ReexpressAI/sdm)] \
+27 Feb 2025
 
 **Calibrating Large Language Models Using Their Generations Only** \
 *Dennis Ulmer, Martin Gubri, Hwaran Lee, Sangdoo Yun, Seong Joon Oh* \
