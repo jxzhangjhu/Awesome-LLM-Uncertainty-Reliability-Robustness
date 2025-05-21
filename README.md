@@ -52,6 +52,14 @@ This repository, called **UR2-LLMs** contains a collection of resources and pape
 # Resources
 ## Introductory Posts
 
+**The Determinants of Controllable AGI** \
+*Allen Schmaltz* \
+[[Link](https://raw.githubusercontent.com/allenschmaltz/Resolute_Resolutions/master/volume5/volume5.pdf)] \
+3 Mar 2025 
+
+<!-- > Comments \
+Abstract:
+We briefly introduce, at a conceptual level, technical work for deriving robust estimators of the predictive uncertainty over large language models (LLMs), and we consider the implications for real-world deployments and AI policy. -->
 
 **GPT Is an Unreliable Information Store** \
 *Noble Ackerson* \
@@ -123,6 +131,16 @@ nice blog -->
 [[Link](https://huyenchip.com/2023/04/11/llm-engineering.html)] \
 11 Apr 2023 
 
+**Practical, Real-World Neural Network Interpretability and Deployment** \
+*Allen Schmaltz* \
+[[Link](https://raw.githubusercontent.com/allenschmaltz/Resolute_Resolutions/master/volume3/volume3.pdf)] \
+11 Dec 2021 
+
+<!-- > Comments \
+Abstract:
+There are compelling practical reasons to view neural network interpretability as an interactive, human-in-the-loop prediction task at a lower resolution of the input than that for which we typically initially have labels. In this context, we will then aim to move to an abstain+update/adapt paradigm in real deployments for the large deep networks. To do so, we will ideally need some properties and behaviors that are not typically associated with the deep networks out-of-the-box: We need some means of analyzing the data under the model, relative to the model's predictions for a given instance; we are going to have to address the domain-shift and uncertainty/reliability issues; we need to relate the global instance-level predictions down to constituent parts (and vice-versa), with flexibility in the approach to be adaptable to various prior information we may have; and we seek some degree of updatability when things (inevitably) go wrong with the model or data without having to re-train the full model.
+ 
+In this blog post, as a brief overview of our existing work, we motivate these characteristics and describe a practical approach for achieving them via model approximations that decompose the deep networks across their input and across their training sets, using dense representation matching as the bridge. We further introduce the term Decomposable Model Approximations for Data-Mediated AI (DMA^2) to encapsulate these ideas.  -->
 
 ## Technical Reports 
 
@@ -391,6 +409,11 @@ April 2025
 
 
 ### Calibration
+
+**Similarity-Distance-Magnitude Universal Verification** \
+*Allen Schmaltz* \
+arXiv 2025. [[Paper](https://arxiv.org/pdf/2502.20167)] [[Github](https://github.com/ReexpressAI/sdm)] \
+27 Feb 2025
 
 **Calibrating Large Language Models Using Their Generations Only** \
 *Dennis Ulmer, Martin Gubri, Hwaran Lee, Sangdoo Yun, Seong Joon Oh* \
