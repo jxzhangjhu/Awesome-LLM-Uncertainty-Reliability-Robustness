@@ -260,6 +260,11 @@ ACL 2020. [[Paper](https://arxiv.org/abs/2005.04118)][[Github](https://github.co
 
 ### Uncertainty Estimation
 
+**DRIFT: Detecting Representational Inconsistencies for Factual Truthfulness** \
+*Rohan Bhatnagar, Youran Sun, Chi Andrew Zhang, Yixin Wen, Haizhao Yang* \
+arXiv 2026. [[Paper](https://arxiv.org/abs/2601.14210)] \
+24 Jan 2026
+
 **BLoB: Bayesian Low-Rank Adaptation by Backpropagation for Large Language Models** \
 *Yibin Wang, Haizhou Shi, Ligong Han, Dimitris Metaxas, Hao Wang* \
 arXiv 2024. [[Paper](https://arxiv.org/pdf/2406.11675)] \
@@ -685,6 +690,11 @@ COLING 2020. [[Paper](https://arxiv.org/abs/2012.02462)] \
 
 ### Hallucination
 > [awesome hallucination detection](https://github.com/EdinburghNLP/awesome-hallucination-detection)
+
+**DRIFT: Detecting Representational Inconsistencies for Factual Truthfulness** \
+*Rohan Bhatnagar, Youran Sun, Chi Andrew Zhang, Yixin Wen, Haizhao Yang* \
+arXiv 2026. [[Paper](https://arxiv.org/abs/2601.14210)] \
+24 Jan 2026
 
 **HallusionBench: An Advanced Diagnostic Suite for Entangled Language Hallucination and Visual Illusion in Large Vision-Language Models** \
 *Tianrui Guan\*, Fuxiao Liu\*, Xiyang Wu, Ruiqi Xian, Zongxia Li, Xiaoyu Liu, Xijun Wang, Lichang Chen, Furong Huang, Yaser Yacoob, Dinesh Manocha, Tianyi Zhou* \
