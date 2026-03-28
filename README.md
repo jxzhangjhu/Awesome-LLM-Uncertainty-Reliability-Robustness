@@ -1111,6 +1111,11 @@ arXiv 2022. [[Paper](https://arxiv.org/abs/2211.03154)] \
 
 ### Adversarial 
 
+**Internal Safety Collapse in Frontier Large Language Models** \
+*Yutao Wu, Jie Zhang, Tianwei Zhang, Xingjun Ma* \
+arXiv 2026. [[Paper](https://arxiv.org/abs/2603.23509)][[Github](https://github.com/wuyoscar/ISC-Bench)] \
+4 Mar 2026
+
 **PEARL: Towards Permutation-Resilient LLMs** \
 *Liang Chen, Li Shen, Yang Deng, Xiaoyan Zhao, Bin Liang, Kam-Fai Wong* \
 ICLR 2025. [[Paper](https://openreview.net/pdf?id=txoJvjfI9w)][[Github](https://github.com/ChanLiang/PEARL)] \
