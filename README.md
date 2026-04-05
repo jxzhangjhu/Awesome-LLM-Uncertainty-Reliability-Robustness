@@ -1121,6 +1121,11 @@ arXiv 2026. [[Paper](https://arxiv.org/abs/2603.23509)][[Github](https://github.
 ICLR 2025. [[Paper](https://openreview.net/pdf?id=txoJvjfI9w)][[Github](https://github.com/ChanLiang/PEARL)] \
 27 Feb 2025
 
+**Jailbreaking LLMs' Safeguard with Universal Magic Words for Text Embedding Models** \
+*Haoyu Liang, Youran Sun, Yunfeng Cai, Jun Zhu, Bo Zhang* \
+arXiv 2025. [[Paper](https://arxiv.org/abs/2501.18280)] \
+23 Jan 2025
+
 **Adversarial Attacks on LLMs** \
 *Lilian Weng*
 [[Blog](https://lilianweng.github.io/posts/2023-10-25-adv-attack-llm/)] \
