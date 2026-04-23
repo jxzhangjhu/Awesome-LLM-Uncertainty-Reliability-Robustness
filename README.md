@@ -691,6 +691,10 @@ COLING 2020. [[Paper](https://arxiv.org/abs/2012.02462)] \
 ### Hallucination
 > [awesome hallucination detection](https://github.com/EdinburghNLP/awesome-hallucination-detection)
 
+**Cognometry v0: 8-Benchmark Cross-Validated Hallucination Detection in Production LLMs** \
+Introduces *cognometry* — the empirical measurement of cognitive states in LLMs. 9-signal pooled LR (text, entity, knowledge grounding, 4 response-novelty variants, NLI contradiction via DeBERTa-v3-base-mnli) cross-validated on 8 benchmarks (HaluEval QA/Dialog/Summ, TruthfulQA, HaluBench DROP/PubMedQA/FinanceBench/RAGTruth). AUC 0.998 on HaluEval-QA; two below-chance results (DROP, FinanceBench) declared as published failure modes in the weights module. \
+[[Paper](https://doi.org/10.5281/zenodo.19703527)] [[Code](https://github.com/fathom-lab/styxx)] [[Manifesto](https://fathom.darkflobi.com/cognometry)]
+
 **DRIFT: Detecting Representational Inconsistencies for Factual Truthfulness** \
 *Rohan Bhatnagar, Youran Sun, Chi Andrew Zhang, Yixin Wen, Haizhao Yang* \
 arXiv 2026. [[Paper](https://arxiv.org/abs/2601.14210)] \
