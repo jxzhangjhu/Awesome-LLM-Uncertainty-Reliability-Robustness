@@ -29,6 +29,7 @@ This repository, called **UR2-LLMs** contains a collection of resources and pape
     - [Active Learning](#active-learning)
   - [Reliability](#reliability)
     - [Hallucination](#hallucination)
+    - [Mechanistic Interpretability](#mechanistic-interpretability)
     - [Truthfulness](#truthfulness)
     - [Reasoning](#reasoning)
     - [Prompt tuning, optimization and design](#prompt-tuning-optimization-and-design)
@@ -784,6 +785,14 @@ TACL 2022. [[Paper](https://arxiv.org/abs/2204.10757)] \
 *Ziwei Ji, Nayeon Lee, Rita Frieske, Tiezheng Yu, Dan Su, Yan Xu, Etsuko Ishii, Yejin Bang, Wenliang Dai, Andrea Madotto, Pascale Fung* \
 arXiv 2022. [[Paper](https://arxiv.org/abs/2202.03629)] \
 8 Feb 2022
+
+
+### Mechanistic Interpretability
+
+**FG-TRACER: Tracing Information Flow in Multimodal Large Language Models in Free-Form Generation** \
+*Alessia Saporita, Vittorio Pipoli, Federico Bolelli, Lorenzo Baraldi, Andrea Acquaviva, Elisa Ficarra* \
+WACV 2026. [[Paper](https://iris.unimore.it/handle/11380/1390068)] [[Github](https://github.com/aimagelab/FG-TRACER)] \
+Introduces a mechanistic interpretability framework for tracing cross-modal information flow between visual and textual modalities in MLLMs during free-form generation, leveraging attention masking interventions and a novel stable formulation for quantifying information flow.
 
 
 ### Truthfulness 
