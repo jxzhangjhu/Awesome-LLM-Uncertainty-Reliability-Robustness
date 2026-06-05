@@ -416,6 +416,11 @@ April 2025
 
 ### Calibration
 
+**REFUTE: Reasoning Over Evidence — scientific critique & epistemic calibration** \
+*BGPT* \
+HF 2026. [[Technical report](https://huggingface.co/datasets/BGPT-OFFICIAL/refute/blob/main/TECHNICAL_REPORT.md)][[Dataset](https://huggingface.co/datasets/BGPT-OFFICIAL/refute)][[Leaderboard](https://huggingface.co/spaces/BGPT-OFFICIAL/refute-leaderboard)] \
+Jun 2026
+
 **Similarity-Distance-Magnitude Universal Verification** \
 *Allen Schmaltz* \
 arXiv 2025. [[Paper](https://arxiv.org/pdf/2502.20167)] [[Github](https://github.com/ReexpressAI/sdm)] \
