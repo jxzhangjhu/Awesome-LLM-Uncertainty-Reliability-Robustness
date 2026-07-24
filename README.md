@@ -418,8 +418,8 @@ April 2025
 
 **REFUTE: Reasoning Over Evidence — scientific critique & epistemic calibration** \
 *BGPT* \
-HF 2026. [[Technical report](https://huggingface.co/datasets/BGPT-OFFICIAL/refute/blob/main/TECHNICAL_REPORT.md)][[Dataset](https://huggingface.co/datasets/BGPT-OFFICIAL/refute)][[Leaderboard](https://huggingface.co/spaces/BGPT-OFFICIAL/refute-leaderboard)] \
-Jun 2026
+2026. [[Site](https://bgpt.pro/refute)][[Dataset](https://huggingface.co/datasets/BGPT-OFFICIAL/refute)][[Leaderboard](https://huggingface.co/spaces/BGPT-OFFICIAL/refute-leaderboard)][[Preprint package](https://github.com/connerlambden/refute-inspect/releases/tag/v3.0.0-preprint)] \
+Jul 2026
 
 **Similarity-Distance-Magnitude Universal Verification** \
 *Allen Schmaltz* \
