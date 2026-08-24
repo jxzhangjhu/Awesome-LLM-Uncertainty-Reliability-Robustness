@@ -261,6 +261,11 @@ ACL 2020. [[Paper](https://arxiv.org/abs/2005.04118)][[Github](https://github.co
 
 ### Uncertainty Estimation
 
+**Efficient Self-Evaluation for Diffusion Language Models via Sequence Regeneration** \
+*Linhao Zhong, Linyu Wu, Wen Wang, Yuling Xi, Chenchen Jing, Jiaheng Zhang, Hao Chen, Chunhua Shen* \
+ACL 2026. [[Paper](https://aclanthology.org/2026.acl-long.298/)] \
+3 Mar 2026
+
 **DRIFT: Detecting Representational Inconsistencies for Factual Truthfulness** \
 *Rohan Bhatnagar, Youran Sun, Chi Andrew Zhang, Yixin Wen, Haizhao Yang* \
 arXiv 2026. [[Paper](https://arxiv.org/abs/2601.14210)] \
@@ -1241,4 +1246,3 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2303.13217)] [[Github](https://github
  -->
  <!-- - [Sebastian Farquhar](https://sebastianfarquhar.com/): Deepmind, Oxford  -->
  <!-- [Elias Stengel-Eskin](https://esteng.github.io/) -->
-
