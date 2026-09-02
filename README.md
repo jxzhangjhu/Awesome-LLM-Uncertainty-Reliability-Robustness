@@ -416,6 +416,11 @@ April 2025
 
 ### Calibration
 
+**Fabrication on absent fields: a pre-registered six-arm document-extraction bake-off** \
+*Velrim* \
+Zenodo 2026. [[Article](https://velrim.com/research/fabrication-on-absent-fields)] [[Code](https://github.com/velrimhq/velrim-eval)] [[DOI](https://doi.org/10.5281/zenodo.22233430)] \
+Sep 2026
+
 **REFUTE: Reasoning Over Evidence — scientific critique & epistemic calibration** \
 *BGPT* \
 HF 2026. [[Technical report](https://huggingface.co/datasets/BGPT-OFFICIAL/refute/blob/main/TECHNICAL_REPORT.md)][[Dataset](https://huggingface.co/datasets/BGPT-OFFICIAL/refute)][[Leaderboard](https://huggingface.co/spaces/BGPT-OFFICIAL/refute-leaderboard)] \
