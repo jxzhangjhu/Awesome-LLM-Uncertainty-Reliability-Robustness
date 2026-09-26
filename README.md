@@ -176,6 +176,12 @@ COLLING 2022. [[Website](https://sites.google.com/view/uncertainty-nlp)]
 
 ## Evaluation & Survey
 
+**AI data agent reliability tests** \
+*AI Analyst Lab, Shane Butler* \
+Logs, prompts and synthetic data showing fresh ChatGPT and Claude Code sessions choosing different metric definitions for the same data question. \
+GitHub 2026. [[Github](https://github.com/ai-analyst-lab/ai-data-agent-reliability-tests)] \
+Sep 2026
+
 **Wider and Deeper LLM Networks are Fairer LLM Evaluators** \
 *Xinghua Zhang, Bowen Yu, Haiyang Yu, Yangyu Lv, Tingwen Liu, Fei Huang, Hongbo Xu, Yongbin Li* \
 arXiv 2023. [[Paper](https://aps.arxiv.org/abs/2308.01862)][[Github](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/WideDeep)] \
