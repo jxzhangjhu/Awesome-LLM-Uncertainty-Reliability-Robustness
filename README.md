@@ -427,6 +427,11 @@ April 2025
 HF 2026. [[Technical report](https://huggingface.co/datasets/BGPT-OFFICIAL/refute/blob/main/TECHNICAL_REPORT.md)][[Dataset](https://huggingface.co/datasets/BGPT-OFFICIAL/refute)][[Leaderboard](https://huggingface.co/spaces/BGPT-OFFICIAL/refute-leaderboard)] \
 Jun 2026
 
+**The Asymmetric Burden of Proof: LLMs Show a Null-Result Asymmetry in a Matched-Vignette Benchmark** \
+*Rolando Bosch* \
+Working paper 2026. [[Paper](https://doi.org/10.5281/zenodo.18867693)] \
+4 Mar 2026
+
 **Similarity-Distance-Magnitude Universal Verification** \
 *Allen Schmaltz* \
 arXiv 2025. [[Paper](https://arxiv.org/pdf/2502.20167)] [[Github](https://github.com/ReexpressAI/sdm)] \
@@ -1247,4 +1252,3 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2303.13217)] [[Github](https://github
  -->
  <!-- - [Sebastian Farquhar](https://sebastianfarquhar.com/): Deepmind, Oxford  -->
  <!-- [Elias Stengel-Eskin](https://esteng.github.io/) -->
-
