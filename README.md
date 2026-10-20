@@ -182,6 +182,11 @@ Logs, prompts and synthetic data showing fresh ChatGPT and Claude Code sessions 
 GitHub 2026. [[Github](https://github.com/ai-analyst-lab/ai-data-agent-reliability-tests)] \
 Sep 2026
 
+**Don't Pass@k: A Bayesian Framework for Large Language Model Evaluation** \
+*Mohsen Hariri, Amirhossein Samandar, Michael Hinczewski, Vipin Chaudhary* \
+ICLR 2026. [[Paper](https://arxiv.org/abs/2510.04265)][[Github](https://github.com/mohsenhariri/scorio)] \
+5 Oct 2025
+
 **Wider and Deeper LLM Networks are Fairer LLM Evaluators** \
 *Xinghua Zhang, Bowen Yu, Haiyang Yu, Yangyu Lv, Tingwen Liu, Fei Huang, Hongbo Xu, Yongbin Li* \
 arXiv 2023. [[Paper](https://aps.arxiv.org/abs/2308.01862)][[Github](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/WideDeep)] \
