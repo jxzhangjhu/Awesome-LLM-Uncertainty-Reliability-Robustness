@@ -727,6 +727,11 @@ COLING 2020. [[Paper](https://arxiv.org/abs/2012.02462)] \
 Introduces *cognometry* — the empirical measurement of cognitive states in LLMs. 9-signal pooled LR (text, entity, knowledge grounding, 4 response-novelty variants, NLI contradiction via DeBERTa-v3-base-mnli) cross-validated on 8 benchmarks (HaluEval QA/Dialog/Summ, TruthfulQA, HaluBench DROP/PubMedQA/FinanceBench/RAGTruth). AUC 0.998 on HaluEval-QA; two below-chance results (DROP, FinanceBench) declared as published failure modes in the weights module. \
 [[Paper](https://doi.org/10.5281/zenodo.19703527)] [[Code](https://github.com/fathom-lab/styxx)] [[Manifesto](https://fathom.darkflobi.com/cognometry)]
 
+**SPARK: Adaptive Parametric Knowledge Participation for Faithful Retrieval-Augmented Generation** \
+*Ruochang Li, Pengcheng Huang, Zhenghao Liu, Yukun Yan, Huiyuan Xie, Yu Gu, Ge Yu, Maosong Sun* \
+arXiv 2026. [[Paper](https://arxiv.org/abs/2606.27786)][[Github](https://github.com/OpenBMB/SHIFT)] \
+26 Jun 2026
+
 **DRIFT: Detecting Representational Inconsistencies for Factual Truthfulness** \
 *Rohan Bhatnagar, Youran Sun, Chi Andrew Zhang, Yixin Wen, Haizhao Yang* \
 arXiv 2026. [[Paper](https://arxiv.org/abs/2601.14210)] \
@@ -736,6 +741,11 @@ arXiv 2026. [[Paper](https://arxiv.org/abs/2601.14210)] \
 *Dehai Min, Kailin Zhang, Tongtong Wu, Lu Cheng* \
 ACL Findings 2026. [[Paper](https://arxiv.org/abs/2512.19134)][[Github](https://github.com/ZhishanQ/QuCo-RAG)] \
 22 Dec 2025
+
+**ParamMute: Suppressing Knowledge-Critical FFNs for Faithful Retrieval-Augmented Generation** \
+*Pengcheng Huang, Zhenghao Liu, Yukun Yan, Haiyan Zhao, Xiaoyuan Yi, Hao Chen, Zhiyuan Liu, Maosong Sun, Tong Xiao, Ge Yu, Chenyan Xiong* \
+NeurIPS 2025. [[Paper](https://arxiv.org/abs/2502.15543)][[Github](https://github.com/OpenBMB/ParamMute)] \
+21 Feb 2025
 
 **HallusionBench: An Advanced Diagnostic Suite for Entangled Language Hallucination and Visual Illusion in Large Vision-Language Models** \
 *Tianrui Guan\*, Fuxiao Liu\*, Xiyang Wu, Ruiqi Xian, Zongxia Li, Xiaoyu Liu, Xijun Wang, Lichang Chen, Furong Huang, Yaser Yacoob, Dinesh Manocha, Tianyi Zhou* \
