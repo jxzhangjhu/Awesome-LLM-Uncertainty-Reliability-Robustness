@@ -1133,6 +1133,10 @@ arXiv 2024. [[Paper](https://arxiv.org/abs/2403.12776)] \
 ## Robustness
 ### Invariance 
 
+**Consistency Is Not Understanding: Orbit Audits for Neural Field Weight Readers** \
+*Sungguk Cha, Mintae Kim, Youngsub Han, Byoung-Ki Jeon, Sangyeob Lee* \
+arXiv 2026. [[Paper](https://arxiv.org/abs/2611.05798)] \
+4 Nov 2026
 **Invariant Language Modeling** \ 
 *Maxime Peyrard, Sarvjeet Singh Ghotra, Martin Josifoski, Vidhan Agarwal, Barun Patra, Dean Carignan, Emre Kiciman, Robert West* \
 EMNLP 2022. [[Paper](https://arxiv.org/abs/2110.08413)][[Github](https://github.com/epfl-dlab/invariant-language-models)] \
