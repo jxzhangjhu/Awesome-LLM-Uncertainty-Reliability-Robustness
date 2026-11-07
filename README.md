@@ -729,7 +729,7 @@ Introduces *cognometry* — the empirical measurement of cognitive states in LLM
 
 **SPARK: Adaptive Parametric Knowledge Participation for Faithful Retrieval-Augmented Generation** \
 *Ruochang Li, Pengcheng Huang, Zhenghao Liu, Yukun Yan, Huiyuan Xie, Yu Gu, Ge Yu, Maosong Sun* \
-arXiv 2026. [[Paper](https://arxiv.org/abs/2606.27786)][[Github](https://github.com/OpenBMB/SHIFT)] \
+arXiv 2026. [[Paper](https://arxiv.org/abs/2606.27786)][[Github](https://github.com/OpenBMB/SPARK)] \
 26 Jun 2026
 
 **DRIFT: Detecting Representational Inconsistencies for Factual Truthfulness** \
@@ -1084,6 +1084,11 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2302.14691)][[Github](https://github.
 
 
 ### Tools and external APIs
+
+**Teaching LLMs to Learn Tool Trialing and Execution through Environment Interaction** \
+*Xingjie Gao, Pengcheng Huang, Zhenghao Liu, Yukun Yan, Shuo Wang, Zulong Chen, Chen Qian, Ge Yu, Yu Gu* \
+arXiv 2026. [[Paper](https://arxiv.org/abs/2601.12762)][[Github](https://github.com/NEUIR/ToolMaster)] \
+19 Jan 2026 
 
 **Internet-augmented language models through few-shot prompting for open-domain question answering**  \
 *Angeliki Lazaridou, Elena Gribovskaya, Wojciech Stokowiec, Nikolai Grigorev* \
