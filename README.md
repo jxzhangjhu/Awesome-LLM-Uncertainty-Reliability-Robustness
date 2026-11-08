@@ -272,6 +272,11 @@ ACL 2020. [[Paper](https://arxiv.org/abs/2005.04118)][[Github](https://github.co
 
 ### Uncertainty Estimation
 
+**Teaching LLMs to Recommend and Defer in Underrepresented Epilepsy Care** \
+*Shreyas Rajesh, Kartik Sharma, Tonmoy Monsoor, Mehmet Yigit Turali, Richard Idro, Juliana Kayaga, Robert Sebunya, Tracy Tushabe Namata, Jessica Nichole Pasqua, Vwani Roychowdhury, Rajarshi Mazumder* \
+NeurIPS 2026. [[Paper](https://arxiv.org/abs/2606.31036)] [[Github](https://github.com/roychowdhuryresearch/Manana)] [[Project](https://roychowdhuryresearch.github.io/MANANA_Project_Page/)] \
+30 Jun 2026
+
 **Efficient Self-Evaluation for Diffusion Language Models via Sequence Regeneration** \
 *Linhao Zhong, Linyu Wu, Wen Wang, Yuling Xi, Chenchen Jing, Jiaheng Zhang, Hao Chen, Chunhua Shen* \
 ACL 2026. [[Paper](https://aclanthology.org/2026.acl-long.298/)] \
